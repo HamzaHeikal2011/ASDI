@@ -1,0 +1,2696 @@
+4 	Y: -1.64 	Z: -0.52 radians/si X: -7.05 	Y: -0.32 	Z: 5.64 m/s^2 
+		GYRO X: 0.00 	Y: -ð717
+		A:-7.04, B:-0.34, C:5.66, D:0.00, E:-0.03, F:-0.00
+
+
+		ACCEL X: -7.05 	Y: -0.32 	Z: 5.64 m/s^2 
+		GYRO X: 0.00 	Y: -ðAdafruit MPU6050 test!
+MPU6050 Found!
+------------------------------------
+Sensor:       MPU6050_A
+Type:         Acceleration (m/s2)
+Driver Ver:   1
+Unique ID:    1617
+Min Value:    -156.91
+Max Value:    156.91
+Resolution:   0.06
+------------------------------------
+
+------------------------------------
+Sensor:       MPU6050_G
+Type:         Gyroscopic (rad/s)
+Driver Ver:   1
+Unique ID:    1618
+Min Value:    -34.91
+Max Value:    34.91
+Resolution:   0.00
+------------------------------------
+
+		ACCEL X: -7.07 	Y: -0.31 	Z: 5.64 m/s^2 
+		GYRO X: 0.00 	Y: -0.04 	Z: 0.00 radians/s 
+ 		FINGERS: Thumb: 557	Pointer: 498	Middle: 462	Ring: 444	Pinkie: 717
+		A:-7.07, B:-0.31, C:5.64, D:0.00, E:-0.04, F:0.00
+
+
+		ACCEL X: -7.06 	Y: -0.28 	Z: 5.60 m/s^2 
+		GYRO X: -0.00 	Y: -0.03 	Z: -0.00 radians/s 
+ 		FINGERS: Thumb: 657	Pointer: 600	Middle: 550	Ring: 510	Pinkie: 717
+		A:-7.06, B:-0.28, C:5.60, D:-0.00, E:-0.03, F:-0.00
+
+
+		ACCEL X: -7.01 	Y: -0.32 	Z: 5.58 m/s^2 
+		GYRO X: -0.00 	Y: -0.03 	Z: -0.01 radians/s 
+ 		FINGERS: Thumb: 686	Pointer: 647	Middle: 604	Ring: 561	Pinkie: 717
+		A:-7.01, B:-0.32, C:5.58, D:-0.00, E:-0.03, F:-0.01
+
+
+		ACCEL X: -6.99 	Y: -0.33 	Z: 5.64 m/s^2 
+		GYRO X: 0.00 	Y: -0.03 	Z: 0.00 radians/s 
+ 		FINGERS: Thumb: 695	Pointer: 669	Middle: 635	Ring: 596	Pinkie: 716
+		A:-6.99, B:-0.33, C:5.64, D:0.00, E:-0.03, F:0.00
+
+
+		ACCEL X: -6.98 	Y: -0.28 	Z: 5.62 m/s^2 
+		GYRO X: -0.01 	Y: -0.03 	Z: -0.00 radians/s 
+ 		FINGERS: Thumb: 699	Pointer: 679	Middle: 654	Ring: 622	Pinkie: 716
+		A:-6.98, B:-0.28, C:5.62, D:-0.01, E:-0.03, F:-0.00
+
+
+		ACCEL X: -7.07 	Y: -0.31 	Z: 5.65 m/s^2 
+		GYRO X: 0.00 	Y: -0.03 	Z: -0.00 radians/s 
+ 		FINGERS: Thumb: 702	Pointer: 687	Middle: 668	Ring: 643	Pinkie: 716
+		A:-7.07, B:-0.31, C:5.65, D:0.00, E:-0.03, F:-0.00
+
+
+		ACCEL X: -7.02 	Y: -0.33 	Z: 5.66 m/s^2 
+		GYRO X: 0.01 	Y: -0.04 	Z: 0.00 radians/s 
+ 		FINGERS: Thumb: 705	Pointer: 693	Middle: 678	Ring: 659	Pinkie: 716
+		A:-7.02, B:-0.33, C:5.66, D:0.01, E:-0.04, F:0.00
+
+
+		ACCEL X: -7.01 	Y: -0.35 	Z: 5.61 m/s^2 
+		GYRO X: -0.01 	Y: -0.03 	Z: -0.00 radians/s 
+ 		FINGERS: Thumb: 717	Pointer: 714	Middle: 706	Ring: 693	Pinkie: 716
+		A:-7.01, B:-0.35, C:5.61, D:-0.01, E:-0.03, F:-0.00
+
+
+		ACCEL X: -7.06 	Y: -0.35 	Z: 5.68 m/s^2 
+		GYRO X: 0.00 	Y: -0.03 	Z: -0.00 radians/s 
+ 		FINGERS: Thumb: 719	Pointer: 719	Middle: 718	Ring: 712	Pinkie: 717
+		A:-7.06, B:-0.35, C:5.68, D:0.00, E:-0.03, F:-0.00
+
+
+		ACCEL X: -7.04 	Y: -0.30 	Z: 5.64 m/s^2 
+		GYRO X: -0.00 	Y: -0.03 	Z: -0.00 radians/s 
+ 		FINGERS: Thumb: 715	Pointer: 715	Middle: 715	Ring: 714	Pinkie: 717
+		A:-7.04, B:-0.30, C:5.64, D:-0.00, E:-0.03, F:-0.00
+
+
+		ACCEL X: -7.02 	Y: -0.30 	Z: 5.64 m/s^2 
+		GYRO X: 0.00 	Y: -0.03 	Z: -0.00 radians/s 
+ 		FINGERS: Thumb: 709	Pointer: 703	Middle: 701	Ring: 699	Pinkie: 717
+		A:-7.02, B:-0.30, C:5.64, D:0.00, E:-0.03, F:-0.00
+
+
+		ACCEL X: -7.01 	Y: -0.37 	Z: 5.61 m/s^2 
+		GYRO X: -0.01 	Y: -0.03 	Z: -0.00 radians/s 
+ 		FINGERS: Thumb: 698	Pointer: 684	Middle: 674	Ring: 667	Pinkie: 716
+		A:-7.01, B:-0.37, C:5.61, D:-0.01, E:-0.03, F:-0.00
+
+
+		ACCEL X: -7.02 	Y: -0.32 	Z: 5.68 m/s^2 
+		GYRO X: 0.01 	Y: -0.04 	Z: 0.01 radians/s 
+ 		FINGERS: Thumb: 701	Pointer: 686	Middle: 672	Ring: 662	Pinkie: 716
+		A:-7.02, B:-0.32, C:5.68, D:0.01, E:-0.04, F:0.01
+
+
+		ACCEL X: -7.07 	Y: -0.31 	Z: 5.62 m/s^2 
+		GYRO X: -0.01 	Y: -0.03 	Z: -0.01 radians/s 
+ 		FINGERS: Thumb: 700	Pointer: 685	Middle: 669	Ring: 656	Pinkie: 716
+		A:-7.07, B:-0.31, C:5.62, D:-0.01, E:-0.03, F:-0.01
+
+
+		ACCEL X: -7.09 	Y: -0.34 	Z: 5.62 m/s^2 
+		GYRO X: 0.01 	Y: -0.04 	Z: 0.01 radians/s 
+ 		FINGERS: Thumb: 704	Pointer: 691	Middle: 677	Ring: 663	Pinkie: 716
+		A:-7.09, B:-0.34, C:5.62, D:0.01, E:-0.04, F:0.01
+
+
+		ACCEL X: -7.07 	Y: -0.31 	Z: 5.61 m/s^2 
+		GYRO X: -0.00 	Y: -0.03 	Z: -0.00 radians/s 
+ 		FINGERS: Thumb: 711	Pointer: 702	Middle: 691	Ring: 678	Pinkie: 716
+		A:-7.07, B:-0.31, C:5.61, D:-0.00, E:-0.03, F:-0.00
+
+
+		ACCEL X: -7.10 	Y: -0.29 	Z: 5.63 m/s^2 
+		GYRO X: -0.00 	Y: -0.03 	Z: -0.00 radians/s 
+ 		FINGERS: Thumb: 719	Pointer: 719	Middle: 716	Ring: 708	Pinkie: 716
+		A:-7.10, B:-0.29, C:5.63, D:-0.00, E:-0.03, F:-0.00
+
+
+		ACCEL X: -7.11 	Y: -0.31 	Z: 5.64 m/s^2 
+		GYRO X: 0.01 	Y: -0.03 	Z: 0.00 radians/s 
+ 		FINGERS: Thumb: 717	Pointer: 717	Middle: 717	Ring: 714	Pinkie: 717
+		A:-7.11, B:-0.31, C:5.64, D:0.01, E:-0.03, F:0.00
+
+
+		ACCEL X: -7.07 	Y: -0.35 	Z: 5.57 m/s^2 
+		GYRO X: -0.01 	Y: -0.03 	Z: -0.00 radians/s 
+ 		FINGERS: Thumb: 713	Pointer: 711	Middle: 710	Ring: 710	Pinkie: 717
+		A:-7.07, B:-0.35, C:5.57, D:-0.01, E:-0.03, F:-0.00
+
+
+		ACCEL X: -7.04 	Y: -0.28 	Z: 5.66 m/s^2 
+		GYRO X: 0.00 	Y: -0.03 	Z: 0.00 radians/s 
+ 		FINGERS: Thumb: 703	Pointer: 694	Middle: 688	Ring: 686	Pinkie: 717
+		A:-7.04, B:-0.28, C:5.66, D:0.00, E:-0.03, F:0.00
+
+
+		ACCEL X: -6.94 	Y: -0.32 	Z: 5.70 m/s^2 
+		GYRO X: -0.00 	Y: -0.03 	Z: -0.01 radians/s 
+ 		FINGERS: Thumb: 698	Pointer: 683	Middle: 671	Ring: 662	Pinkie: 716
+		A:-6.94, B:-0.32, C:5.70, D:-0.00, E:-0.03, F:-0.01
+
+
+		ACCEL X: -7.22 	Y: -0.21 	Z: 5.29 m/s^2 
+		GYRO X: 0.04 	Y: -0.06 	Z: -0.02 radians/s 
+ 		FINGERS: Thumb: 700	Pointer: 685	Middle: 670	Ring: 658	Pinkie: 716
+		A:-7.22, B:-0.21, C:5.29, D:0.04, E:-0.06, F:-0.02
+
+
+		ACCEL X: -6.83 	Y: -0.38 	Z: 5.82 m/s^2 
+		GYRO X: -0.05 	Y: -0.02 	Z: -0.00 radians/s 
+ 		FINGERS: Thumb: 702	Pointer: 688	Middle: 672	Ring: 658	Pinkie: 716
+		A:-6.83, B:-0.38, C:5.82, D:-0.05, E:-0.02, F:-0.00
+
+
+		ACCEL X: -7.12 	Y: -0.27 	Z: 5.53 m/s^2 
+		GYRO X: -0.04 	Y: -0.02 	Z: -0.00 radians/s 
+ 		FINGERS: Thumb: 705	Pointer: 692	Middle: 679	Ring: 665	Pinkie: 716
+		A:-7.12, B:-0.27, C:5.53, D:-0.04, E:-0.02, F:-0.00
+
+
+		ACCEL X: -7.05 	Y: -0.16 	Z: 5.46 m/s^2 
+		GYRO X: 0.02 	Y: -0.04 	Z: -0.01 radians/s 
+ 		FINGERS: Thumb: 715	Pointer: 709	Middle: 701	Ring: 689	Pinkie: 716
+		A:-7.05, B:-0.16, C:5.46, D:0.02, E:-0.04, F:-0.01
+
+
+		ACCEL X: -6.88 	Y: -0.27 	Z: 5.91 m/s^2 
+		GYRO X: 0.05 	Y: -0.05 	Z: 0.01 radians/s 
+ 		FINGERS: Thumb: 721	Pointer: 723	Middle: 722	Ring: 717	Pinkie: 717
+		A:-6.88, B:-0.27, C:5.91, D:0.05, E:-0.05, F:0.01
+
+
+		ACCEL X: -7.06 	Y: -0.36 	Z: 5.49 m/s^2 
+		GYRO X: -0.12 	Y: -0.00 	Z: -0.03 radians/s 
+ 		FINGERS: Thumb: 717	Pointer: 719	Middle: 721	Ring: 720	Pinkie: 717
+		A:-7.06, B:-0.36, C:5.49, D:-0.12, E:-0.00, F:-0.03
+
+
+		ACCEL X: -7.05 	Y: -0.30 	Z: 5.60 m/s^2 
+		GYRO X: 0.09 	Y: -0.06 	Z: 0.05 radians/s 
+ 		FINGERS: Thumb: 708	Pointer: 704	Middle: 702	Ring: 702	Pinkie: 717
+		A:-7.05, B:-0.30, C:5.60, D:0.09, E:-0.06, F:0.05
+
+
+		ACCEL X: -6.92 	Y: -0.31 	Z: 5.81 m/s^2 
+		GYRO X: -0.06 	Y: -0.01 	Z: -0.03 radians/s 
+ 		FINGERS: Thumb: 696	Pointer: 681	Middle: 670	Ring: 664	Pinkie: 716
+		A:-6.92, B:-0.31, C:5.81, D:-0.06, E:-0.01, F:-0.03
+
+
+		ACCEL X: -7.08 	Y: -0.31 	Z: 5.56 m/s^2 
+		GYRO X: -0.01 	Y: -0.03 	Z: 0.01 radians/s 
+ 		FINGERS: Thumb: 699	Pointer: 684	Middle: 669	Ring: 658	Pinkie: 716
+		A:-7.08, B:-0.31, C:5.56, D:-0.01, E:-0.03, F:0.01
+
+
+		ACCEL X: -7.02 	Y: -0.28 	Z: 5.58 m/s^2 
+		GYRO X: 0.03 	Y: -0.05 	Z: 0.01 radians/s 
+ 		FINGERS: Thumb: 700	Pointer: 684	Middle: 668	Ring: 653	Pinkie: 716
+		A:-7.02, B:-0.28, C:5.58, D:0.03, E:-0.05, F:0.01
+
+
+		ACCEL X: -7.04 	Y: -0.30 	Z: 5.76 m/s^2 
+		GYRO X: -0.03 	Y: -0.02 	Z: -0.02 radians/s 
+ 		FINGERS: Thumb: 704	Pointer: 691	Middle: 676	Ring: 661	Pinkie: 716
+		A:-7.04, B:-0.30, C:5.76, D:-0.03, E:-0.02, F:-0.02
+
+
+		ACCEL X: -7.07 	Y: -0.28 	Z: 5.63 m/s^2 
+		GYRO X: 0.00 	Y: -0.03 	Z: 0.01 radians/s 
+ 		FINGERS: Thumb: 711	Pointer: 703	Middle: 692	Ring: 679	Pinkie: 716
+		A:-7.07, B:-0.28, C:5.63, D:0.00, E:-0.03, F:0.01
+
+
+		ACCEL X: -7.04 	Y: -0.24 	Z: 5.63 m/s^2 
+		GYRO X: 0.03 	Y: -0.04 	Z: 0.01 radians/s 
+ 		FINGERS: Thumb: 723	Pointer: 725	Middle: 724	Ring: 718	Pinkie: 716
+		A:-7.04, B:-0.24, C:5.63, D:0.03, E:-0.04, F:0.01
+
+
+		ACCEL X: -7.00 	Y: -0.36 	Z: 5.71 m/s^2 
+		GYRO X: -0.04 	Y: -0.02 	Z: -0.02 radians/s 
+ 		FINGERS: Thumb: 719	Pointer: 721	Middle: 723	Ring: 723	Pinkie: 717
+		A:-7.00, B:-0.36, C:5.71, D:-0.04, E:-0.02, F:-0.02
+
+
+		ACCEL X: -7.10 	Y: -0.35 	Z: 5.54 m/s^2 
+		GYRO X: 0.02 	Y: -0.04 	Z: 0.01 radians/s 
+ 		FINGERS: Thumb: 710	Pointer: 708	Middle: 707	Ring: 708	Pinkie: 717
+		A:-7.10, B:-0.35, C:5.54, D:0.02, E:-0.04, F:0.01
+
+
+		ACCEL X: -6.90 	Y: -0.20 	Z: 5.66 m/s^2 
+		GYRO X: -0.02 	Y: -0.04 	Z: 0.00 radians/s 
+ 		FINGERS: Thumb: 697	Pointer: 683	Middle: 673	Ring: 669	Pinkie: 716
+		A:-6.90, B:-0.20, C:5.66, D:-0.02, E:-0.04, F:0.00
+
+
+		ACCEL X: -7.00 	Y: -0.36 	Z: 5.66 m/s^2 
+		GYRO X: -0.02 	Y: -0.02 	Z: -0.01 radians/s 
+ 		FINGERS: Thumb: 699	Pointer: 683	Middle: 669	Ring: 658	Pinkie: 716
+		A:-7.00, B:-0.36, C:5.66, D:-0.02, E:-0.02, F:-0.01
+
+
+		ACCEL X: -7.06 	Y: -0.29 	Z: 5.58 m/s^2 
+		GYRO X: 0.02 	Y: -0.04 	Z: 0.01 radians/s 
+ 		FINGERS: Thumb: 700	Pointer: 685	Middle: 669	Ring: 656	Pinkie: 716
+		A:-7.06, B:-0.29, C:5.58, D:0.02, E:-0.04, F:0.01
+
+
+		ACCEL X: -7.05 	Y: -0.30 	Z: 5.70 m/s^2 
+		GYRO X: 0.01 	Y: -0.04 	Z: -0.00 radians/s 
+ 		FINGERS: Thumb: 703	Pointer: 690	Middle: 675	Ring: 661	Pinkie: 716
+		A:-7.05, B:-0.30, C:5.70, D:0.01, E:-0.04, F:-0.00
+
+
+		ACCEL X: -2.39 	Y: -7.84 	Z: 16.09 m/s^2 
+		GYRO X: -0.14 	Y: -1.51 	Z: 1.79 radians/s 
+ 		FINGERS: Thumb: 710	Pointer: 700	Middle: 688	Ring: 675	Pinkie: 716
+		A:-2.39, B:-7.84, C:16.09, D:-0.14, E:-1.51, F:1.79
+
+
+		ACCEL X: -6.85 	Y: -1.87 	Z: 7.15 m/s^2 
+		GYRO X: -0.71 	Y: -0.05 	Z: 1.44 radians/s 
+ 		FINGERS: Thumb: 720	Pointer: 719	Middle: 715	Ring: 707	Pinkie: 716
+		A:-6.85, B:-1.87, C:7.15, D:-0.71, E:-0.05, F:1.44
+
+
+		ACCEL X: -13.25 	Y: -19.61 	Z: -5.09 m/s^2 
+		GYRO X: -0.47 	Y: 0.01 	Z: 0.52 radians/s 
+ 		FINGERS: Thumb: 719	Pointer: 720	Middle: 721	Ring: 719	Pinkie: 717
+		A:-13.25, B:-19.61, C:-5.09, D:-0.47, E:0.01, F:0.52
+
+
+		ACCEL X: -5.39 	Y: -0.39 	Z: 6.87 m/s^2 
+		GYRO X: -4.37 	Y: 1.95 	Z: 0.17 radians/s 
+ 		FINGERS: Thumb: 714	Pointer: 713	Middle: 713	Ring: 713	Pinkie: 717
+		A:-5.39, B:-0.39, C:6.87, D:-4.37, E:1.95, F:0.17
+
+
+		ACCEL X: 2.23 	Y: -13.32 	Z: 19.61 m/s^2 
+		GYRO X: 4.37 	Y: -0.38 	Z: -2.15 radians/s 
+ 		FINGERS: Thumb: 703	Pointer: 695	Middle: 691	Ring: 689	Pinkie: 717
+		A:2.23, B:-13.32, C:19.61, D:4.37, E:-0.38, F:-2.15
+
+
+		ACCEL X: -17.85 	Y: 0.07 	Z: -0.99 m/s^2 
+		GYRO X: 1.16 	Y: -0.89 	Z: -0.93 radians/s 
+ 		FINGERS: Thumb: 698	Pointer: 683	Middle: 670	Ring: 662	Pinkie: 717
+		A:-17.85, B:0.07, C:-0.99, D:1.16, E:-0.89, F:-0.93
+
+
+		ACCEL X: -6.87 	Y: -1.12 	Z: 7.35 m/s^2 
+		GYRO X: 0.89 	Y: 1.42 	Z: -0.44 radians/s 
+ 		FINGERS: Thumb: 700	Pointer: 685	Middle: 670	Ring: 658	Pinkie: 716
+		A:-6.87, B:-1.12, C:7.35, D:0.89, E:1.42, F:-0.44
+
+
+		ACCEL X: -0.55 	Y: -8.78 	Z: -0.53 m/s^2 
+		GYRO X: -2.95 	Y: 1.22 	Z: -0.56 radians/s 
+ 		FINGERS: Thumb: 701	Pointer: 686	Middle: 670	Ring: 656	Pinkie: 716
+		A:-0.55, B:-8.78, C:-0.53, D:-2.95, E:1.22, F:-0.56
+
+
+		ACCEL X: -16.60 	Y: -13.21 	Z: 9.41 m/s^2 
+		GYRO X: -0.35 	Y: -1.94 	Z: 1.94 radians/s 
+ 		FINGERS: Thumb: 704	Pointer: 692	Middle: 678	Ring: 664	Pinkie: 716
+		A:-16.60, B:-13.21, C:9.41, D:-0.35, E:-1.94, F:1.94
+
+
+		ACCEL X: -8.65 	Y: 0.56 	Z: 7.05 m/s^2 
+		GYRO X: 1.76 	Y: -0.43 	Z: -1.13 radians/s 
+ 		FINGERS: Thumb: 710	Pointer: 702	Middle: 691	Ring: 677	Pinkie: 716
+		A:-8.65, B:0.56, C:7.05, D:1.76, E:-0.43, F:-1.13
+
+
+		ACCEL X: -4.21 	Y: 3.23 	Z: 5.76 m/s^2 
+		GYRO X: 1.02 	Y: -1.60 	Z: -1.06 radians/s 
+ 		FINGERS: Thumb: 723	Pointer: 725	Middle: 724	Ring: 717	Pinkie: 717
+		A:-4.21, B:3.23, C:5.76, D:1.02, E:-1.60, F:-1.06
+
+
+		ACCEL X: -5.44 	Y: 0.80 	Z: 5.69 m/s^2 
+		GYRO X: 0.01 	Y: -1.31 	Z: 0.33 radians/s 
+ 		FINGERS: Thumb: 719	Pointer: 722	Middle: 724	Ring: 723	Pinkie: 717
+		A:-5.44, B:0.80, C:5.69, D:0.01, E:-1.31, F:0.33
+
+
+		ACCEL X: -5.91 	Y: -1.90 	Z: 4.97 m/s^2 
+		GYRO X: -0.06 	Y: -0.81 	Z: 0.46 radians/s 
+ 		FINGERS: Thumb: 709	Pointer: 706	Middle: 705	Ring: 706	Pinkie: 717
+		A:-5.91, B:-1.90, C:4.97, D:-0.06, E:-0.81, F:0.46
+
+
+		ACCEL X: -6.53 	Y: -4.73 	Z: 3.29 m/s^2 
+		GYRO X: -0.38 	Y: 0.30 	Z: -0.61 radians/s 
+ 		FINGERS: Thumb: 697	Pointer: 683	Middle: 673	Ring: 667	Pinkie: 716
+		A:-6.53, B:-4.73, C:3.29, D:-0.38, E:0.30, F:-0.61
+
+
+		ACCEL X: -3.57 	Y: -1.22 	Z: 5.50 m/s^2 
+		GYRO X: -1.82 	Y: 1.62 	Z: -3.49 radians/s 
+ 		FINGERS: Thumb: 699	Pointer: 683	Middle: 669	Ring: 658	Pinkie: 716
+		A:-3.57, B:-1.22, C:5.50, D:-1.82, E:1.62, F:-3.49
+
+
+		ACCEL X: -8.29 	Y: 6.42 	Z: 19.61 m/s^2 
+		GYRO X: -4.37 	Y: 1.33 	Z: -4.37 radians/s 
+ 		FINGERS: Thumb: 701	Pointer: 685	Middle: 669	Ring: 655	Pinkie: 716
+		A:-8.29, B:6.42, C:19.61, D:-4.37, E:1.33, F:-4.37
+
+
+		ACCEL X: -5.87 	Y: 2.36 	Z: 7.61 m/s^2 
+		GYRO X: -0.71 	Y: -3.51 	Z: 0.64 radians/s 
+ 		FINGERS: Thumb: 704	Pointer: 691	Middle: 677	Ring: 663	Pinkie: 716
+		A:-5.87, B:2.36, C:7.61, D:-0.71, E:-3.51, F:0.64
+
+
+		ACCEL X: -3.33 	Y: -4.64 	Z: 1.65 m/s^2 
+		GYRO X: -0.68 	Y: -2.16 	Z: -0.10 radians/s 
+ 		FINGERS: Thumb: 714	Pointer: 707	Middle: 697	Ring: 684	Pinkie: 716
+		A:-3.33, B:-4.64, C:1.65, D:-0.68, E:-2.16, F:-0.10
+
+
+		ACCEL X: -5.71 	Y: -10.24 	Z: -2.09 m/s^2 
+		GYRO X: 4.37 	Y: -1.18 	Z: 1.24 radians/s 
+ 		FINGERS: Thumb: 721	Pointer: 722	Middle: 720	Ring: 714	Pinkie: 717
+		A:-5.71, B:-10.24, C:-2.09, D:4.37, E:-1.18, F:1.24
+
+
+		ACCEL X: -4.61 	Y: -7.09 	Z: 1.17 m/s^2 
+		GYRO X: 1.01 	Y: 1.25 	Z: -0.83 radians/s 
+ 		FINGERS: Thumb: 717	Pointer: 718	Middle: 718	Ring: 717	Pinkie: 717
+		A:-4.61, B:-7.09, C:1.17, D:1.01, E:1.25, F:-0.83
+
+
+		ACCEL X: -3.91 	Y: 2.38 	Z: 11.62 m/s^2 
+		GYRO X: -2.02 	Y: 2.03 	Z: -2.18 radians/s 
+ 		FINGERS: Thumb: 711	Pointer: 709	Middle: 708	Ring: 708	Pinkie: 717
+		A:-3.91, B:2.38, C:11.62, D:-2.02, E:2.03, F:-2.18
+
+
+		ACCEL X: -7.06 	Y: 5.64 	Z: 19.61 m/s^2 
+		GYRO X: -1.07 	Y: 0.11 	Z: -0.33 radians/s 
+ 		FINGERS: Thumb: 699	Pointer: 687	Middle: 680	Ring: 676	Pinkie: 717
+		A:-7.06, B:5.64, C:19.61, D:-1.07, E:0.11, F:-0.33
+
+
+		ACCEL X: -4.41 	Y: 1.51 	Z: 9.39 m/s^2 
+		GYRO X: 0.63 	Y: -1.20 	Z: 1.15 radians/s 
+ 		FINGERS: Thumb: 700	Pointer: 684	Middle: 671	Ring: 662	Pinkie: 716
+		A:-4.41, B:1.51, C:9.39, D:0.63, E:-1.20, F:1.15
+
+
+		ACCEL X: -2.99 	Y: -2.88 	Z: 4.85 m/s^2 
+		GYRO X: 0.35 	Y: -2.89 	Z: 0.79 radians/s 
+ 		FINGERS: Thumb: 699	Pointer: 682	Middle: 666	Ring: 653	Pinkie: 716
+		A:-2.99, B:-2.88, C:4.85, D:0.35, E:-2.89, F:0.79
+
+
+		ACCEL X: -5.44 	Y: -9.94 	Z: -3.68 m/s^2 
+		GYRO X: 3.49 	Y: -2.10 	Z: 1.30 radians/s 
+ 		FINGERS: Thumb: 703	Pointer: 689	Middle: 674	Ring: 659	Pinkie: 716
+		A:-5.44, B:-9.94, C:-3.68, D:3.49, E:-2.10, F:1.30
+
+
+		ACCEL X: -7.11 	Y: -11.10 	Z: 0.25 m/s^2 
+		GYRO X: 2.33 	Y: 0.35 	Z: 0.36 radians/s 
+ 		FINGERS: Thumb: 712	Pointer: 704	Middle: 693	Ring: 680	Pinkie: 716
+		A:-7.11, B:-11.10, C:0.25, D:2.33, E:0.35, F:0.36
+
+
+		ACCEL X: -1.66 	Y: -4.64 	Z: 3.79 m/s^2 
+		GYRO X: -0.85 	Y: 2.77 	Z: -1.83 radians/s 
+ 		FINGERS: Thumb: 722	Pointer: 723	Middle: 721	Ring: 714	Pinkie: 717
+		A:-1.66, B:-4.64, C:3.79, D:-0.85, E:2.77, F:-1.83
+
+
+		ACCEL X: -4.19 	Y: 7.04 	Z: 17.02 m/s^2 
+		GYRO X: -2.89 	Y: 1.61 	Z: -2.32 radians/s 
+ 		FINGERS: Thumb: 718	Pointer: 720	Middle: 720	Ring: 719	Pinkie: 717
+		A:-4.19, B:7.04, C:17.02, D:-2.89, E:1.61, F:-2.32
+
+
+		ACCEL X: -6.12 	Y: 6.41 	Z: 17.12 m/s^2 
+		GYRO X: 1.36 	Y: -0.28 	Z: 0.28 radians/s 
+ 		FINGERS: Thumb: 710	Pointer: 707	Middle: 706	Ring: 706	Pinkie: 717
+		A:-6.12, B:6.41, C:17.12, D:1.36, E:-0.28, F:0.28
+
+
+		ACCEL X: -3.97 	Y: 3.52 	Z: 10.08 m/s^2 
+		GYRO X: -0.22 	Y: -1.19 	Z: 0.68 radians/s 
+ 		FINGERS: Thumb: 698	Pointer: 685	Middle: 675	Ring: 670	Pinkie: 716
+		A:-3.97, B:3.52, C:10.08, D:-0.22, E:-1.19, F:0.68
+
+
+		ACCEL X: -2.81 	Y: -1.60 	Z: 5.53 m/s^2 
+		GYRO X: -0.26 	Y: -2.79 	Z: 1.05 radians/s 
+ 		FINGERS: Thumb: 700	Pointer: 685	Middle: 671	Ring: 662	Pinkie: 716
+		A:-2.81, B:-1.60, C:5.53, D:-0.26, E:-2.79, F:1.05
+
+
+		ACCEL X: -5.56 	Y: -8.63 	Z: 1.57 m/s^2 
+		GYRO X: 3.38 	Y: -1.74 	Z: 1.59 radians/s 
+ 		FINGERS: Thumb: 700	Pointer: 684	Middle: 669	Ring: 656	Pinkie: 716
+		A:-5.56, B:-8.63, C:1.57, D:3.38, E:-1.74, F:1.59
+
+
+		ACCEL X: -6.21 	Y: -11.87 	Z: 2.87 m/s^2 
+		GYRO X: 2.21 	Y: 0.24 	Z: 0.31 radians/s 
+ 		FINGERS: Thumb: 703	Pointer: 690	Middle: 676	Ring: 662	Pinkie: 716
+		A:-6.21, B:-11.87, C:2.87, D:2.21, E:0.24, F:0.31
+
+
+		ACCEL X: -2.77 	Y: -4.33 	Z: 8.44 m/s^2 
+		GYRO X: 1.19 	Y: 0.76 	Z: -1.25 radians/s 
+ 		FINGERS: Thumb: 714	Pointer: 707	Middle: 697	Ring: 685	Pinkie: 716
+		A:-2.77, B:-4.33, C:8.44, D:1.19, E:0.76, F:-1.25
+
+
+		ACCEL X: -2.31 	Y: 6.34 	Z: 10.04 m/s^2 
+		GYRO X: 1.36 	Y: 0.56 	Z: -0.85 radians/s 
+ 		FINGERS: Thumb: 721	Pointer: 723	Middle: 721	Ring: 715	Pinkie: 717
+		A:-2.31, B:6.34, C:10.04, D:1.36, E:0.56, F:-0.85
+
+
+		ACCEL X: -3.20 	Y: 12.32 	Z: 14.22 m/s^2 
+		GYRO X: -0.43 	Y: -0.05 	Z: -0.37 radians/s 
+ 		FINGERS: Thumb: 718	Pointer: 720	Middle: 721	Ring: 720	Pinkie: 717
+		A:-3.20, B:12.32, C:14.22, D:-0.43, E:-0.05, F:-0.37
+
+
+		ACCEL X: -2.94 	Y: 9.54 	Z: 10.17 m/s^2 
+		GYRO X: 2.10 	Y: -0.80 	Z: 0.82 radians/s 
+ 		FINGERS: Thumb: 709	Pointer: 706	Middle: 705	Ring: 705	Pinkie: 717
+		A:-2.94, B:9.54, C:10.17, D:2.10, E:-0.80, F:0.82
+
+
+		ACCEL X: -2.22 	Y: 2.81 	Z: 5.14 m/s^2 
+		GYRO X: 2.56 	Y: -1.33 	Z: 1.47 radians/s 
+ 		FINGERS: Thumb: 696	Pointer: 682	Middle: 671	Ring: 665	Pinkie: 716
+		A:-2.22, B:2.81, C:5.14, D:2.56, E:-1.33, F:1.47
+
+
+		ACCEL X: -4.77 	Y: -5.84 	Z: 5.20 m/s^2 
+		GYRO X: 3.83 	Y: -1.17 	Z: 1.85 radians/s 
+ 		FINGERS: Thumb: 697	Pointer: 681	Middle: 666	Ring: 655	Pinkie: 716
+		A:-4.77, B:-5.84, C:5.20, D:3.83, E:-1.17, F:1.85
+
+
+		ACCEL X: -5.99 	Y: -6.33 	Z: 8.88 m/s^2 
+		GYRO X: 2.25 	Y: 0.35 	Z: 0.82 radians/s 
+ 		FINGERS: Thumb: 700	Pointer: 684	Middle: 668	Ring: 653	Pinkie: 716
+		A:-5.99, B:-6.33, C:8.88, D:2.25, E:0.35, F:0.82
+
+
+		ACCEL X: -3.82 	Y: -1.80 	Z: 7.61 m/s^2 
+		GYRO X: -0.13 	Y: 1.06 	Z: -1.32 radians/s 
+ 		FINGERS: Thumb: 705	Pointer: 692	Middle: 677	Ring: 662	Pinkie: 716
+		A:-3.82, B:-1.80, C:7.61, D:-0.13, E:1.06, F:-1.32
+
+
+		ACCEL X: -1.71 	Y: 10.95 	Z: 8.57 m/s^2 
+		GYRO X: -0.66 	Y: 0.45 	Z: -1.06 radians/s 
+ 		FINGERS: Thumb: 720	Pointer: 718	Middle: 711	Ring: 699	Pinkie: 716
+		A:-1.71, B:10.95, C:8.57, D:-0.66, E:0.45, F:-1.06
+
+
+		ACCEL X: -1.12 	Y: 15.03 	Z: 9.13 m/s^2 
+		GYRO X: 0.69 	Y: -0.37 	Z: -0.01 radians/s 
+ 		FINGERS: Thumb: 721	Pointer: 723	Middle: 724	Ring: 720	Pinkie: 717
+		A:-1.12, B:15.03, C:9.13, D:0.69, E:-0.37, F:-0.01
+
+
+		ACCEL X: -2.29 	Y: 11.33 	Z: 6.52 m/s^2 
+		GYRO X: 1.93 	Y: -0.36 	Z: 0.73 radians/s 
+ 		FINGERS: Thumb: 715	Pointer: 716	Middle: 717	Ring: 717	Pinkie: 717
+		A:-2.29, B:11.33, C:6.52, D:1.93, E:-0.36, F:0.73
+
+
+		ACCEL X: -2.70 	Y: 4.87 	Z: 7.30 m/s^2 
+		GYRO X: 1.57 	Y: -0.55 	Z: 1.03 radians/s 
+ 		FINGERS: Thumb: 703	Pointer: 695	Middle: 691	Ring: 690	Pinkie: 716
+		A:-2.70, B:4.87, C:7.30, D:1.57, E:-0.55, F:1.03
+
+
+		ACCEL X: -3.60 	Y: 0.71 	Z: 7.09 m/s^2 
+		GYRO X: -2.30 	Y: 0.33 	Z: 0.11 radians/s 
+ 		FINGERS: Thumb: 697	Pointer: 681	Middle: 668	Ring: 660	Pinkie: 716
+		A:-3.60, B:0.71, C:7.09, D:-2.30, E:0.33, F:0.11
+
+
+		ACCEL X: -3.54 	Y: -1.43 	Z: 6.78 m/s^2 
+		GYRO X: -4.37 	Y: 1.32 	Z: -2.01 radians/s 
+ 		FINGERS: Thumb: 697	Pointer: 680	Middle: 663	Ring: 651	Pinkie: 716
+		A:-3.54, B:-1.43, C:6.78, D:-4.37, E:1.32, F:-2.01
+
+
+		ACCEL X: -3.06 	Y: -1.53 	Z: 6.94 m/s^2 
+		GYRO X: -4.37 	Y: 1.70 	Z: -3.05 radians/s 
+ 		FINGERS: Thumb: 703	Pointer: 688	Middle: 673	Ring: 658	Pinkie: 716
+		A:-3.06, B:-1.53, C:6.94, D:-4.37, E:1.70, F:-3.05
+
+
+		ACCEL X: -2.54 	Y: -4.13 	Z: 9.92 m/s^2 
+		GYRO X: -4.37 	Y: 2.49 	Z: -3.81 radians/s 
+ 		FINGERS: Thumb: 709	Pointer: 699	Middle: 686	Ring: 672	Pinkie: 716
+		A:-2.54, B:-4.13, C:9.92, D:-4.37, E:2.49, F:-3.81
+
+
+		ACCEL X: -4.36 	Y: -6.10 	Z: 4.79 m/s^2 
+		GYRO X: -4.37 	Y: 3.87 	Z: -4.37 radians/s 
+ 		FINGERS: Thumb: 722	Pointer: 723	Middle: 719	Ring: 710	Pinkie: 717
+		A:-4.36, B:-6.10, C:4.79, D:-4.37, E:3.87, F:-4.37
+
+
+		ACCEL X: -5.52 	Y: -8.25 	Z: 1.29 m/s^2 
+		GYRO X: -1.85 	Y: -0.22 	Z: 0.26 radians/s 
+ 		FINGERS: Thumb: 719	Pointer: 722	Middle: 723	Ring: 721	Pinkie: 717
+		A:-5.52, B:-8.25, C:1.29, D:-1.85, E:-0.22, F:0.26
+
+
+		ACCEL X: -2.34 	Y: -9.58 	Z: -1.08 m/s^2 
+		GYRO X: -0.55 	Y: -0.08 	Z: 0.29 radians/s 
+ 		FINGERS: Thumb: 713	Pointer: 711	Middle: 712	Ring: 712	Pinkie: 717
+		A:-2.34, B:-9.58, C:-1.08, D:-0.55, E:-0.08, F:0.29
+
+
+		ACCEL X: -3.03 	Y: -8.96 	Z: -1.92 m/s^2 
+		GYRO X: -0.03 	Y: -0.32 	Z: 0.03 radians/s 
+ 		FINGERS: Thumb: 703	Pointer: 694	Middle: 688	Ring: 687	Pinkie: 717
+		A:-3.03, B:-8.96, C:-1.92, D:-0.03, E:-0.32, F:0.03
+
+
+		ACCEL X: -4.77 	Y: -8.71 	Z: -0.99 m/s^2 
+		GYRO X: 4.37 	Y: -2.17 	Z: 3.47 radians/s 
+ 		FINGERS: Thumb: 699	Pointer: 684	Middle: 672	Ring: 664	Pinkie: 717
+		A:-4.77, B:-8.71, C:-0.99, D:4.37, E:-2.17, F:3.47
+
+
+		ACCEL X: -2.59 	Y: -8.17 	Z: 4.58 m/s^2 
+		GYRO X: 4.37 	Y: -2.77 	Z: 4.10 radians/s 
+ 		FINGERS: Thumb: 700	Pointer: 684	Middle: 669	Ring: 657	Pinkie: 717
+		A:-2.59, B:-8.17, C:4.58, D:4.37, E:-2.77, F:4.10
+
+
+		ACCEL X: -4.74 	Y: -3.16 	Z: 7.87 m/s^2 
+		GYRO X: 4.37 	Y: -1.62 	Z: 2.95 radians/s 
+ 		FINGERS: Thumb: 701	Pointer: 686	Middle: 671	Ring: 657	Pinkie: 716
+		A:-4.74, B:-3.16, C:7.87, D:4.37, E:-1.62, F:2.95
+
+
+		ACCEL X: -3.20 	Y: 1.95 	Z: 7.89 m/s^2 
+		GYRO X: 4.37 	Y: -1.93 	Z: 2.58 radians/s 
+ 		FINGERS: Thumb: 705	Pointer: 692	Middle: 678	Ring: 664	Pinkie: 716
+		A:-3.20, B:1.95, C:7.89, D:4.37, E:-1.93, F:2.58
+
+
+		ACCEL X: -2.68 	Y: 5.95 	Z: 6.74 m/s^2 
+		GYRO X: 4.37 	Y: -1.88 	Z: 2.40 radians/s 
+ 		FINGERS: Thumb: 722	Pointer: 722	Middle: 716	Ring: 706	Pinkie: 716
+		A:-2.68, B:5.95, C:6.74, D:4.37, E:-1.88, F:2.40
+
+
+		ACCEL X: -1.78 	Y: 8.43 	Z: 3.87 m/s^2 
+		GYRO X: 4.37 	Y: -1.37 	Z: 1.97 radians/s 
+ 		FINGERS: Thumb: 721	Pointer: 724	Middle: 725	Ring: 723	Pinkie: 716
+		A:-1.78, B:8.43, C:3.87, D:4.37, E:-1.37, F:1.97
+
+
+		ACCEL X: -1.48 	Y: 9.40 	Z: 2.45 m/s^2 
+		GYRO X: 4.37 	Y: -0.81 	Z: 2.12 radians/s 
+ 		FINGERS: Thumb: 711	Pointer: 709	Middle: 709	Ring: 710	Pinkie: 717
+		A:-1.48, B:9.40, C:2.45, D:4.37, E:-0.81, F:2.12
+
+
+		ACCEL X: -1.11 	Y: 9.58 	Z: 1.65 m/s^2 
+		GYRO X: 0.29 	Y: 0.15 	Z: 0.19 radians/s 
+ 		FINGERS: Thumb: 697	Pointer: 683	Middle: 673	Ring: 669	Pinkie: 716
+		A:-1.11, B:9.58, C:1.65, D:0.29, E:0.15, F:0.19
+
+
+		ACCEL X: -1.19 	Y: 8.15 	Z: 4.74 m/s^2 
+		GYRO X: -4.37 	Y: 1.56 	Z: -4.37 radians/s 
+ 		FINGERS: Thumb: 697	Pointer: 680	Middle: 666	Ring: 655	Pinkie: 716
+		A:-1.19, B:8.15, C:4.74, D:-4.37, E:1.56, F:-4.37
+
+
+		ACCEL X: -2.96 	Y: 3.23 	Z: 9.28 m/s^2 
+		GYRO X: -4.37 	Y: 3.63 	Z: -4.37 radians/s 
+ 		FINGERS: Thumb: 701	Pointer: 686	Middle: 670	Ring: 656	Pinkie: 716
+		A:-2.96, B:3.23, C:9.28, D:-4.37, E:3.63, F:-4.37
+
+
+		ACCEL X: -5.43 	Y: 0.10 	Z: 8.15 m/s^2 
+		GYRO X: -4.37 	Y: 1.32 	Z: -4.37 radians/s 
+ 		FINGERS: Thumb: 707	Pointer: 695	Middle: 681	Ring: 666	Pinkie: 716
+		A:-5.43, B:0.10, C:8.15, D:-4.37, E:1.32, F:-4.37
+
+
+		ACCEL X: -4.15 	Y: -5.68 	Z: 6.14 m/s^2 
+		GYRO X: -4.37 	Y: 2.02 	Z: -3.15 radians/s 
+ 		FINGERS: Thumb: 722	Pointer: 722	Middle: 717	Ring: 707	Pinkie: 716
+		A:-4.15, B:-5.68, C:6.14, D:-4.37, E:2.02, F:-3.15
+
+
+		ACCEL X: -4.89 	Y: -8.04 	Z: 4.52 m/s^2 
+		GYRO X: -4.37 	Y: 1.97 	Z: -3.46 radians/s 
+ 		FINGERS: Thumb: 719	Pointer: 720	Middle: 720	Ring: 717	Pinkie: 717
+		A:-4.89, B:-8.04, C:4.52, D:-4.37, E:1.97, F:-3.46
+
+
+		ACCEL X: -3.68 	Y: -9.06 	Z: 0.62 m/s^2 
+		GYRO X: -3.98 	Y: 0.14 	Z: -1.16 radians/s 
+ 		FINGERS: Thumb: 713	Pointer: 712	Middle: 711	Ring: 711	Pinkie: 717
+		A:-3.68, B:-9.06, C:0.62, D:-3.98, E:0.14, F:-1.16
+
+
+		ACCEL X: -2.75 	Y: -8.78 	Z: -1.45 m/s^2 
+		GYRO X: -2.94 	Y: 0.14 	Z: -1.03 radians/s 
+ 		FINGERS: Thumb: 702	Pointer: 693	Middle: 688	Ring: 686	Pinkie: 717
+		A:-2.75, B:-8.78, C:-1.45, D:-2.94, E:0.14, F:-1.03
+
+
+		ACCEL X: -2.99 	Y: -8.20 	Z: -2.27 m/s^2 
+		GYRO X: 0.04 	Y: -0.56 	Z: -0.15 radians/s 
+ 		FINGERS: Thumb: 700	Pointer: 686	Middle: 674	Ring: 666	Pinkie: 716
+		A:-2.99, B:-8.20, C:-2.27, D:0.04, E:-0.56, F:-0.15
+
+
+		ACCEL X: -3.11 	Y: -7.79 	Z: -0.97 m/s^2 
+		GYRO X: 4.37 	Y: -1.95 	Z: 2.86 radians/s 
+ 		FINGERS: Thumb: 701	Pointer: 686	Middle: 672	Ring: 661	Pinkie: 716
+		A:-3.11, B:-7.79, C:-0.97, D:4.37, E:-1.95, F:2.86
+
+
+		ACCEL X: -2.95 	Y: -7.35 	Z: 2.16 m/s^2 
+		GYRO X: 4.37 	Y: -2.48 	Z: 3.75 radians/s 
+ 		FINGERS: Thumb: 702	Pointer: 687	Middle: 673	Ring: 659	Pinkie: 716
+		A:-2.95, B:-7.35, C:2.16, D:4.37, E:-2.48, F:3.75
+
+
+		ACCEL X: -4.18 	Y: -3.38 	Z: 7.85 m/s^2 
+		GYRO X: 4.37 	Y: -1.76 	Z: 3.33 radians/s 
+ 		FINGERS: Thumb: 704	Pointer: 691	Middle: 678	Ring: 664	Pinkie: 716
+		A:-4.18, B:-3.38, C:7.85, D:4.37, E:-1.76, F:3.33
+
+
+		ACCEL X: -4.53 	Y: 2.26 	Z: 8.07 m/s^2 
+		GYRO X: 4.37 	Y: -1.29 	Z: 3.35 radians/s 
+ 		FINGERS: Thumb: 718	Pointer: 714	Middle: 706	Ring: 695	Pinkie: 716
+		A:-4.53, B:2.26, C:8.07, D:4.37, E:-1.29, F:3.35
+
+
+		ACCEL X: -3.76 	Y: 6.07 	Z: 7.99 m/s^2 
+		GYRO X: 4.37 	Y: -1.31 	Z: 3.81 radians/s 
+ 		FINGERS: Thumb: 721	Pointer: 723	Middle: 722	Ring: 718	Pinkie: 717
+		A:-3.76, B:6.07, C:7.99, D:4.37, E:-1.31, F:3.81
+
+
+		ACCEL X: -2.66 	Y: 6.52 	Z: 5.82 m/s^2 
+		GYRO X: 4.37 	Y: -0.34 	Z: 3.47 radians/s 
+ 		FINGERS: Thumb: 714	Pointer: 714	Middle: 715	Ring: 714	Pinkie: 717
+		A:-2.66, B:6.52, C:5.82, D:4.37, E:-0.34, F:3.47
+
+
+		ACCEL X: -1.70 	Y: 7.75 	Z: 3.18 m/s^2 
+		GYRO X: 2.89 	Y: -0.17 	Z: 1.33 radians/s 
+ 		FINGERS: Thumb: 698	Pointer: 687	Middle: 679	Ring: 676	Pinkie: 716
+		A:-1.70, B:7.75, C:3.18, D:2.89, E:-0.17, F:1.33
+
+
+		ACCEL X: -0.83 	Y: 8.67 	Z: 2.38 m/s^2 
+		GYRO X: -4.37 	Y: 0.86 	Z: -2.69 radians/s 
+ 		FINGERS: Thumb: 699	Pointer: 684	Middle: 671	Ring: 662	Pinkie: 716
+		A:-0.83, B:8.67, C:2.38, D:-4.37, E:0.86, F:-2.69
+
+
+		ACCEL X: -3.05 	Y: 4.19 	Z: 7.71 m/s^2 
+		GYRO X: -4.37 	Y: 2.28 	Z: -4.37 radians/s 
+ 		FINGERS: Thumb: 701	Pointer: 685	Middle: 670	Ring: 658	Pinkie: 716
+		A:-3.05, B:4.19, C:7.71, D:-4.37, E:2.28, F:-4.37
+
+
+		ACCEL X: -5.30 	Y: 4.12 	Z: 8.42 m/s^2 
+		GYRO X: -4.37 	Y: 2.31 	Z: -4.37 radians/s 
+ 		FINGERS: Thumb: 704	Pointer: 691	Middle: 677	Ring: 663	Pinkie: 716
+		A:-5.30, B:4.12, C:8.42, D:-4.37, E:2.31, F:-4.37
+
+
+		ACCEL X: -5.96 	Y: -3.96 	Z: 7.37 m/s^2 
+		GYRO X: -4.37 	Y: 1.21 	Z: -2.75 radians/s 
+ 		FINGERS: Thumb: 717	Pointer: 713	Middle: 704	Ring: 693	Pinkie: 717
+		A:-5.96, B:-3.96, C:7.37, D:-4.37, E:1.21, F:-2.75
+
+
+		ACCEL X: -4.86 	Y: -8.08 	Z: 5.54 m/s^2 
+		GYRO X: -4.37 	Y: 1.54 	Z: -3.34 radians/s 
+ 		FINGERS: Thumb: 720	Pointer: 720	Middle: 719	Ring: 713	Pinkie: 717
+		A:-4.86, B:-8.08, C:5.54, D:-4.37, E:1.54, F:-3.34
+
+
+		ACCEL X: -4.46 	Y: -4.70 	Z: 1.93 m/s^2 
+		GYRO X: -4.37 	Y: 0.24 	Z: -1.68 radians/s 
+ 		FINGERS: Thumb: 716	Pointer: 716	Middle: 716	Ring: 714	Pinkie: 717
+		A:-4.46, B:-4.70, C:1.93, D:-4.37, E:0.24, F:-1.68
+
+
+		ACCEL X: -3.62 	Y: -8.66 	Z: -1.16 m/s^2 
+		GYRO X: 1.65 	Y: -1.33 	Z: 1.46 radians/s 
+ 		FINGERS: Thumb: 707	Pointer: 702	Middle: 699	Ring: 698	Pinkie: 717
+		A:-3.62, B:-8.66, C:-1.16, D:1.65, E:-1.33, F:1.46
+
+
+		ACCEL X: -3.19 	Y: -7.34 	Z: 0.38 m/s^2 
+		GYRO X: 4.37 	Y: -3.09 	Z: 4.37 radians/s 
+ 		FINGERS: Thumb: 699	Pointer: 685	Middle: 675	Ring: 668	Pinkie: 717
+		A:-3.19, B:-7.34, C:0.38, D:4.37, E:-3.09, F:4.37
+
+
+		ACCEL X: -3.75 	Y: -4.44 	Z: 4.21 m/s^2 
+		GYRO X: 4.37 	Y: -2.49 	Z: 3.61 radians/s 
+ 		FINGERS: Thumb: 700	Pointer: 684	Middle: 670	Ring: 660	Pinkie: 716
+		A:-3.75, B:-4.44, C:4.21, D:4.37, E:-2.49, F:3.61
+
+
+		ACCEL X: -4.45 	Y: 0.58 	Z: 8.79 m/s^2 
+		GYRO X: 4.37 	Y: -2.11 	Z: 3.14 radians/s 
+ 		FINGERS: Thumb: 702	Pointer: 687	Middle: 672	Ring: 658	Pinkie: 716
+		A:-4.45, B:0.58, C:8.79, D:4.37, E:-2.11, F:3.14
+
+
+		ACCEL X: -5.03 	Y: 4.60 	Z: 10.10 m/s^2 
+		GYRO X: 4.37 	Y: -2.12 	Z: 4.37 radians/s 
+ 		FINGERS: Thumb: 705	Pointer: 693	Middle: 678	Ring: 664	Pinkie: 716
+		A:-5.03, B:4.60, C:10.10, D:4.37, E:-2.12, F:4.37
+
+
+		ACCEL X: -2.80 	Y: 6.72 	Z: 6.30 m/s^2 
+		GYRO X: 4.37 	Y: -1.71 	Z: 4.37 radians/s 
+ 		FINGERS: Thumb: 721	Pointer: 719	Middle: 713	Ring: 702	Pinkie: 716
+		A:-2.80, B:6.72, C:6.30, D:4.37, E:-1.71, F:4.37
+
+
+		ACCEL X: -2.21 	Y: 8.41 	Z: 3.85 m/s^2 
+		GYRO X: 4.37 	Y: -0.47 	Z: 3.00 radians/s 
+ 		FINGERS: Thumb: 720	Pointer: 722	Middle: 722	Ring: 718	Pinkie: 717
+		A:-2.21, B:8.41, C:3.85, D:4.37, E:-0.47, F:3.00
+
+
+		ACCEL X: 0.68 	Y: 10.65 	Z: -0.57 m/s^2 
+		GYRO X: 0.79 	Y: -0.07 	Z: 0.34 radians/s 
+ 		FINGERS: Thumb: 711	Pointer: 710	Middle: 710	Ring: 709	Pinkie: 717
+		A:0.68, B:10.65, C:-0.57, D:0.79, E:-0.07, F:0.34
+
+
+		ACCEL X: 0.45 	Y: 9.67 	Z: -0.33 m/s^2 
+		GYRO X: -4.37 	Y: 0.27 	Z: -2.62 radians/s 
+ 		FINGERS: Thumb: 698	Pointer: 685	Middle: 676	Ring: 671	Pinkie: 716
+		A:0.45, B:9.67, C:-0.33, D:-4.37, E:0.27, F:-2.62
+
+
+		ACCEL X: -1.91 	Y: 7.60 	Z: 5.19 m/s^2 
+		GYRO X: -4.37 	Y: 1.27 	Z: -4.37 radians/s 
+ 		FINGERS: Thumb: 699	Pointer: 684	Middle: 670	Ring: 661	Pinkie: 716
+		A:-1.91, B:7.60, C:5.19, D:-4.37, E:1.27, F:-4.37
+
+
+		ACCEL X: -3.65 	Y: 4.24 	Z: 10.79 m/s^2 
+		GYRO X: -4.37 	Y: 2.19 	Z: -4.37 radians/s 
+ 		FINGERS: Thumb: 701	Pointer: 686	Middle: 670	Ring: 657	Pinkie: 716
+		A:-3.65, B:4.24, C:10.79, D:-4.37, E:2.19, F:-4.37
+
+
+		ACCEL X: -6.75 	Y: -0.82 	Z: 7.40 m/s^2 
+		GYRO X: -4.37 	Y: 2.53 	Z: -4.37 radians/s 
+ 		FINGERS: Thumb: 704	Pointer: 692	Middle: 678	Ring: 664	Pinkie: 716
+		A:-6.75, B:-0.82, C:7.40, D:-4.37, E:2.53, F:-4.37
+
+
+		ACCEL X: -4.69 	Y: -7.32 	Z: 4.24 m/s^2 
+		GYRO X: -4.37 	Y: 0.78 	Z: -2.83 radians/s 
+ 		FINGERS: Thumb: 714	Pointer: 708	Middle: 699	Ring: 687	Pinkie: 716
+		A:-4.69, B:-7.32, C:4.24, D:-4.37, E:0.78, F:-2.83
+
+
+		ACCEL X: -3.51 	Y: -8.83 	Z: 2.25 m/s^2 
+		GYRO X: -4.37 	Y: -0.18 	Z: -1.66 radians/s 
+ 		FINGERS: Thumb: 720	Pointer: 721	Middle: 719	Ring: 714	Pinkie: 716
+		A:-3.51, B:-8.83, C:2.25, D:-4.37, E:-0.18, F:-1.66
+
+
+		ACCEL X: -2.49 	Y: -7.86 	Z: 0.18 m/s^2 
+		GYRO X: -2.57 	Y: -0.25 	Z: -1.15 radians/s 
+ 		FINGERS: Thumb: 717	Pointer: 718	Middle: 718	Ring: 717	Pinkie: 717
+		A:-2.49, B:-7.86, C:0.18, D:-2.57, E:-0.25, F:-1.15
+
+
+		ACCEL X: -2.35 	Y: -6.51 	Z: -1.66 m/s^2 
+		GYRO X: 2.61 	Y: -1.24 	Z: 0.99 radians/s 
+ 		FINGERS: Thumb: 711	Pointer: 708	Middle: 707	Ring: 706	Pinkie: 717
+		A:-2.35, B:-6.51, C:-1.66, D:2.61, E:-1.24, F:0.99
+
+
+		ACCEL X: -3.18 	Y: -4.42 	Z: 0.89 m/s^2 
+		GYRO X: 4.37 	Y: -1.62 	Z: 3.16 radians/s 
+ 		FINGERS: Thumb: 699	Pointer: 687	Middle: 680	Ring: 676	Pinkie: 716
+		A:-3.18, B:-4.42, C:0.89, D:4.37, E:-1.62, F:3.16
+
+
+		ACCEL X: -3.13 	Y: -4.74 	Z: 6.43 m/s^2 
+		GYRO X: 4.37 	Y: -2.23 	Z: 4.37 radians/s 
+ 		FINGERS: Thumb: 699	Pointer: 684	Middle: 670	Ring: 661	Pinkie: 716
+		A:-3.13, B:-4.74, C:6.43, D:4.37, E:-2.23, F:4.37
+
+
+		ACCEL X: -4.92 	Y: 1.44 	Z: 12.77 m/s^2 
+		GYRO X: 4.37 	Y: -1.32 	Z: 3.26 radians/s 
+ 		FINGERS: Thumb: 700	Pointer: 684	Middle: 668	Ring: 655	Pinkie: 716
+		A:-4.92, B:1.44, C:12.77, D:4.37, E:-1.32, F:3.26
+
+
+		ACCEL X: -4.65 	Y: 5.59 	Z: 10.62 m/s^2 
+		GYRO X: 4.37 	Y: -1.03 	Z: 4.37 radians/s 
+ 		FINGERS: Thumb: 703	Pointer: 690	Middle: 675	Ring: 660	Pinkie: 716
+		A:-4.65, B:5.59, C:10.62, D:4.37, E:-1.03, F:4.37
+
+
+		ACCEL X: -3.81 	Y: 5.37 	Z: 7.29 m/s^2 
+		GYRO X: 4.37 	Y: -0.60 	Z: 4.24 radians/s 
+ 		FINGERS: Thumb: 713	Pointer: 705	Middle: 694	Ring: 681	Pinkie: 716
+		A:-3.81, B:5.37, C:7.29, D:4.37, E:-0.60, F:4.24
+
+
+		ACCEL X: -0.33 	Y: 10.31 	Z: 1.08 m/s^2 
+		GYRO X: 0.69 	Y: 0.02 	Z: 0.55 radians/s 
+ 		FINGERS: Thumb: 721	Pointer: 723	Middle: 721	Ring: 715	Pinkie: 716
+		A:-0.33, B:10.31, C:1.08, D:0.69, E:0.02, F:0.55
+
+
+		ACCEL X: -0.06 	Y: 9.20 	Z: -1.03 m/s^2 
+		GYRO X: -2.67 	Y: 0.24 	Z: -1.14 radians/s 
+ 		FINGERS: Thumb: 717	Pointer: 718	Middle: 719	Ring: 718	Pinkie: 717
+		A:-0.06, B:9.20, C:-1.03, D:-2.67, E:0.24, F:-1.14
+
+
+		ACCEL X: -0.58 	Y: 9.20 	Z: 2.38 m/s^2 
+		GYRO X: -4.37 	Y: 0.80 	Z: -3.82 radians/s 
+ 		FINGERS: Thumb: 705	Pointer: 699	Middle: 696	Ring: 695	Pinkie: 716
+		A:-0.58, B:9.20, C:2.38, D:-4.37, E:0.80, F:-3.82
+
+
+		ACCEL X: -3.39 	Y: 5.21 	Z: 7.88 m/s^2 
+		GYRO X: -4.37 	Y: 1.63 	Z: -4.37 radians/s 
+ 		FINGERS: Thumb: 698	Pointer: 684	Middle: 673	Ring: 666	Pinkie: 716
+		A:-3.39, B:5.21, C:7.88, D:-4.37, E:1.63, F:-4.37
+
+
+		ACCEL X: -4.79 	Y: 1.30 	Z: 8.84 m/s^2 
+		GYRO X: -4.37 	Y: 2.46 	Z: -4.37 radians/s 
+ 		FINGERS: Thumb: 699	Pointer: 683	Middle: 668	Ring: 657	Pinkie: 716
+		A:-4.79, B:1.30, C:8.84, D:-4.37, E:2.46, F:-4.37
+
+
+		ACCEL X: -6.07 	Y: -5.40 	Z: 7.07 m/s^2 
+		GYRO X: -4.37 	Y: 0.59 	Z: -3.72 radians/s 
+ 		FINGERS: Thumb: 702	Pointer: 688	Middle: 673	Ring: 659	Pinkie: 716
+		A:-6.07, B:-5.40, C:7.07, D:-4.37, E:0.59, F:-3.72
+
+
+		ACCEL X: -4.48 	Y: -7.63 	Z: 5.73 m/s^2 
+		GYRO X: -4.37 	Y: -0.67 	Z: -1.83 radians/s 
+ 		FINGERS: Thumb: 706	Pointer: 694	Middle: 681	Ring: 666	Pinkie: 716
+		A:-4.48, B:-7.63, C:5.73, D:-4.37, E:-0.67, F:-1.83
+
+
+		ACCEL X: -3.07 	Y: -6.96 	Z: 3.50 m/s^2 
+		GYRO X: -1.63 	Y: -1.31 	Z: -0.64 radians/s 
+ 		FINGERS: Thumb: 718	Pointer: 714	Middle: 708	Ring: 697	Pinkie: 717
+		A:-3.07, B:-6.96, C:3.50, D:-1.63, E:-1.31, F:-0.64
+
+
+		ACCEL X: -2.86 	Y: -5.87 	Z: 0.67 m/s^2 
+		GYRO X: 0.44 	Y: -1.16 	Z: 0.34 radians/s 
+ 		FINGERS: Thumb: 719	Pointer: 720	Middle: 719	Ring: 714	Pinkie: 717
+		A:-2.86, B:-5.87, C:0.67, D:0.44, E:-1.16, F:0.34
+
+
+		ACCEL X: -2.52 	Y: -3.99 	Z: 0.56 m/s^2 
+		GYRO X: 4.37 	Y: -0.64 	Z: 1.34 radians/s 
+ 		FINGERS: Thumb: 716	Pointer: 716	Middle: 716	Ring: 715	Pinkie: 717
+		A:-2.52, B:-3.99, C:0.56, D:4.37, E:-0.64, F:1.34
+
+
+		ACCEL X: -2.52 	Y: -4.53 	Z: 4.02 m/s^2 
+		GYRO X: 4.37 	Y: -1.91 	Z: 4.37 radians/s 
+ 		FINGERS: Thumb: 705	Pointer: 698	Middle: 694	Ring: 693	Pinkie: 717
+		A:-2.52, B:-4.53, C:4.02, D:4.37, E:-1.91, F:4.37
+
+
+		ACCEL X: -4.00 	Y: 0.38 	Z: 14.83 m/s^2 
+		GYRO X: 4.37 	Y: -1.51 	Z: 3.79 radians/s 
+ 		FINGERS: Thumb: 699	Pointer: 685	Middle: 673	Ring: 666	Pinkie: 716
+		A:-4.00, B:0.38, C:14.83, D:4.37, E:-1.51, F:3.79
+
+
+		ACCEL X: -3.72 	Y: 3.55 	Z: 9.80 m/s^2 
+		GYRO X: 4.37 	Y: -1.95 	Z: 4.09 radians/s 
+ 		FINGERS: Thumb: 699	Pointer: 683	Middle: 668	Ring: 657	Pinkie: 716
+		A:-3.72, B:3.55, C:9.80, D:4.37, E:-1.95, F:4.09
+
+
+		ACCEL X: -2.28 	Y: 6.93 	Z: 4.99 m/s^2 
+		GYRO X: 4.37 	Y: -1.20 	Z: 2.53 radians/s 
+ 		FINGERS: Thumb: 701	Pointer: 686	Middle: 670	Ring: 656	Pinkie: 716
+		A:-2.28, B:6.93, C:4.99, D:4.37, E:-1.20, F:2.53
+
+
+		ACCEL X: -0.66 	Y: 8.66 	Z: 0.22 m/s^2 
+		GYRO X: 3.92 	Y: -0.36 	Z: 1.36 radians/s 
+ 		FINGERS: Thumb: 711	Pointer: 701	Middle: 689	Ring: 675	Pinkie: 716
+		A:-0.66, B:8.66, C:0.22, D:3.92, E:-0.36, F:1.36
+
+
+		ACCEL X: 0.60 	Y: 10.84 	Z: -1.45 m/s^2 
+		GYRO X: 1.00 	Y: -0.00 	Z: 0.20 radians/s 
+ 		FINGERS: Thumb: 722	Pointer: 724	Middle: 722	Ring: 715	Pinkie: 716
+		A:0.60, B:10.84, C:-1.45, D:1.00, E:-0.00, F:0.20
+
+
+		ACCEL X: 0.21 	Y: 9.91 	Z: 0.01 m/s^2 
+		GYRO X: -3.15 	Y: 0.67 	Z: -1.52 radians/s 
+ 		FINGERS: Thumb: 718	Pointer: 719	Middle: 720	Ring: 719	Pinkie: 717
+		A:0.21, B:9.91, C:0.01, D:-3.15, E:0.67, F:-1.52
+
+
+		ACCEL X: -1.36 	Y: 9.68 	Z: 6.25 m/s^2 
+		GYRO X: -4.37 	Y: 1.65 	Z: -4.27 radians/s 
+ 		FINGERS: Thumb: 705	Pointer: 699	Middle: 697	Ring: 696	Pinkie: 716
+		A:-1.36, B:9.68, C:6.25, D:-4.37, E:1.65, F:-4.27
+
+
+		ACCEL X: -2.72 	Y: 3.67 	Z: 10.28 m/s^2 
+		GYRO X: -4.37 	Y: 3.04 	Z: -4.37 radians/s 
+ 		FINGERS: Thumb: 698	Pointer: 684	Middle: 673	Ring: 666	Pinkie: 716
+		A:-2.72, B:3.67, C:10.28, D:-4.37, E:3.04, F:-4.37
+
+
+		ACCEL X: -4.17 	Y: -1.83 	Z: 9.21 m/s^2 
+		GYRO X: -4.37 	Y: 2.44 	Z: -4.37 radians/s 
+ 		FINGERS: Thumb: 699	Pointer: 683	Middle: 668	Ring: 657	Pinkie: 716
+		A:-4.17, B:-1.83, C:9.21, D:-4.37, E:2.44, F:-4.37
+
+
+		ACCEL X: -4.83 	Y: -5.49 	Z: 4.07 m/s^2 
+		GYRO X: -4.37 	Y: 0.05 	Z: -1.63 radians/s 
+ 		FINGERS: Thumb: 701	Pointer: 686	Middle: 670	Ring: 656	Pinkie: 716
+		A:-4.83, B:-5.49, C:4.07, D:-4.37, E:0.05, F:-1.63
+
+
+		ACCEL X: -2.56 	Y: -6.92 	Z: 2.13 m/s^2 
+		GYRO X: -2.68 	Y: 0.20 	Z: -1.22 radians/s 
+ 		FINGERS: Thumb: 704	Pointer: 692	Middle: 678	Ring: 663	Pinkie: 716
+		A:-2.56, B:-6.92, C:2.13, D:-2.68, E:0.20, F:-1.22
+
+
+		ACCEL X: -2.97 	Y: -7.65 	Z: 1.32 m/s^2 
+		GYRO X: -1.35 	Y: -0.12 	Z: -0.36 radians/s 
+ 		FINGERS: Thumb: 718	Pointer: 714	Middle: 707	Ring: 695	Pinkie: 716
+		A:-2.97, B:-7.65, C:1.32, D:-1.35, E:-0.12, F:-0.36
+
+
+		ACCEL X: -3.81 	Y: -6.52 	Z: 1.40 m/s^2 
+		GYRO X: 4.37 	Y: -1.47 	Z: 2.03 radians/s 
+ 		FINGERS: Thumb: 720	Pointer: 721	Middle: 721	Ring: 716	Pinkie: 717
+		A:-3.81, B:-6.52, C:1.40, D:4.37, E:-1.47, F:2.03
+
+
+		ACCEL X: -3.08 	Y: -5.03 	Z: 3.25 m/s^2 
+		GYRO X: 4.37 	Y: -2.18 	Z: 3.89 radians/s 
+ 		FINGERS: Thumb: 716	Pointer: 717	Middle: 718	Ring: 717	Pinkie: 717
+		A:-3.08, B:-5.03, C:3.25, D:4.37, E:-2.18, F:3.89
+
+
+		ACCEL X: -2.85 	Y: -1.73 	Z: 10.33 m/s^2 
+		GYRO X: 4.37 	Y: -1.06 	Z: 2.63 radians/s 
+ 		FINGERS: Thumb: 706	Pointer: 700	Middle: 698	Ring: 697	Pinkie: 717
+		A:-2.85, B:-1.73, C:10.33, D:4.37, E:-1.06, F:2.63
+
+
+		ACCEL X: -3.66 	Y: 2.35 	Z: 8.70 m/s^2 
+		GYRO X: 4.37 	Y: -1.06 	Z: 3.03 radians/s 
+ 		FINGERS: Thumb: 699	Pointer: 685	Middle: 674	Ring: 668	Pinkie: 716
+		A:-3.66, B:2.35, C:8.70, D:4.37, E:-1.06, F:3.03
+
+
+		ACCEL X: -2.83 	Y: 3.64 	Z: 7.85 m/s^2 
+		GYRO X: 4.37 	Y: -0.84 	Z: 3.30 radians/s 
+ 		FINGERS: Thumb: 698	Pointer: 682	Middle: 668	Ring: 657	Pinkie: 716
+		A:-2.83, B:3.64, C:7.85, D:4.37, E:-0.84, F:3.30
+
+
+		ACCEL X: -2.03 	Y: 7.73 	Z: 4.87 m/s^2 
+		GYRO X: 4.37 	Y: -0.41 	Z: 2.03 radians/s 
+ 		FINGERS: Thumb: 701	Pointer: 686	Middle: 670	Ring: 656	Pinkie: 716
+		A:-2.03, B:7.73, C:4.87, D:4.37, E:-0.41, F:2.03
+
+
+		ACCEL X: -0.73 	Y: 10.96 	Z: 1.03 m/s^2 
+		GYRO X: 2.81 	Y: -0.25 	Z: 1.23 radians/s 
+ 		FINGERS: Thumb: 709	Pointer: 699	Middle: 686	Ring: 671	Pinkie: 716
+		A:-0.73, B:10.96, C:1.03, D:2.81, E:-0.25, F:1.23
+
+
+		ACCEL X: 0.29 	Y: 11.31 	Z: 0.04 m/s^2 
+		GYRO X: 4.37 	Y: -0.11 	Z: 2.24 radians/s 
+ 		FINGERS: Thumb: 721	Pointer: 721	Middle: 718	Ring: 710	Pinkie: 716
+		A:0.29, B:11.31, C:0.04, D:4.37, E:-0.11, F:2.24
+
+
+		ACCEL X: 1.77 	Y: 9.89 	Z: 1.83 m/s^2 
+		GYRO X: 4.37 	Y: 0.28 	Z: 4.20 radians/s 
+ 		FINGERS: Thumb: 718	Pointer: 720	Middle: 721	Ring: 718	Pinkie: 717
+		A:1.77, B:9.89, C:1.83, D:4.37, E:0.28, F:4.20
+
+
+		ACCEL X: 1.16 	Y: 9.65 	Z: -0.81 m/s^2 
+		GYRO X: 3.34 	Y: -1.10 	Z: 1.92 radians/s 
+ 		FINGERS: Thumb: 704	Pointer: 698	Middle: 695	Ring: 694	Pinkie: 717
+		A:1.16, B:9.65, C:-0.81, D:3.34, E:-1.10, F:1.92
+
+
+		ACCEL X: 1.42 	Y: 8.79 	Z: -3.83 m/s^2 
+		GYRO X: -0.03 	Y: -0.69 	Z: 0.10 radians/s 
+ 		FINGERS: Thumb: 698	Pointer: 683	Middle: 672	Ring: 665	Pinkie: 716
+		A:1.42, B:8.79, C:-3.83, D:-0.03, E:-0.69, F:0.10
+
+
+		ACCEL X: 2.10 	Y: 8.77 	Z: -4.36 m/s^2 
+		GYRO X: 0.16 	Y: -0.45 	Z: 0.24 radians/s 
+ 		FINGERS: Thumb: 698	Pointer: 681	Middle: 666	Ring: 654	Pinkie: 716
+		A:2.10, B:8.77, C:-4.36, D:0.16, E:-0.45, F:0.24
+
+
+		ACCEL X: 1.82 	Y: 8.61 	Z: -3.85 m/s^2 
+		GYRO X: -2.63 	Y: 0.37 	Z: -0.90 radians/s 
+ 		FINGERS: Thumb: 702	Pointer: 688	Middle: 672	Ring: 658	Pinkie: 716
+		A:1.82, B:8.61, C:-3.85, D:-2.63, E:0.37, F:-0.90
+
+
+		ACCEL X: 1.80 	Y: 8.22 	Z: 0.19 m/s^2 
+		GYRO X: -4.37 	Y: 1.51 	Z: -4.30 radians/s 
+ 		FINGERS: Thumb: 713	Pointer: 705	Middle: 694	Ring: 680	Pinkie: 716
+		A:1.80, B:8.22, C:0.19, D:-4.37, E:1.51, F:-4.30
+
+
+		ACCEL X: 0.34 	Y: 8.50 	Z: 3.92 m/s^2 
+		GYRO X: -4.37 	Y: 2.01 	Z: -4.37 radians/s 
+ 		FINGERS: Thumb: 722	Pointer: 724	Middle: 723	Ring: 716	Pinkie: 716
+		A:0.34, B:8.50, C:3.92, D:-4.37, E:2.01, F:-4.37
+
+
+		ACCEL X: -2.81 	Y: 7.15 	Z: 8.24 m/s^2 
+		GYRO X: -4.37 	Y: 1.74 	Z: -3.46 radians/s 
+ 		FINGERS: Thumb: 718	Pointer: 719	Middle: 721	Ring: 719	Pinkie: 717
+		A:-2.81, B:7.15, C:8.24, D:-4.37, E:1.74, F:-3.46
+
+
+		ACCEL X: -2.57 	Y: 2.70 	Z: 8.89 m/s^2 
+		GYRO X: -4.37 	Y: 1.26 	Z: -1.88 radians/s 
+ 		FINGERS: Thumb: 705	Pointer: 699	Middle: 696	Ring: 695	Pinkie: 716
+		A:-2.57, B:2.70, C:8.89, D:-4.37, E:1.26, F:-1.88
+
+
+		ACCEL X: -3.94 	Y: -3.50 	Z: 6.38 m/s^2 
+		GYRO X: -4.37 	Y: 1.35 	Z: -3.66 radians/s 
+ 		FINGERS: Thumb: 698	Pointer: 683	Middle: 672	Ring: 665	Pinkie: 716
+		A:-3.94, B:-3.50, C:6.38, D:-4.37, E:1.35, F:-3.66
+
+
+		ACCEL X: -3.57 	Y: -5.03 	Z: 6.80 m/s^2 
+		GYRO X: -4.37 	Y: 1.37 	Z: -2.46 radians/s 
+ 		FINGERS: Thumb: 699	Pointer: 682	Middle: 667	Ring: 655	Pinkie: 716
+		A:-3.57, B:-5.03, C:6.80, D:-4.37, E:1.37, F:-2.46
+
+
+		ACCEL X: -3.08 	Y: -6.53 	Z: 5.31 m/s^2 
+		GYRO X: -4.37 	Y: 2.70 	Z: -3.73 radians/s 
+ 		FINGERS: Thumb: 702	Pointer: 687	Middle: 671	Ring: 656	Pinkie: 716
+		A:-3.08, B:-6.53, C:5.31, D:-4.37, E:2.70, F:-3.73
+
+
+		ACCEL X: -3.39 	Y: -8.82 	Z: 1.85 m/s^2 
+		GYRO X: -4.37 	Y: 2.41 	Z: -3.26 radians/s 
+ 		FINGERS: Thumb: 705	Pointer: 693	Middle: 679	Ring: 664	Pinkie: 716
+		A:-3.39, B:-8.82, C:1.85, D:-4.37, E:2.41, F:-3.26
+
+
+		ACCEL X: -2.56 	Y: -8.83 	Z: -1.21 m/s^2 
+		GYRO X: -1.63 	Y: 0.29 	Z: -0.33 radians/s 
+ 		FINGERS: Thumb: 719	Pointer: 716	Middle: 710	Ring: 699	Pinkie: 716
+		A:-2.56, B:-8.83, C:-1.21, D:-1.63, E:0.29, F:-0.33
+
+
+		ACCEL X: -2.57 	Y: -10.19 	Z: -0.61 m/s^2 
+		GYRO X: 0.30 	Y: -0.45 	Z: 0.39 radians/s 
+ 		FINGERS: Thumb: 720	Pointer: 721	Middle: 721	Ring: 717	Pinkie: 717
+		A:-2.57, B:-10.19, C:-0.61, D:0.30, E:-0.45, F:0.39
+
+
+		ACCEL X: -1.92 	Y: -9.63 	Z: -0.63 m/s^2 
+		GYRO X: -1.90 	Y: 0.24 	Z: -0.85 radians/s 
+ 		FINGERS: Thumb: 716	Pointer: 717	Middle: 718	Ring: 718	Pinkie: 717
+		A:-1.92, B:-9.63, C:-0.63, D:-1.90, E:0.24, F:-0.85
+
+
+		ACCEL X: -2.21 	Y: -8.82 	Z: -1.42 m/s^2 
+		GYRO X: -1.07 	Y: -0.05 	Z: -0.18 radians/s 
+ 		FINGERS: Thumb: 710	Pointer: 706	Middle: 704	Ring: 704	Pinkie: 717
+		A:-2.21, B:-8.82, C:-1.42, D:-1.07, E:-0.05, F:-0.18
+
+
+		ACCEL X: -2.23 	Y: -9.30 	Z: -1.11 m/s^2 
+		GYRO X: 1.22 	Y: -0.69 	Z: 0.87 radians/s 
+ 		FINGERS: Thumb: 700	Pointer: 689	Middle: 681	Ring: 677	Pinkie: 716
+		A:-2.23, B:-9.30, C:-1.11, D:1.22, E:-0.69, F:0.87
+
+
+		ACCEL X: -2.80 	Y: -8.87 	Z: -0.11 m/s^2 
+		GYRO X: 4.37 	Y: -2.25 	Z: 2.74 radians/s 
+ 		FINGERS: Thumb: 699	Pointer: 683	Middle: 669	Ring: 659	Pinkie: 716
+		A:-2.80, B:-8.87, C:-0.11, D:4.37, E:-2.25, F:2.74
+
+
+		ACCEL X: -2.75 	Y: -7.96 	Z: 2.50 m/s^2 
+		GYRO X: 4.37 	Y: -3.05 	Z: 2.90 radians/s 
+ 		FINGERS: Thumb: 699	Pointer: 683	Middle: 667	Ring: 654	Pinkie: 716
+		A:-2.75, B:-7.96, C:2.50, D:4.37, E:-3.05, F:2.90
+
+
+		ACCEL X: -3.05 	Y: -5.20 	Z: 5.72 m/s^2 
+		GYRO X: 4.37 	Y: -2.09 	Z: 2.66 radians/s 
+ 		FINGERS: Thumb: 702	Pointer: 688	Middle: 673	Ring: 658	Pinkie: 716
+		A:-3.05, B:-5.20, C:5.72, D:4.37, E:-2.09, F:2.66
+
+
+		ACCEL X: -3.96 	Y: -2.30 	Z: 7.94 m/s^2 
+		GYRO X: 4.37 	Y: -1.60 	Z: 2.28 radians/s 
+ 		FINGERS: Thumb: 709	Pointer: 699	Middle: 686	Ring: 671	Pinkie: 716
+		A:-3.96, B:-2.30, C:7.94, D:4.37, E:-1.60, F:2.28
+
+
+		ACCEL X: -2.64 	Y: 0.63 	Z: 8.56 m/s^2 
+		GYRO X: 4.37 	Y: -1.46 	Z: 2.89 radians/s 
+ 		FINGERS: Thumb: 722	Pointer: 722	Middle: 719	Ring: 711	Pinkie: 716
+		A:-2.64, B:0.63, C:8.56, D:4.37, E:-1.46, F:2.89
+
+
+		ACCEL X: -1.84 	Y: 3.51 	Z: 8.56 m/s^2 
+		GYRO X: 4.37 	Y: -1.30 	Z: 2.22 radians/s 
+ 		FINGERS: Thumb: 719	Pointer: 721	Middle: 722	Ring: 720	Pinkie: 717
+		A:-1.84, B:3.51, C:8.56, D:4.37, E:-1.30, F:2.22
+
+
+		ACCEL X: -1.07 	Y: 6.59 	Z: 6.61 m/s^2 
+		GYRO X: 4.37 	Y: -0.97 	Z: 2.22 radians/s 
+ 		FINGERS: Thumb: 709	Pointer: 706	Middle: 705	Ring: 705	Pinkie: 717
+		A:-1.07, B:6.59, C:6.61, D:4.37, E:-0.97, F:2.22
+
+
+		ACCEL X: 0.11 	Y: 8.04 	Z: 5.35 m/s^2 
+		GYRO X: 4.37 	Y: -1.44 	Z: 2.28 radians/s 
+ 		FINGERS: Thumb: 697	Pointer: 684	Middle: 674	Ring: 669	Pinkie: 716
+		A:0.11, B:8.04, C:5.35, D:4.37, E:-1.44, F:2.28
+
+
+		ACCEL X: -0.55 	Y: 8.93 	Z: 0.72 m/s^2 
+		GYRO X: 4.37 	Y: -1.01 	Z: 1.25 radians/s 
+ 		FINGERS: Thumb: 697	Pointer: 679	Middle: 664	Ring: 653	Pinkie: 716
+		A:-0.55, B:8.93, C:0.72, D:4.37, E:-1.01, F:1.25
+
+
+		ACCEL X: 1.47 	Y: 10.60 	Z: -1.71 m/s^2 
+		GYRO X: 4.37 	Y: -0.63 	Z: 1.52 radians/s 
+ 		FINGERS: Thumb: 701	Pointer: 685	Middle: 668	Ring: 654	Pinkie: 716
+		A:1.47, B:10.60, C:-1.71, D:4.37, E:-0.63, F:1.52
+
+
+		ACCEL X: 2.89 	Y: 8.02 	Z: -4.84 m/s^2 
+		GYRO X: 4.37 	Y: -0.71 	Z: 2.01 radians/s 
+ 		FINGERS: Thumb: 711	Pointer: 702	Middle: 689	Ring: 675	Pinkie: 716
+		A:2.89, B:8.02, C:-4.84, D:4.37, E:-0.71, F:2.01
+
+
+		ACCEL X: 1.09 	Y: 7.99 	Z: -5.03 m/s^2 
+		GYRO X: 4.37 	Y: -0.02 	Z: 1.54 radians/s 
+ 		FINGERS: Thumb: 723	Pointer: 725	Middle: 724	Ring: 717	Pinkie: 716
+		A:1.09, B:7.99, C:-5.03, D:4.37, E:-0.02, F:1.54
+
+
+		ACCEL X: 1.73 	Y: 6.92 	Z: -7.90 m/s^2 
+		GYRO X: 4.37 	Y: -0.26 	Z: 0.92 radians/s 
+ 		FINGERS: Thumb: 718	Pointer: 721	Middle: 723	Ring: 722	Pinkie: 717
+		A:1.73, B:6.92, C:-7.90, D:4.37, E:-0.26, F:0.92
+
+
+		ACCEL X: 2.01 	Y: 5.12 	Z: -10.17 m/s^2 
+		GYRO X: 3.20 	Y: -0.06 	Z: 0.25 radians/s 
+ 		FINGERS: Thumb: 704	Pointer: 698	Middle: 695	Ring: 694	Pinkie: 717
+		A:2.01, B:5.12, C:-10.17, D:3.20, E:-0.06, F:0.25
+
+
+		ACCEL X: 2.41 	Y: 4.38 	Z: -10.41 m/s^2 
+		GYRO X: 0.49 	Y: -0.03 	Z: 0.09 radians/s 
+ 		FINGERS: Thumb: 697	Pointer: 682	Middle: 670	Ring: 662	Pinkie: 716
+		A:2.41, B:4.38, C:-10.41, D:0.49, E:-0.03, F:0.09
+
+
+		ACCEL X: 1.58 	Y: 4.55 	Z: -9.15 m/s^2 
+		GYRO X: -3.23 	Y: -0.07 	Z: -0.44 radians/s 
+ 		FINGERS: Thumb: 698	Pointer: 681	Middle: 665	Ring: 652	Pinkie: 716
+		A:1.58, B:4.55, C:-9.15, D:-3.23, E:-0.07, F:-0.44
+
+
+		ACCEL X: 2.83 	Y: 6.42 	Z: -9.65 m/s^2 
+		GYRO X: -4.37 	Y: 0.70 	Z: -1.83 radians/s 
+ 		FINGERS: Thumb: 703	Pointer: 688	Middle: 672	Ring: 657	Pinkie: 716
+		A:2.83, B:6.42, C:-9.65, D:-4.37, E:0.70, F:-1.83
+
+
+		ACCEL X: 2.88 	Y: 8.88 	Z: -7.03 m/s^2 
+		GYRO X: -4.37 	Y: 1.28 	Z: -1.85 radians/s 
+ 		FINGERS: Thumb: 708	Pointer: 697	Middle: 684	Ring: 669	Pinkie: 716
+		A:2.88, B:8.88, C:-7.03, D:-4.37, E:1.28, F:-1.85
+
+
+		ACCEL X: 1.72 	Y: 9.84 	Z: -2.71 m/s^2 
+		GYRO X: -4.37 	Y: 1.58 	Z: -1.96 radians/s 
+ 		FINGERS: Thumb: 723	Pointer: 724	Middle: 721	Ring: 713	Pinkie: 716
+		A:1.72, B:9.84, C:-2.71, D:-4.37, E:1.58, F:-1.96
+
+
+		ACCEL X: 0.77 	Y: 9.07 	Z: 0.47 m/s^2 
+		GYRO X: -4.37 	Y: 1.07 	Z: -2.66 radians/s 
+ 		FINGERS: Thumb: 719	Pointer: 722	Middle: 723	Ring: 722	Pinkie: 717
+		A:0.77, B:9.07, C:0.47, D:-4.37, E:1.07, F:-2.66
+
+
+		ACCEL X: 0.23 	Y: 9.12 	Z: 3.79 m/s^2 
+		GYRO X: -4.37 	Y: 1.13 	Z: -2.33 radians/s 
+ 		FINGERS: Thumb: 711	Pointer: 709	Middle: 709	Ring: 710	Pinkie: 717
+		A:0.23, B:9.12, C:3.79, D:-4.37, E:1.13, F:-2.33
+
+
+		ACCEL X: -1.23 	Y: 7.37 	Z: 6.06 m/s^2 
+		GYRO X: -4.37 	Y: 1.10 	Z: -2.18 radians/s 
+ 		FINGERS: Thumb: 697	Pointer: 684	Middle: 675	Ring: 671	Pinkie: 716
+		A:-1.23, B:7.37, C:6.06, D:-4.37, E:1.10, F:-2.18
+
+
+		ACCEL X: -2.15 	Y: 3.84 	Z: 6.84 m/s^2 
+		GYRO X: -4.37 	Y: 1.12 	Z: -2.80 radians/s 
+ 		FINGERS: Thumb: 699	Pointer: 683	Middle: 669	Ring: 659	Pinkie: 716
+		A:-2.15, B:3.84, C:6.84, D:-4.37, E:1.12, F:-2.80
+
+
+		ACCEL X: -3.50 	Y: 1.01 	Z: 8.66 m/s^2 
+		GYRO X: -4.37 	Y: 1.93 	Z: -3.83 radians/s 
+ 		FINGERS: Thumb: 701	Pointer: 685	Middle: 669	Ring: 656	Pinkie: 716
+		A:-3.50, B:1.01, C:8.66, D:-4.37, E:1.93, F:-3.83
+
+
+		ACCEL X: -4.96 	Y: -0.59 	Z: 8.20 m/s^2 
+		GYRO X: -4.37 	Y: 2.12 	Z: -2.17 radians/s 
+ 		FINGERS: Thumb: 704	Pointer: 691	Middle: 677	Ring: 663	Pinkie: 716
+		A:-4.96, B:-0.59, C:8.20, D:-4.37, E:2.12, F:-2.17
+
+
+		ACCEL X: -2.82 	Y: -5.23 	Z: 5.87 m/s^2 
+		GYRO X: -4.37 	Y: 0.58 	Z: -1.37 radians/s 
+ 		FINGERS: Thumb: 718	Pointer: 714	Middle: 706	Ring: 694	Pinkie: 717
+		A:-2.82, B:-5.23, C:5.87, D:-4.37, E:0.58, F:-1.37
+
+
+		ACCEL X: -3.17 	Y: -7.52 	Z: 5.41 m/s^2 
+		GYRO X: -4.37 	Y: 1.33 	Z: -1.96 radians/s 
+ 		FINGERS: Thumb: 720	Pointer: 721	Middle: 720	Ring: 715	Pinkie: 717
+		A:-3.17, B:-7.52, C:5.41, D:-4.37, E:1.33, F:-1.96
+
+
+		ACCEL X: -3.89 	Y: -8.54 	Z: 3.56 m/s^2 
+		GYRO X: -4.37 	Y: 1.87 	Z: -2.64 radians/s 
+ 		FINGERS: Thumb: 716	Pointer: 716	Middle: 717	Ring: 716	Pinkie: 717
+		A:-3.89, B:-8.54, C:3.56, D:-4.37, E:1.87, F:-2.64
+
+
+		ACCEL X: -3.49 	Y: -8.93 	Z: 0.73 m/s^2 
+		GYRO X: -2.60 	Y: 0.44 	Z: -0.71 radians/s 
+ 		FINGERS: Thumb: 707	Pointer: 702	Middle: 699	Ring: 698	Pinkie: 717
+		A:-3.49, B:-8.93, C:0.73, D:-2.60, E:0.44, F:-0.71
+
+
+		ACCEL X: -3.01 	Y: -9.17 	Z: 0.23 m/s^2 
+		GYRO X: 2.03 	Y: -0.80 	Z: 1.06 radians/s 
+ 		FINGERS: Thumb: 698	Pointer: 684	Middle: 674	Ring: 668	Pinkie: 716
+		A:-3.01, B:-9.17, C:0.23, D:2.03, E:-0.80, F:1.06
+
+
+		ACCEL X: -3.93 	Y: -8.62 	Z: 1.98 m/s^2 
+		GYRO X: 4.37 	Y: -2.20 	Z: 2.48 radians/s 
+ 		FINGERS: Thumb: 699	Pointer: 684	Middle: 670	Ring: 659	Pinkie: 716
+		A:-3.93, B:-8.62, C:1.98, D:4.37, E:-2.20, F:2.48
+
+
+		ACCEL X: -3.55 	Y: -7.82 	Z: 4.51 m/s^2 
+		GYRO X: 4.37 	Y: -2.68 	Z: 2.63 radians/s 
+ 		FINGERS: Thumb: 701	Pointer: 686	Middle: 670	Ring: 657	Pinkie: 716
+		A:-3.55, B:-7.82, C:4.51, D:4.37, E:-2.68, F:2.63
+
+
+		ACCEL X: -3.74 	Y: -5.63 	Z: 6.65 m/s^2 
+		GYRO X: 4.37 	Y: -1.77 	Z: 1.49 radians/s 
+ 		FINGERS: Thumb: 704	Pointer: 691	Middle: 677	Ring: 663	Pinkie: 716
+		A:-3.74, B:-5.63, C:6.65, D:4.37, E:-1.77, F:1.49
+
+
+		ACCEL X: -4.11 	Y: -4.52 	Z: 7.83 m/s^2 
+		GYRO X: 1.96 	Y: -0.98 	Z: 0.22 radians/s 
+ 		FINGERS: Thumb: 720	Pointer: 717	Middle: 709	Ring: 698	Pinkie: 716
+		A:-4.11, B:-4.52, C:7.83, D:1.96, E:-0.98, F:0.22
+
+
+		ACCEL X: -4.00 	Y: -3.77 	Z: 8.02 m/s^2 
+		GYRO X: 1.29 	Y: -1.15 	Z: -0.22 radians/s 
+ 		FINGERS: Thumb: 720	Pointer: 722	Middle: 722	Ring: 717	Pinkie: 717
+		A:-4.00, B:-3.77, C:8.02, D:1.29, E:-1.15, F:-0.22
+
+
+		ACCEL X: -3.25 	Y: -2.79 	Z: 7.99 m/s^2 
+		GYRO X: -0.08 	Y: -1.45 	Z: -1.02 radians/s 
+ 		FINGERS: Thumb: 714	Pointer: 714	Middle: 714	Ring: 714	Pinkie: 717
+		A:-3.25, B:-2.79, C:7.99, D:-0.08, E:-1.45, F:-1.02
+
+
+		ACCEL X: -0.94 	Y: 0.74 	Z: 8.47 m/s^2 
+		GYRO X: 0.19 	Y: -2.23 	Z: 0.23 radians/s 
+ 		FINGERS: Thumb: 704	Pointer: 697	Middle: 693	Ring: 692	Pinkie: 717
+		A:-0.94, B:0.74, C:8.47, D:0.19, E:-2.23, F:0.23
+
+
+		ACCEL X: -0.59 	Y: -5.67 	Z: 10.10 m/s^2 
+		GYRO X: -0.15 	Y: -2.18 	Z: 0.64 radians/s 
+ 		FINGERS: Thumb: 697	Pointer: 683	Middle: 671	Ring: 664	Pinkie: 716
+		A:-0.59, B:-5.67, C:10.10, D:-0.15, E:-2.18, F:0.64
+
+
+		ACCEL X: -1.58 	Y: -3.95 	Z: 5.95 m/s^2 
+		GYRO X: 4.37 	Y: -2.77 	Z: 0.93 radians/s 
+ 		FINGERS: Thumb: 699	Pointer: 684	Middle: 669	Ring: 658	Pinkie: 716
+		A:-1.58, B:-3.95, C:5.95, D:4.37, E:-2.77, F:0.93
+
+
+		ACCEL X: -0.92 	Y: -4.28 	Z: 1.25 m/s^2 
+		GYRO X: 2.65 	Y: -0.12 	Z: -0.97 radians/s 
+ 		FINGERS: Thumb: 701	Pointer: 686	Middle: 671	Ring: 657	Pinkie: 716
+		A:-0.92, B:-4.28, C:1.25, D:2.65, E:-0.12, F:-0.97
+
+
+		ACCEL X: 0.14 	Y: -3.14 	Z: 2.09 m/s^2 
+		GYRO X: 1.14 	Y: 2.37 	Z: -0.88 radians/s 
+ 		FINGERS: Thumb: 705	Pointer: 692	Middle: 678	Ring: 664	Pinkie: 716
+		A:0.14, B:-3.14, C:2.09, D:1.14, E:2.37, F:-0.88
+
+
+		ACCEL X: -0.71 	Y: 3.68 	Z: 9.56 m/s^2 
+		GYRO X: 2.50 	Y: 1.90 	Z: 1.31 radians/s 
+ 		FINGERS: Thumb: 722	Pointer: 720	Middle: 714	Ring: 703	Pinkie: 716
+		A:-0.71, B:3.68, C:9.56, D:2.50, E:1.90, F:1.31
+
+
+		ACCEL X: -1.72 	Y: 5.96 	Z: 18.03 m/s^2 
+		GYRO X: 1.09 	Y: 0.10 	Z: 0.18 radians/s 
+ 		FINGERS: Thumb: 721	Pointer: 724	Middle: 725	Ring: 722	Pinkie: 717
+		A:-1.72, B:5.96, C:18.03, D:1.09, E:0.10, F:0.18
+
+
+		ACCEL X: -2.59 	Y: 4.47 	Z: 13.80 m/s^2 
+		GYRO X: -1.53 	Y: -0.82 	Z: -0.50 radians/s 
+ 		FINGERS: Thumb: 711	Pointer: 709	Middle: 708	Ring: 708	Pinkie: 717
+		A:-2.59, B:4.47, C:13.80, D:-1.53, E:-0.82, F:-0.50
+
+
+		ACCEL X: -1.37 	Y: 1.24 	Z: 7.65 m/s^2 
+		GYRO X: 0.37 	Y: -0.96 	Z: 0.41 radians/s 
+ 		FINGERS: Thumb: 699	Pointer: 686	Middle: 678	Ring: 674	Pinkie: 716
+		A:-1.37, B:1.24, C:7.65, D:0.37, E:-0.96, F:0.41
+
+
+		ACCEL X: -1.59 	Y: -1.78 	Z: 5.12 m/s^2 
+		GYRO X: 4.37 	Y: -1.38 	Z: 2.30 radians/s 
+ 		FINGERS: Thumb: 699	Pointer: 684	Middle: 670	Ring: 661	Pinkie: 716
+		A:-1.59, B:-1.78, C:5.12, D:4.37, E:-1.38, F:2.30
+
+
+		ACCEL X: -3.63 	Y: 1.01 	Z: 2.70 m/s^2 
+		GYRO X: 4.37 	Y: -2.01 	Z: 3.18 radians/s 
+ 		FINGERS: Thumb: 700	Pointer: 685	Middle: 669	Ring: 656	Pinkie: 716
+		A:-3.63, B:1.01, C:2.70, D:4.37, E:-2.01, F:3.18
+
+
+		ACCEL X: 0.22 	Y: 4.57 	Z: 7.14 m/s^2 
+		GYRO X: 4.37 	Y: -0.03 	Z: 1.19 radians/s 
+ 		FINGERS: Thumb: 704	Pointer: 691	Middle: 676	Ring: 662	Pinkie: 716
+		A:0.22, B:4.57, C:7.14, D:4.37, E:-0.03, F:1.19
+
+
+		ACCEL X: 0.58 	Y: 7.72 	Z: 7.53 m/s^2 
+		GYRO X: 2.61 	Y: -0.03 	Z: 0.34 radians/s 
+ 		FINGERS: Thumb: 722	Pointer: 722	Middle: 716	Ring: 705	Pinkie: 716
+		A:0.58, B:7.72, C:7.53, D:2.61, E:-0.03, F:0.34
+
+
+		ACCEL X: 1.00 	Y: 8.21 	Z: 4.61 m/s^2 
+		GYRO X: 2.63 	Y: -0.04 	Z: 0.69 radians/s 
+ 		FINGERS: Thumb: 720	Pointer: 723	Middle: 725	Ring: 722	Pinkie: 716
+		A:1.00, B:8.21, C:4.61, D:2.63, E:-0.04, F:0.69
+
+
+		ACCEL X: 1.67 	Y: 9.25 	Z: 3.42 m/s^2 
+		GYRO X: 4.37 	Y: -0.22 	Z: 1.34 radians/s 
+ 		FINGERS: Thumb: 708	Pointer: 705	Middle: 704	Ring: 704	Pinkie: 716
+		A:1.67, B:9.25, C:3.42, D:4.37, E:-0.22, F:1.34
+
+
+		ACCEL X: 1.74 	Y: 9.99 	Z: 2.79 m/s^2 
+		GYRO X: 4.37 	Y: -0.74 	Z: 1.07 radians/s 
+ 		FINGERS: Thumb: 696	Pointer: 682	Middle: 672	Ring: 666	Pinkie: 716
+		A:1.74, B:9.99, C:2.79, D:4.37, E:-0.74, F:1.07
+
+
+		ACCEL X: 2.39 	Y: 10.17 	Z: -0.93 m/s^2 
+		GYRO X: 4.37 	Y: -0.21 	Z: 0.84 radians/s 
+ 		FINGERS: Thumb: 696	Pointer: 678	Middle: 662	Ring: 651	Pinkie: 716
+		A:2.39, B:10.17, C:-0.93, D:4.37, E:-0.21, F:0.84
+
+
+		ACCEL X: 2.22 	Y: 9.35 	Z: -1.19 m/s^2 
+		GYRO X: 4.37 	Y: -0.77 	Z: 1.36 radians/s 
+ 		FINGERS: Thumb: 702	Pointer: 687	Middle: 671	Ring: 656	Pinkie: 716
+		A:2.22, B:9.35, C:-1.19, D:4.37, E:-0.77, F:1.36
+
+
+		ACCEL X: 2.57 	Y: 9.69 	Z: -3.03 m/s^2 
+		GYRO X: 4.37 	Y: -0.72 	Z: 1.27 radians/s 
+ 		FINGERS: Thumb: 714	Pointer: 707	Middle: 697	Ring: 684	Pinkie: 716
+		A:2.57, B:9.69, C:-3.03, D:4.37, E:-0.72, F:1.27
+
+
+		ACCEL X: 3.33 	Y: 8.86 	Z: -6.04 m/s^2 
+		GYRO X: 4.37 	Y: -0.67 	Z: 1.17 radians/s 
+ 		FINGERS: Thumb: 723	Pointer: 725	Middle: 725	Ring: 719	Pinkie: 716
+		A:3.33, B:8.86, C:-6.04, D:4.37, E:-0.67, F:1.17
+
+
+		ACCEL X: 3.46 	Y: 6.83 	Z: -7.62 m/s^2 
+		GYRO X: 4.37 	Y: -0.55 	Z: 1.16 radians/s 
+ 		FINGERS: Thumb: 717	Pointer: 718	Middle: 720	Ring: 720	Pinkie: 717
+		A:3.46, B:6.83, C:-7.62, D:4.37, E:-0.55, F:1.16
+
+
+		ACCEL X: 3.68 	Y: 5.77 	Z: -8.69 m/s^2 
+		GYRO X: 4.37 	Y: -0.68 	Z: 0.90 radians/s 
+ 		FINGERS: Thumb: 701	Pointer: 692	Middle: 687	Ring: 686	Pinkie: 716
+		A:3.68, B:5.77, C:-8.69, D:4.37, E:-0.68, F:0.90
+
+
+		ACCEL X: 2.94 	Y: 4.42 	Z: -9.23 m/s^2 
+		GYRO X: 2.90 	Y: -0.16 	Z: 0.31 radians/s 
+ 		FINGERS: Thumb: 697	Pointer: 681	Middle: 668	Ring: 660	Pinkie: 716
+		A:2.94, B:4.42, C:-9.23, D:2.90, E:-0.16, F:0.31
+
+
+		ACCEL X: 4.15 	Y: 3.24 	Z: -10.99 m/s^2 
+		GYRO X: 0.14 	Y: 0.15 	Z: -0.27 radians/s 
+ 		FINGERS: Thumb: 698	Pointer: 680	Middle: 664	Ring: 650	Pinkie: 716
+		A:4.15, B:3.24, C:-10.99, D:0.14, E:0.15, F:-0.27
+
+
+		ACCEL X: 4.61 	Y: 4.48 	Z: -10.88 m/s^2 
+		GYRO X: 2.05 	Y: 0.40 	Z: 0.51 radians/s 
+ 		FINGERS: Thumb: 703	Pointer: 689	Middle: 673	Ring: 658	Pinkie: 716
+		A:4.61, B:4.48, C:-10.88, D:2.05, E:0.40, F:0.51
+
+
+		ACCEL X: 3.66 	Y: 1.64 	Z: -9.59 m/s^2 
+		GYRO X: 2.38 	Y: 0.09 	Z: 0.60 radians/s 
+ 		FINGERS: Thumb: 717	Pointer: 713	Middle: 704	Ring: 692	Pinkie: 716
+		A:3.66, B:1.64, C:-9.59, D:2.38, E:0.09, F:0.60
+
+
+		ACCEL X: 3.17 	Y: 1.24 	Z: -9.23 m/s^2 
+		GYRO X: 1.59 	Y: 0.03 	Z: 0.32 radians/s 
+ 		FINGERS: Thumb: 723	Pointer: 728	Middle: 729	Ring: 725	Pinkie: 717
+		A:3.17, B:1.24, C:-9.23, D:1.59, E:0.03, F:0.32
+
+
+		ACCEL X: 3.62 	Y: 0.90 	Z: -9.94 m/s^2 
+		GYRO X: 1.08 	Y: 0.16 	Z: 0.23 radians/s 
+ 		FINGERS: Thumb: 714	Pointer: 715	Middle: 717	Ring: 718	Pinkie: 717
+		A:3.62, B:0.90, C:-9.94, D:1.08, E:0.16, F:0.23
+
+
+		ACCEL X: 3.65 	Y: 0.40 	Z: -10.15 m/s^2 
+		GYRO X: 0.99 	Y: 0.24 	Z: 0.20 radians/s 
+ 		FINGERS: Thumb: 696	Pointer: 683	Middle: 674	Ring: 669	Pinkie: 716
+		A:3.65, B:0.40, C:-10.15, D:0.99, E:0.24, F:0.20
+
+
+		ACCEL X: 3.65 	Y: 0.61 	Z: -9.61 m/s^2 
+		GYRO X: 0.12 	Y: 0.20 	Z: -0.08 radians/s 
+ 		FINGERS: Thumb: 697	Pointer: 681	Middle: 666	Ring: 656	Pinkie: 716
+		A:3.65, B:0.61, C:-9.61, D:0.12, E:0.20, F:-0.08
+
+
+		ACCEL X: 3.88 	Y: 0.92 	Z: -9.54 m/s^2 
+		GYRO X: -0.28 	Y: 0.02 	Z: -0.34 radians/s 
+ 		FINGERS: Thumb: 701	Pointer: 685	Middle: 668	Ring: 654	Pinkie: 716
+		A:3.88, B:0.92, C:-9.54, D:-0.28, E:0.02, F:-0.34
+
+
+		ACCEL X: 3.60 	Y: 1.09 	Z: -8.77 m/s^2 
+		GYRO X: -2.40 	Y: 0.04 	Z: -0.84 radians/s 
+ 		FINGERS: Thumb: 706	Pointer: 694	Middle: 680	Ring: 664	Pinkie: 716
+		A:3.60, B:1.09, C:-8.77, D:-2.40, E:0.04, F:-0.84
+
+
+		ACCEL X: 4.31 	Y: 1.69 	Z: -9.24 m/s^2 
+		GYRO X: -4.37 	Y: 0.17 	Z: -1.42 radians/s 
+ 		FINGERS: Thumb: 723	Pointer: 723	Middle: 719	Ring: 710	Pinkie: 716
+		A:4.31, B:1.69, C:-9.24, D:-4.37, E:0.17, F:-1.42
+
+
+		ACCEL X: 4.34 	Y: 4.35 	Z: -8.94 m/s^2 
+		GYRO X: -4.37 	Y: 0.38 	Z: -1.68 radians/s 
+ 		FINGERS: Thumb: 720	Pointer: 723	Middle: 725	Ring: 723	Pinkie: 716
+		A:4.34, B:4.35, C:-8.94, D:-4.37, E:0.38, F:-1.68
+
+
+		ACCEL X: 3.67 	Y: 5.63 	Z: -7.86 m/s^2 
+		GYRO X: -4.37 	Y: 0.47 	Z: -1.52 radians/s 
+ 		FINGERS: Thumb: 713	Pointer: 712	Middle: 713	Ring: 714	Pinkie: 717
+		A:3.67, B:5.63, C:-7.86, D:-4.37, E:0.47, F:-1.52
+
+
+		ACCEL X: 3.54 	Y: 7.32 	Z: -6.86 m/s^2 
+		GYRO X: -4.37 	Y: 0.40 	Z: -1.30 radians/s 
+ 		FINGERS: Thumb: 697	Pointer: 684	Middle: 676	Ring: 673	Pinkie: 716
+		A:3.54, B:7.32, C:-6.86, D:-4.37, E:0.40, F:-1.30
+
+
+		ACCEL X: 3.35 	Y: 8.87 	Z: -4.96 m/s^2 
+		GYRO X: -3.93 	Y: 0.47 	Z: -1.21 radians/s 
+ 		FINGERS: Thumb: 698	Pointer: 682	Middle: 668	Ring: 658	Pinkie: 716
+		A:3.35, B:8.87, C:-4.96, D:-3.93, E:0.47, F:-1.21
+
+
+		ACCEL X: 2.95 	Y: 8.74 	Z: -4.82 m/s^2 
+		GYRO X: -1.53 	Y: 0.19 	Z: -0.48 radians/s 
+ 		FINGERS: Thumb: 699	Pointer: 682	Middle: 666	Ring: 651	Pinkie: 716
+		A:2.95, B:8.74, C:-4.82, D:-1.53, E:0.19, F:-0.48
+
+
+		ACCEL X: 2.68 	Y: 9.14 	Z: -3.00 m/s^2 
+		GYRO X: 0.27 	Y: -0.11 	Z: -0.14 radians/s 
+ 		FINGERS: Thumb: 703	Pointer: 690	Middle: 675	Ring: 659	Pinkie: 716
+		A:2.68, B:9.14, C:-3.00, D:0.27, E:-0.11, F:-0.14
+
+
+		ACCEL X: 2.92 	Y: 9.35 	Z: -3.98 m/s^2 
+		GYRO X: -0.29 	Y: -0.22 	Z: -0.38 radians/s 
+ 		FINGERS: Thumb: 716	Pointer: 711	Middle: 702	Ring: 689	Pinkie: 716
+		A:2.92, B:9.35, C:-3.98, D:-0.29, E:-0.22, F:-0.38
+
+
+		ACCEL X: 2.80 	Y: 9.48 	Z: -4.14 m/s^2 
+		GYRO X: -0.89 	Y: -0.07 	Z: -0.43 radians/s 
+ 		FINGERS: Thumb: 721	Pointer: 723	Middle: 723	Ring: 718	Pinkie: 716
+		A:2.80, B:9.48, C:-4.14, D:-0.89, E:-0.07, F:-0.43
+
+
+		ACCEL X: 2.94 	Y: 10.50 	Z: -3.63 m/s^2 
+		GYRO X: -3.52 	Y: 0.31 	Z: -1.11 radians/s 
+ 		FINGERS: Thumb: 717	Pointer: 719	Middle: 720	Ring: 720	Pinkie: 717
+		A:2.94, B:10.50, C:-3.63, D:-3.52, E:0.31, F:-1.11
+
+
+		ACCEL X: 2.50 	Y: 9.80 	Z: -2.21 m/s^2 
+		GYRO X: -2.82 	Y: 0.28 	Z: -0.75 radians/s 
+ 		FINGERS: Thumb: 708	Pointer: 704	Middle: 702	Ring: 703	Pinkie: 717
+		A:2.50, B:9.80, C:-2.21, D:-2.82, E:0.28, F:-0.75
+
+
+		ACCEL X: 1.90 	Y: 9.17 	Z: -1.63 m/s^2 
+		GYRO X: -2.40 	Y: 0.26 	Z: -0.60 radians/s 
+ 		FINGERS: Thumb: 696	Pointer: 681	Middle: 670	Ring: 664	Pinkie: 716
+		A:1.90, B:9.17, C:-1.63, D:-2.40, E:0.26, F:-0.60
+
+
+		ACCEL X: 1.49 	Y: 9.54 	Z: 0.25 m/s^2 
+		GYRO X: -2.95 	Y: 0.38 	Z: -0.89 radians/s 
+ 		FINGERS: Thumb: 698	Pointer: 681	Middle: 666	Ring: 654	Pinkie: 716
+		A:1.49, B:9.54, C:0.25, D:-2.95, E:0.38, F:-0.89
+
+
+		ACCEL X: 1.16 	Y: 9.33 	Z: 0.90 m/s^2 
+		GYRO X: -3.23 	Y: 0.42 	Z: -0.92 radians/s 
+ 		FINGERS: Thumb: 700	Pointer: 684	Middle: 667	Ring: 652	Pinkie: 716
+		A:1.16, B:9.33, C:0.90, D:-3.23, E:0.42, F:-0.92
+
+
+		ACCEL X: 0.60 	Y: 8.50 	Z: 1.89 m/s^2 
+		GYRO X: -3.17 	Y: 0.50 	Z: -0.51 radians/s 
+ 		FINGERS: Thumb: 706	Pointer: 693	Middle: 679	Ring: 663	Pinkie: 716
+		A:0.60, B:8.50, C:1.89, D:-3.17, E:0.50, F:-0.51
+
+
+		ACCEL X: 0.70 	Y: 9.24 	Z: 4.66 m/s^2 
+		GYRO X: -2.37 	Y: 0.34 	Z: -0.79 radians/s 
+ 		FINGERS: Thumb: 723	Pointer: 724	Middle: 721	Ring: 712	Pinkie: 716
+		A:0.70, B:9.24, C:4.66, D:-2.37, E:0.34, F:-0.79
+
+
+		ACCEL X: 0.34 	Y: 8.47 	Z: 3.59 m/s^2 
+		GYRO X: -3.07 	Y: 0.55 	Z: -0.52 radians/s 
+ 		FINGERS: Thumb: 720	Pointer: 723	Middle: 725	Ring: 724	Pinkie: 717
+		A:0.34, B:8.47, C:3.59, D:-3.07, E:0.55, F:-0.52
+
+
+		ACCEL X: 0.01 	Y: 8.08 	Z: 5.69 m/s^2 
+		GYRO X: -4.15 	Y: 0.69 	Z: -1.15 radians/s 
+ 		FINGERS: Thumb: 709	Pointer: 706	Middle: 705	Ring: 706	Pinkie: 716
+		A:0.01, B:8.08, C:5.69, D:-4.15, E:0.69, F:-1.15
+
+
+		ACCEL X: -0.48 	Y: 6.48 	Z: 7.02 m/s^2 
+		GYRO X: -4.37 	Y: 0.88 	Z: -1.54 radians/s 
+ 		FINGERS: Thumb: 697	Pointer: 683	Middle: 672	Ring: 667	Pinkie: 716
+		A:-0.48, B:6.48, C:7.02, D:-4.37, E:0.88, F:-1.54
+
+
+		ACCEL X: -1.18 	Y: 5.73 	Z: 7.26 m/s^2 
+		GYRO X: -3.22 	Y: 0.54 	Z: -0.80 radians/s 
+ 		FINGERS: Thumb: 698	Pointer: 681	Middle: 667	Ring: 656	Pinkie: 716
+		A:-1.18, B:5.73, C:7.26, D:-3.22, E:0.54, F:-0.80
+
+
+		ACCEL X: -1.29 	Y: 3.45 	Z: 8.12 m/s^2 
+		GYRO X: -3.94 	Y: 0.71 	Z: -1.06 radians/s 
+ 		FINGERS: Thumb: 701	Pointer: 685	Middle: 669	Ring: 655	Pinkie: 716
+		A:-1.29, B:3.45, C:8.12, D:-3.94, E:0.71, F:-1.06
+
+
+		ACCEL X: -1.72 	Y: 2.38 	Z: 8.31 m/s^2 
+		GYRO X: -4.37 	Y: 0.76 	Z: -1.30 radians/s 
+ 		FINGERS: Thumb: 706	Pointer: 693	Middle: 678	Ring: 663	Pinkie: 716
+		A:-1.72, B:2.38, C:8.31, D:-4.37, E:0.76, F:-1.30
+
+
+		ACCEL X: -2.30 	Y: 2.28 	Z: 8.87 m/s^2 
+		GYRO X: -2.62 	Y: 0.27 	Z: -0.65 radians/s 
+ 		FINGERS: Thumb: 722	Pointer: 722	Middle: 717	Ring: 707	Pinkie: 716
+		A:-2.30, B:2.28, C:8.87, D:-2.62, E:0.27, F:-0.65
+
+
+		ACCEL X: -2.13 	Y: 0.89 	Z: 8.08 m/s^2 
+		GYRO X: -2.04 	Y: 0.25 	Z: -0.41 radians/s 
+ 		FINGERS: Thumb: 720	Pointer: 724	Middle: 725	Ring: 723	Pinkie: 716
+		A:-2.13, B:0.89, C:8.08, D:-2.04, E:0.25, F:-0.41
+
+
+		ACCEL X: -2.80 	Y: -2.12 	Z: 10.04 m/s^2 
+		GYRO X: -4.29 	Y: 0.93 	Z: -1.19 radians/s 
+ 		FINGERS: Thumb: 713	Pointer: 712	Middle: 713	Ring: 714	Pinkie: 717
+		A:-2.80, B:-2.12, C:10.04, D:-4.29, E:0.93, F:-1.19
+
+
+		ACCEL X: -2.85 	Y: -2.32 	Z: 7.72 m/s^2 
+		GYRO X: -3.73 	Y: 0.73 	Z: -1.19 radians/s 
+ 		FINGERS: Thumb: 701	Pointer: 691	Middle: 685	Ring: 683	Pinkie: 716
+		A:-2.85, B:-2.32, C:7.72, D:-3.73, E:0.73, F:-1.19
+
+
+		ACCEL X: -2.41 	Y: -2.92 	Z: 6.05 m/s^2 
+		GYRO X: -2.37 	Y: 0.63 	Z: -0.92 radians/s 
+ 		FINGERS: Thumb: 698	Pointer: 683	Middle: 670	Ring: 661	Pinkie: 716
+		A:-2.41, B:-2.92, C:6.05, D:-2.37, E:0.63, F:-0.92
+
+
+		ACCEL X: -3.07 	Y: -6.76 	Z: 7.58 m/s^2 
+		GYRO X: -1.92 	Y: 0.31 	Z: -0.35 radians/s 
+ 		FINGERS: Thumb: 699	Pointer: 683	Middle: 667	Ring: 654	Pinkie: 716
+		A:-3.07, B:-6.76, C:7.58, D:-1.92, E:0.31, F:-0.35
+
+
+		ACCEL X: -2.54 	Y: -5.27 	Z: 7.00 m/s^2 
+		GYRO X: -4.37 	Y: 1.35 	Z: -1.79 radians/s 
+ 		FINGERS: Thumb: 702	Pointer: 687	Middle: 671	Ring: 656	Pinkie: 716
+		A:-2.54, B:-5.27, C:7.00, D:-4.37, E:1.35, F:-1.79
+
+
+		ACCEL X: -2.79 	Y: -5.87 	Z: 4.94 m/s^2 
+		GYRO X: -3.14 	Y: 0.99 	Z: -1.21 radians/s 
+ 		FINGERS: Thumb: 705	Pointer: 693	Middle: 679	Ring: 664	Pinkie: 716
+		A:-2.79, B:-5.87, C:4.94, D:-3.14, E:0.99, F:-1.21
+
+
+		ACCEL X: -2.94 	Y: -7.65 	Z: 4.87 m/s^2 
+		GYRO X: -2.30 	Y: 0.67 	Z: -0.68 radians/s 
+ 		FINGERS: Thumb: 720	Pointer: 718	Middle: 712	Ring: 702	Pinkie: 716
+		A:-2.94, B:-7.65, C:4.87, D:-2.30, E:0.67, F:-0.68
+
+
+		ACCEL X: -2.67 	Y: -8.40 	Z: 4.45 m/s^2 
+		GYRO X: -3.61 	Y: 1.11 	Z: -1.02 radians/s 
+ 		FINGERS: Thumb: 721	Pointer: 723	Middle: 725	Ring: 722	Pinkie: 716
+		A:-2.67, B:-8.40, C:4.45, D:-3.61, E:1.11, F:-1.02
+
+
+		ACCEL X: -2.38 	Y: -9.28 	Z: 2.40 m/s^2 
+		GYRO X: -4.37 	Y: 1.36 	Z: -1.22 radians/s 
+ 		FINGERS: Thumb: 715	Pointer: 716	Middle: 718	Ring: 718	Pinkie: 717
+		A:-2.38, B:-9.28, C:2.40, D:-4.37, E:1.36, F:-1.22
+
+
+		ACCEL X: -2.17 	Y: -9.50 	Z: 0.72 m/s^2 
+		GYRO X: -4.37 	Y: 1.57 	Z: -1.47 radians/s 
+ 		FINGERS: Thumb: 704	Pointer: 698	Middle: 694	Ring: 694	Pinkie: 717
+		A:-2.17, B:-9.50, C:0.72, D:-4.37, E:1.57, F:-1.47
+
+
+		ACCEL X: -1.76 	Y: -9.54 	Z: -0.95 m/s^2 
+		GYRO X: -3.95 	Y: 0.98 	Z: -1.04 radians/s 
+ 		FINGERS: Thumb: 697	Pointer: 682	Middle: 670	Ring: 662	Pinkie: 716
+		A:-1.76, B:-9.54, C:-0.95, D:-3.95, E:0.98, F:-1.04
+
+
+		ACCEL X: -1.05 	Y: -7.73 	Z: -3.22 m/s^2 
+		GYRO X: -2.61 	Y: 0.47 	Z: -0.61 radians/s 
+ 		FINGERS: Thumb: 700	Pointer: 684	Middle: 669	Ring: 657	Pinkie: 716
+		A:-1.05, B:-7.73, C:-3.22, D:-2.61, E:0.47, F:-0.61
+
+
+		ACCEL X: -1.16 	Y: -11.52 	Z: -3.31 m/s^2 
+		GYRO X: -1.83 	Y: 0.64 	Z: 0.00 radians/s 
+ 		FINGERS: Thumb: 701	Pointer: 686	Middle: 670	Ring: 656	Pinkie: 716
+		A:-1.16, B:-11.52, C:-3.31, D:-1.83, E:0.64, F:0.00
+
+
+		ACCEL X: -0.68 	Y: -8.38 	Z: -3.27 m/s^2 
+		GYRO X: -2.76 	Y: 0.86 	Z: -0.66 radians/s 
+ 		FINGERS: Thumb: 704	Pointer: 692	Middle: 678	Ring: 663	Pinkie: 716
+		A:-0.68, B:-8.38, C:-3.27, D:-2.76, E:0.86, F:-0.66
+
+
+		ACCEL X: -1.02 	Y: -8.23 	Z: -5.49 m/s^2 
+		GYRO X: -1.18 	Y: -0.01 	Z: 0.09 radians/s 
+ 		FINGERS: Thumb: 710	Pointer: 701	Middle: 690	Ring: 676	Pinkie: 716
+		A:-1.02, B:-8.23, C:-5.49, D:-1.18, E:-0.01, F:0.09
+
+
+		ACCEL X: -1.32 	Y: -10.11 	Z: -4.24 m/s^2 
+		GYRO X: -0.44 	Y: 0.08 	Z: -0.03 radians/s 
+ 		FINGERS: Thumb: 721	Pointer: 720	Middle: 717	Ring: 708	Pinkie: 717
+		A:-1.32, B:-10.11, C:-4.24, D:-0.44, E:0.08, F:-0.03
+
+
+		ACCEL X: -0.94 	Y: -8.52 	Z: -5.19 m/s^2 
+		GYRO X: 0.37 	Y: 0.23 	Z: 0.61 radians/s 
+ 		FINGERS: Thumb: 718	Pointer: 719	Middle: 719	Ring: 717	Pinkie: 717
+		A:-0.94, B:-8.52, C:-5.19, D:0.37, E:0.23, F:0.61
+
+
+		ACCEL X: -0.69 	Y: -10.07 	Z: -4.03 m/s^2 
+		GYRO X: -0.48 	Y: 0.24 	Z: -0.41 radians/s 
+ 		FINGERS: Thumb: 715	Pointer: 715	Middle: 715	Ring: 715	Pinkie: 717
+		A:-0.69, B:-10.07, C:-4.03, D:-0.48, E:0.24, F:-0.41
+
+
+		ACCEL X: -1.61 	Y: -7.87 	Z: -3.91 m/s^2 
+		GYRO X: 2.07 	Y: -0.30 	Z: 0.31 radians/s 
+ 		FINGERS: Thumb: 707	Pointer: 702	Middle: 699	Ring: 698	Pinkie: 717
+		A:-1.61, B:-7.87, C:-3.91, D:2.07, E:-0.30, F:0.31
+
+
+		ACCEL X: -1.10 	Y: -9.16 	Z: -4.25 m/s^2 
+		GYRO X: 4.37 	Y: -1.21 	Z: 1.30 radians/s 
+ 		FINGERS: Thumb: 698	Pointer: 683	Middle: 672	Ring: 665	Pinkie: 717
+		A:-1.10, B:-9.16, C:-4.25, D:4.37, E:-1.21, F:1.30
+
+
+		ACCEL X: -2.61 	Y: -9.50 	Z: -0.82 m/s^2 
+		GYRO X: 4.37 	Y: -2.05 	Z: 2.16 radians/s 
+ 		FINGERS: Thumb: 699	Pointer: 683	Middle: 669	Ring: 657	Pinkie: 716
+		A:-2.61, B:-9.50, C:-0.82, D:4.37, E:-2.05, F:2.16
+
+
+		ACCEL X: -3.13 	Y: -8.55 	Z: 0.46 m/s^2 
+		GYRO X: 4.37 	Y: -1.71 	Z: 2.24 radians/s 
+ 		FINGERS: Thumb: 701	Pointer: 685	Middle: 669	Ring: 655	Pinkie: 716
+		A:-3.13, B:-8.55, C:0.46, D:4.37, E:-1.71, F:2.24
+
+
+		ACCEL X: -3.12 	Y: -7.70 	Z: 3.22 m/s^2 
+		GYRO X: 4.37 	Y: -1.95 	Z: 2.75 radians/s 
+ 		FINGERS: Thumb: 704	Pointer: 691	Middle: 676	Ring: 662	Pinkie: 716
+		A:-3.12, B:-7.70, C:3.22, D:4.37, E:-1.95, F:2.75
+
+
+		ACCEL X: -3.69 	Y: -4.96 	Z: 7.15 m/s^2 
+		GYRO X: 4.37 	Y: -1.39 	Z: 1.87 radians/s 
+ 		FINGERS: Thumb: 716	Pointer: 711	Middle: 702	Ring: 690	Pinkie: 716
+		A:-3.69, B:-4.96, C:7.15, D:4.37, E:-1.39, F:1.87
+
+
+		ACCEL X: -3.78 	Y: -2.91 	Z: 8.21 m/s^2 
+		GYRO X: 4.37 	Y: -1.57 	Z: 2.23 radians/s 
+ 		FINGERS: Thumb: 721	Pointer: 723	Middle: 722	Ring: 717	Pinkie: 717
+		A:-3.78, B:-2.91, C:8.21, D:4.37, E:-1.57, F:2.23
+
+
+		ACCEL X: -3.38 	Y: -0.26 	Z: 8.66 m/s^2 
+		GYRO X: 4.37 	Y: -1.31 	Z: 2.01 radians/s 
+ 		FINGERS: Thumb: 716	Pointer: 717	Middle: 718	Ring: 718	Pinkie: 717
+		A:-3.38, B:-0.26, C:8.66, D:4.37, E:-1.31, F:2.01
+
+
+		ACCEL X: -2.82 	Y: 1.95 	Z: 8.45 m/s^2 
+		GYRO X: 4.37 	Y: -1.20 	Z: 2.19 radians/s 
+ 		FINGERS: Thumb: 704	Pointer: 697	Middle: 694	Ring: 693	Pinkie: 717
+		A:-2.82, B:1.95, C:8.45, D:4.37, E:-1.20, F:2.19
+
+
+		ACCEL X: -1.94 	Y: 5.24 	Z: 7.71 m/s^2 
+		GYRO X: 4.37 	Y: -1.12 	Z: 1.70 radians/s 
+ 		FINGERS: Thumb: 697	Pointer: 682	Middle: 670	Ring: 663	Pinkie: 716
+		A:-1.94, B:5.24, C:7.71, D:4.37, E:-1.12, F:1.70
+
+
+		ACCEL X: -0.77 	Y: 6.19 	Z: 5.81 m/s^2 
+		GYRO X: 4.37 	Y: -0.40 	Z: 1.50 radians/s 
+ 		FINGERS: Thumb: 698	Pointer: 680	Middle: 664	Ring: 652	Pinkie: 716
+		A:-0.77, B:6.19, C:5.81, D:4.37, E:-0.40, F:1.50
+
+
+		ACCEL X: -1.15 	Y: 8.24 	Z: 5.28 m/s^2 
+		GYRO X: 4.37 	Y: -1.09 	Z: 1.48 radians/s 
+ 		FINGERS: Thumb: 702	Pointer: 687	Middle: 672	Ring: 657	Pinkie: 716
+		A:-1.15, B:8.24, C:5.28, D:4.37, E:-1.09, F:1.48
+
+
+		ACCEL X: 0.31 	Y: 9.75 	Z: 1.26 m/s^2 
+		GYRO X: 4.37 	Y: -0.94 	Z: 1.83 radians/s 
+ 		FINGERS: Thumb: 715	Pointer: 709	Middle: 699	Ring: 686	Pinkie: 716
+		A:0.31, B:9.75, C:1.26, D:4.37, E:-0.94, F:1.83
+
+
+		ACCEL X: 0.65 	Y: 11.13 	Z: -0.49 m/s^2 
+		GYRO X: 4.37 	Y: -0.62 	Z: 1.84 radians/s 
+ 		FINGERS: Thumb: 723	Pointer: 726	Middle: 726	Ring: 721	Pinkie: 716
+		A:0.65, B:11.13, C:-0.49, D:4.37, E:-0.62, F:1.84
+
+
+		ACCEL X: 1.20 	Y: 10.06 	Z: -2.60 m/s^2 
+		GYRO X: 4.37 	Y: -0.56 	Z: 1.37 radians/s 
+ 		FINGERS: Thumb: 716	Pointer: 716	Middle: 718	Ring: 718	Pinkie: 717
+		A:1.20, B:10.06, C:-2.60, D:4.37, E:-0.56, F:1.37
+
+
+		ACCEL X: 1.97 	Y: 7.79 	Z: -4.37 m/s^2 
+		GYRO X: 3.89 	Y: -0.72 	Z: 0.74 radians/s 
+ 		FINGERS: Thumb: 701	Pointer: 691	Middle: 686	Ring: 684	Pinkie: 716
+		A:1.97, B:7.79, C:-4.37, D:3.89, E:-0.72, F:0.74
+
+
+		ACCEL X: 2.41 	Y: 8.57 	Z: -5.21 m/s^2 
+		GYRO X: 4.37 	Y: -0.24 	Z: 1.27 radians/s 
+ 		FINGERS: Thumb: 697	Pointer: 681	Middle: 668	Ring: 659	Pinkie: 716
+		A:2.41, B:8.57, C:-5.21, D:4.37, E:-0.24, F:1.27
+
+
+		ACCEL X: 3.14 	Y: 7.67 	Z: -7.55 m/s^2 
+		GYRO X: 4.37 	Y: -0.55 	Z: 1.53 radians/s 
+ 		FINGERS: Thumb: 698	Pointer: 681	Middle: 664	Ring: 650	Pinkie: 716
+		A:3.14, B:7.67, C:-7.55, D:4.37, E:-0.55, F:1.53
+
+
+		ACCEL X: 1.79 	Y: 5.82 	Z: -7.85 m/s^2 
+		GYRO X: 4.37 	Y: -0.89 	Z: 1.42 radians/s 
+ 		FINGERS: Thumb: 703	Pointer: 689	Middle: 673	Ring: 658	Pinkie: 716
+		A:1.79, B:5.82, C:-7.85, D:4.37, E:-0.89, F:1.42
+
+
+		ACCEL X: 2.32 	Y: 4.38 	Z: -9.03 m/s^2 
+		GYRO X: 4.21 	Y: -0.55 	Z: 0.60 radians/s 
+ 		FINGERS: Thumb: 719	Pointer: 715	Middle: 707	Ring: 695	Pinkie: 717
+		A:2.32, B:4.38, C:-9.03, D:4.21, E:-0.55, F:0.60
+
+
+		ACCEL X: 2.13 	Y: 2.68 	Z: -10.18 m/s^2 
+		GYRO X: 1.10 	Y: -0.54 	Z: -0.32 radians/s 
+ 		FINGERS: Thumb: 722	Pointer: 725	Middle: 726	Ring: 722	Pinkie: 717
+		A:2.13, B:2.68, C:-10.18, D:1.10, E:-0.54, F:-0.32
+
+
+		ACCEL X: 2.62 	Y: 3.54 	Z: -10.44 m/s^2 
+		GYRO X: 0.39 	Y: -0.12 	Z: -0.25 radians/s 
+ 		FINGERS: Thumb: 715	Pointer: 715	Middle: 717	Ring: 717	Pinkie: 717
+		A:2.62, B:3.54, C:-10.44, D:0.39, E:-0.12, F:-0.25
+
+
+		ACCEL X: 2.41 	Y: 2.99 	Z: -11.53 m/s^2 
+		GYRO X: -2.85 	Y: 0.33 	Z: -0.77 radians/s 
+ 		FINGERS: Thumb: 703	Pointer: 694	Middle: 690	Ring: 688	Pinkie: 716
+		A:2.41, B:2.99, C:-11.53, D:-2.85, E:0.33, F:-0.77
+
+
+		ACCEL X: 2.61 	Y: 8.65 	Z: -10.08 m/s^2 
+		GYRO X: -4.37 	Y: 1.51 	Z: -3.15 radians/s 
+ 		FINGERS: Thumb: 698	Pointer: 683	Middle: 670	Ring: 662	Pinkie: 716
+		A:2.61, B:8.65, C:-10.08, D:-4.37, E:1.51, F:-3.15
+
+
+		ACCEL X: 2.16 	Y: 5.12 	Z: -5.69 m/s^2 
+		GYRO X: -4.37 	Y: 0.66 	Z: -3.81 radians/s 
+ 		FINGERS: Thumb: 700	Pointer: 685	Middle: 670	Ring: 658	Pinkie: 716
+		A:2.16, B:5.12, C:-5.69, D:-4.37, E:0.66, F:-3.81
+
+
+		ACCEL X: 1.35 	Y: 4.88 	Z: -0.32 m/s^2 
+		GYRO X: 2.10 	Y: 0.16 	Z: 0.83 radians/s 
+ 		FINGERS: Thumb: 702	Pointer: 688	Middle: 673	Ring: 659	Pinkie: 716
+		A:1.35, B:4.88, C:-0.32, D:2.10, E:0.16, F:0.83
+
+
+		ACCEL X: 0.42 	Y: 7.61 	Z: 1.70 m/s^2 
+		GYRO X: 3.84 	Y: -0.73 	Z: 0.46 radians/s 
+ 		FINGERS: Thumb: 709	Pointer: 699	Middle: 686	Ring: 672	Pinkie: 716
+		A:0.42, B:7.61, C:1.70, D:3.84, E:-0.73, F:0.46
+
+
+		ACCEL X: 2.34 	Y: 11.61 	Z: -5.23 m/s^2 
+		GYRO X: -0.97 	Y: -0.55 	Z: -1.60 radians/s 
+ 		FINGERS: Thumb: 723	Pointer: 724	Middle: 721	Ring: 713	Pinkie: 717
+		A:2.34, B:11.61, C:-5.23, D:-0.97, E:-0.55, F:-1.60
+
+
+		ACCEL X: 2.09 	Y: 19.61 	Z: -4.31 m/s^2 
+		GYRO X: -4.37 	Y: 0.47 	Z: -3.77 radians/s 
+ 		FINGERS: Thumb: 718	Pointer: 719	Middle: 720	Ring: 718	Pinkie: 717
+		A:2.09, B:19.61, C:-4.31, D:-4.37, E:0.47, F:-3.77
+
+
+		ACCEL X: -1.50 	Y: 15.27 	Z: -2.33 m/s^2 
+		GYRO X: -4.37 	Y: 1.39 	Z: -1.60 radians/s 
+ 		FINGERS: Thumb: 710	Pointer: 707	Middle: 706	Ring: 705	Pinkie: 717
+		A:-1.50, B:15.27, C:-2.33, D:-4.37, E:1.39, F:-1.60
+
+
+		ACCEL X: -2.21 	Y: -1.71 	Z: 4.79 m/s^2 
+		GYRO X: -3.41 	Y: 1.00 	Z: 0.21 radians/s 
+ 		FINGERS: Thumb: 699	Pointer: 688	Middle: 680	Ring: 676	Pinkie: 716
+		A:-2.21, B:-1.71, C:4.79, D:-3.41, E:1.00, F:0.21
+
+
+		ACCEL X: -3.63 	Y: -9.39 	Z: 6.53 m/s^2 
+		GYRO X: -3.25 	Y: 0.99 	Z: -1.19 radians/s 
+ 		FINGERS: Thumb: 699	Pointer: 684	Middle: 671	Ring: 662	Pinkie: 716
+		A:-3.63, B:-9.39, C:6.53, D:-3.25, E:0.99, F:-1.19
+
+
+		ACCEL X: -2.25 	Y: -3.75 	Z: 3.50 m/s^2 
+		GYRO X: -4.37 	Y: 1.94 	Z: -3.07 radians/s 
+ 		FINGERS: Thumb: 700	Pointer: 684	Middle: 669	Ring: 656	Pinkie: 716
+		A:-2.25, B:-3.75, C:3.50, D:-4.37, E:1.94, F:-3.07
+
+
+		ACCEL X: -6.88 	Y: 11.30 	Z: 13.93 m/s^2 
+		GYRO X: -2.90 	Y: 0.78 	Z: -2.37 radians/s 
+ 		FINGERS: Thumb: 703	Pointer: 689	Middle: 675	Ring: 660	Pinkie: 716
+		A:-6.88, B:11.30, C:13.93, D:-2.90, E:0.78, F:-2.37
+
+
+		ACCEL X: -6.53 	Y: 10.26 	Z: 15.16 m/s^2 
+		GYRO X: -0.08 	Y: 0.03 	Z: -0.56 radians/s 
+ 		FINGERS: Thumb: 707	Pointer: 697	Middle: 684	Ring: 669	Pinkie: 716
+		A:-6.53, B:10.26, C:15.16, D:-0.08, E:0.03, F:-0.56
+
+
+		ACCEL X: -5.53 	Y: 7.38 	Z: 11.83 m/s^2 
+		GYRO X: -1.99 	Y: -0.08 	Z: -0.65 radians/s 
+ 		FINGERS: Thumb: 718	Pointer: 716	Middle: 710	Ring: 700	Pinkie: 716
+		A:-5.53, B:7.38, C:11.83, D:-1.99, E:-0.08, F:-0.65
+
+
+		ACCEL X: -3.40 	Y: 1.23 	Z: 7.74 m/s^2 
+		GYRO X: -1.01 	Y: -0.54 	Z: -0.28 radians/s 
+ 		FINGERS: Thumb: 718	Pointer: 718	Middle: 717	Ring: 713	Pinkie: 717
+		A:-3.40, B:1.23, C:7.74, D:-1.01, E:-0.54, F:-0.28
+
+
+		ACCEL X: -1.71 	Y: -6.10 	Z: 0.12 m/s^2 
+		GYRO X: 2.19 	Y: -1.18 	Z: 0.59 radians/s 
+ 		FINGERS: Thumb: 715	Pointer: 714	Middle: 714	Ring: 713	Pinkie: 717
+		A:-1.71, B:-6.10, C:0.12, D:2.19, E:-1.18, F:0.59
+
+
+		ACCEL X: -2.00 	Y: -8.47 	Z: -0.23 m/s^2 
+		GYRO X: 3.04 	Y: 0.37 	Z: 0.42 radians/s 
+ 		FINGERS: Thumb: 705	Pointer: 699	Middle: 695	Ring: 694	Pinkie: 716
+		A:-2.00, B:-8.47, C:-0.23, D:3.04, E:0.37, F:0.42
+
+
+		ACCEL X: -2.14 	Y: 3.87 	Z: 6.49 m/s^2 
+		GYRO X: 0.54 	Y: 1.46 	Z: 0.10 radians/s 
+ 		FINGERS: Thumb: 698	Pointer: 684	Middle: 673	Ring: 667	Pinkie: 716
+		A:-2.14, B:3.87, C:6.49, D:0.54, E:1.46, F:0.10
+
+
+		ACCEL X: -5.86 	Y: 11.70 	Z: 14.40 m/s^2 
+		GYRO X: -0.50 	Y: 0.56 	Z: -0.19 radians/s 
+ 		FINGERS: Thumb: 698	Pointer: 681	Middle: 666	Ring: 655	Pinkie: 716
+		A:-5.86, B:11.70, C:14.40, D:-0.50, E:0.56, F:-0.19
+
+
+		ACCEL X: -6.63 	Y: 11.40 	Z: 12.64 m/s^2 
+		GYRO X: -0.71 	Y: 0.14 	Z: -0.41 radians/s 
+ 		FINGERS: Thumb: 702	Pointer: 688	Middle: 673	Ring: 659	Pinkie: 716
+		A:-6.63, B:11.40, C:12.64, D:-0.71, E:0.14, F:-0.41
+
+
+		ACCEL X: -3.73 	Y: 4.92 	Z: 8.53 m/s^2 
+		GYRO X: -0.44 	Y: -0.58 	Z: -0.47 radians/s 
+ 		FINGERS: Thumb: 706	Pointer: 694	Middle: 680	Ring: 666	Pinkie: 716
+		A:-3.73, B:4.92, C:8.53, D:-0.44, E:-0.58, F:-0.47
+
+
+		ACCEL X: -2.71 	Y: -4.25 	Z: 2.08 m/s^2 
+		GYRO X: 1.44 	Y: -1.13 	Z: 1.25 radians/s 
+ 		FINGERS: Thumb: 718	Pointer: 715	Middle: 708	Ring: 697	Pinkie: 716
+		A:-2.71, B:-4.25, C:2.08, D:1.44, E:-1.13, F:1.25
+
+
+		ACCEL X: -2.92 	Y: -8.33 	Z: 0.45 m/s^2 
+		GYRO X: 2.66 	Y: 0.23 	Z: 0.63 radians/s 
+ 		FINGERS: Thumb: 719	Pointer: 721	Middle: 720	Ring: 715	Pinkie: 717
+		A:-2.92, B:-8.33, C:0.45, D:2.66, E:0.23, F:0.63
+
+
+		ACCEL X: -2.91 	Y: 0.30 	Z: 5.64 m/s^2 
+		GYRO X: -0.50 	Y: 1.71 	Z: -0.94 radians/s 
+ 		FINGERS: Thumb: 714	Pointer: 714	Middle: 714	Ring: 713	Pinkie: 717
+		A:-2.91, B:0.30, C:5.64, D:-0.50, E:1.71, F:-0.94
+
+
+		ACCEL X: -5.97 	Y: 9.37 	Z: 11.85 m/s^2 
+		GYRO X: -2.82 	Y: 1.22 	Z: -0.73 radians/s 
+ 		FINGERS: Thumb: 700	Pointer: 690	Middle: 684	Ring: 682	Pinkie: 716
+		A:-5.97, B:9.37, C:11.85, D:-2.82, E:1.22, F:-0.73
+
+
+		ACCEL X: -8.32 	Y: 10.20 	Z: 13.22 m/s^2 
+		GYRO X: -1.56 	Y: 0.58 	Z: -0.44 radians/s 
+ 		FINGERS: Thumb: 700	Pointer: 686	Middle: 674	Ring: 666	Pinkie: 716
+		A:-8.32, B:10.20, C:13.22, D:-1.56, E:0.58, F:-0.44
+
+
+		ACCEL X: -5.32 	Y: 4.96 	Z: 9.25 m/s^2 
+		GYRO X: -0.69 	Y: -0.34 	Z: -0.84 radians/s 
+ 		FINGERS: Thumb: 701	Pointer: 686	Middle: 673	Ring: 661	Pinkie: 716
+		A:-5.32, B:4.96, C:9.25, D:-0.69, E:-0.34, F:-0.84
+
+
+		ACCEL X: -3.10 	Y: -2.31 	Z: 4.20 m/s^2 
+		GYRO X: 0.65 	Y: -0.95 	Z: 0.15 radians/s 
+ 		FINGERS: Thumb: 703	Pointer: 690	Middle: 676	Ring: 663	Pinkie: 716
+		A:-3.10, B:-2.31, C:4.20, D:0.65, E:-0.95, F:0.15
+
+
+		ACCEL X: -2.47 	Y: -2.97 	Z: 0.02 m/s^2 
+		GYRO X: 0.61 	Y: -0.23 	Z: 0.02 radians/s 
+ 		FINGERS: Thumb: 707	Pointer: 696	Middle: 684	Ring: 670	Pinkie: 716
+		A:-2.47, B:-2.97, C:0.02, D:0.61, E:-0.23, F:0.02
+
+
+		ACCEL X: -2.80 	Y: -3.08 	Z: 2.25 m/s^2 
+		GYRO X: 0.40 	Y: 1.69 	Z: 0.14 radians/s 
+ 		FINGERS: Thumb: 720	Pointer: 719	Middle: 715	Ring: 706	Pinkie: 716
+		A:-2.80, B:-3.08, C:2.25, D:0.40, E:1.69, F:0.14
+
+
+		ACCEL X: -6.16 	Y: 3.10 	Z: 9.55 m/s^2 
+		GYRO X: -1.37 	Y: 2.63 	Z: 0.20 radians/s 
+ 		FINGERS: Thumb: 718	Pointer: 719	Middle: 720	Ring: 717	Pinkie: 717
+		A:-6.16, B:3.10, C:9.55, D:-1.37, E:2.63, F:0.20
+
+
+		ACCEL X: -12.19 	Y: 6.64 	Z: 15.39 m/s^2 
+		GYRO X: -1.44 	Y: 1.26 	Z: 0.02 radians/s 
+ 		FINGERS: Thumb: 710	Pointer: 706	Middle: 705	Ring: 704	Pinkie: 716
+		A:-12.19, B:6.64, C:15.39, D:-1.44, E:1.26, F:0.02
+
+
+		ACCEL X: -9.84 	Y: 3.56 	Z: 15.46 m/s^2 
+		GYRO X: -0.31 	Y: -1.58 	Z: -0.46 radians/s 
+ 		FINGERS: Thumb: 699	Pointer: 687	Middle: 678	Ring: 673	Pinkie: 716
+		A:-9.84, B:3.56, C:15.46, D:-0.31, E:-1.58, F:-0.46
+
+
+		ACCEL X: -5.56 	Y: 1.28 	Z: 5.66 m/s^2 
+		GYRO X: -0.06 	Y: -2.93 	Z: -0.58 radians/s 
+ 		FINGERS: Thumb: 701	Pointer: 687	Middle: 675	Ring: 666	Pinkie: 716
+		A:-5.56, B:1.28, C:5.66, D:-0.06, E:-2.93, F:-0.58
+
+
+		ACCEL X: -2.26 	Y: -1.69 	Z: -0.44 m/s^2 
+		GYRO X: 0.85 	Y: -2.47 	Z: -0.16 radians/s 
+ 		FINGERS: Thumb: 701	Pointer: 686	Middle: 672	Ring: 660	Pinkie: 716
+		A:-2.26, B:-1.69, C:-0.44, D:0.85, E:-2.47, F:-0.16
+
+
+		ACCEL X: -1.45 	Y: -1.09 	Z: -3.74 m/s^2 
+		GYRO X: 0.32 	Y: 0.70 	Z: -0.46 radians/s 
+ 		FINGERS: Thumb: 703	Pointer: 691	Middle: 677	Ring: 664	Pinkie: 716
+		A:-1.45, B:-1.09, C:-3.74, D:0.32, E:0.70, F:-0.46
+
+
+		ACCEL X: -2.39 	Y: 2.11 	Z: 1.25 m/s^2 
+		GYRO X: -0.14 	Y: 4.12 	Z: 0.03 radians/s 
+ 		FINGERS: Thumb: 709	Pointer: 699	Middle: 687	Ring: 674	Pinkie: 716
+		A:-2.39, B:2.11, C:1.25, D:-0.14, E:4.12, F:0.03
+
+
+		ACCEL X: -9.76 	Y: 4.34 	Z: 15.85 m/s^2 
+		GYRO X: -0.68 	Y: 3.17 	Z: 0.75 radians/s 
+ 		FINGERS: Thumb: 721	Pointer: 721	Middle: 718	Ring: 711	Pinkie: 716
+		A:-9.76, B:4.34, C:15.85, D:-0.68, E:3.17, F:0.75
+
+
+		ACCEL X: -13.78 	Y: 3.53 	Z: 18.17 m/s^2 
+		GYRO X: -1.06 	Y: 0.16 	Z: -0.63 radians/s 
+ 		FINGERS: Thumb: 718	Pointer: 719	Middle: 719	Ring: 717	Pinkie: 717
+		A:-13.78, B:3.53, C:18.17, D:-1.06, E:0.16, F:-0.63
+
+
+		ACCEL X: -8.70 	Y: 0.57 	Z: 11.06 m/s^2 
+		GYRO X: -1.34 	Y: -1.66 	Z: -1.10 radians/s 
+ 		FINGERS: Thumb: 711	Pointer: 708	Middle: 707	Ring: 706	Pinkie: 717
+		A:-8.70, B:0.57, C:11.06, D:-1.34, E:-1.66, F:-1.10
+
+
+		ACCEL X: -3.89 	Y: -1.62 	Z: 4.69 m/s^2 
+		GYRO X: -0.62 	Y: -4.07 	Z: -0.41 radians/s 
+ 		FINGERS: Thumb: 701	Pointer: 690	Middle: 683	Ring: 680	Pinkie: 716
+		A:-3.89, B:-1.62, C:4.69, D:-0.62, E:-4.07, F:-0.41
+
+
+		ACCEL X: -1.56 	Y: -1.62 	Z: -1.99 m/s^2 
+		GYRO X: 0.73 	Y: -2.14 	Z: 0.23 radians/s 
+ 		FINGERS: Thumb: 700	Pointer: 686	Middle: 674	Ring: 666	Pinkie: 716
+		A:-1.56, B:-1.62, C:-1.99, D:0.73, E:-2.14, F:0.23
+
+
+		ACCEL X: -1.23 	Y: -1.28 	Z: -7.15 m/s^2 
+		GYRO X: -0.39 	Y: 1.78 	Z: -0.47 radians/s 
+ 		FINGERS: Thumb: 700	Pointer: 685	Middle: 671	Ring: 659	Pinkie: 716
+		A:-1.23, B:-1.28, C:-7.15, D:-0.39, E:1.78, F:-0.47
+
+
+		ACCEL X: -4.79 	Y: 1.60 	Z: 8.75 m/s^2 
+		GYRO X: -0.54 	Y: 4.26 	Z: 0.75 radians/s 
+ 		FINGERS: Thumb: 703	Pointer: 689	Middle: 675	Ring: 661	Pinkie: 716
+		A:-4.79, B:1.60, C:8.75, D:-0.54, E:4.26, F:0.75
+
+
+		ACCEL X: -16.28 	Y: -0.77 	Z: 19.61 m/s^2 
+		GYRO X: -3.61 	Y: 1.46 	Z: -1.30 radians/s 
+ 		FINGERS: Thumb: 707	Pointer: 695	Middle: 682	Ring: 668	Pinkie: 716
+		A:-16.28, B:-0.77, C:19.61, D:-3.61, E:1.46, F:-1.30
+
+
+		ACCEL X: -10.94 	Y: -3.43 	Z: 13.11 m/s^2 
+		GYRO X: -1.50 	Y: -1.70 	Z: -1.31 radians/s 
+ 		FINGERS: Thumb: 716	Pointer: 711	Middle: 704	Ring: 694	Pinkie: 716
+		A:-10.94, B:-3.43, C:13.11, D:-1.50, E:-1.70, F:-1.31
+
+
+		ACCEL X: -6.05 	Y: -1.96 	Z: 6.85 m/s^2 
+		GYRO X: 3.42 	Y: -4.37 	Z: 0.68 radians/s 
+ 		FINGERS: Thumb: 717	Pointer: 716	Middle: 714	Ring: 708	Pinkie: 716
+		A:-6.05, B:-1.96, C:6.85, D:3.42, E:-4.37, F:0.68
+
+
+		ACCEL X: -2.41 	Y: -0.96 	Z: -0.87 m/s^2 
+		GYRO X: 2.04 	Y: -4.15 	Z: -0.22 radians/s 
+ 		FINGERS: Thumb: 716	Pointer: 716	Middle: 716	Ring: 715	Pinkie: 716
+		A:-2.41, B:-0.96, C:-0.87, D:2.04, E:-4.15, F:-0.22
+
+
+		ACCEL X: -1.88 	Y: -1.34 	Z: -6.56 m/s^2 
+		GYRO X: -0.03 	Y: 0.30 	Z: -0.53 radians/s 
+ 		FINGERS: Thumb: 710	Pointer: 707	Middle: 705	Ring: 704	Pinkie: 716
+		A:-1.88, B:-1.34, C:-6.56, D:-0.03, E:0.30, F:-0.53
+
+
+		ACCEL X: -0.91 	Y: 1.25 	Z: -3.75 m/s^2 
+		GYRO X: -0.41 	Y: 4.37 	Z: -0.19 radians/s 
+ 		FINGERS: Thumb: 699	Pointer: 687	Middle: 679	Ring: 675	Pinkie: 716
+		A:-0.91, B:1.25, C:-3.75, D:-0.41, E:4.37, F:-0.19
+
+
+		ACCEL X: -7.62 	Y: -0.19 	Z: 14.69 m/s^2 
+		GYRO X: -0.07 	Y: 4.37 	Z: 0.83 radians/s 
+ 		FINGERS: Thumb: 700	Pointer: 685	Middle: 672	Ring: 662	Pinkie: 716
+		A:-7.62, B:-0.19, C:14.69, D:-0.07, E:4.37, F:0.83
+
+
+		ACCEL X: -14.32 	Y: -1.14 	Z: 19.61 m/s^2 
+		GYRO X: -0.38 	Y: 0.88 	Z: 1.59 radians/s 
+ 		FINGERS: Thumb: 700	Pointer: 685	Middle: 670	Ring: 657	Pinkie: 716
+		A:-14.32, B:-1.14, C:19.61, D:-0.38, E:0.88, F:1.59
+
+
+		ACCEL X: -10.04 	Y: 0.20 	Z: 15.50 m/s^2 
+		GYRO X: -1.87 	Y: -1.31 	Z: -1.77 radians/s 
+ 		FINGERS: Thumb: 703	Pointer: 690	Middle: 675	Ring: 661	Pinkie: 716
+		A:-10.04, B:0.20, C:15.50, D:-1.87, E:-1.31, F:-1.77
+
+
+		ACCEL X: -3.95 	Y: -0.36 	Z: 4.84 m/s^2 
+		GYRO X: -0.55 	Y: -4.37 	Z: -0.93 radians/s 
+ 		FINGERS: Thumb: 705	Pointer: 693	Middle: 681	Ring: 667	Pinkie: 716
+		A:-3.95, B:-0.36, C:4.84, D:-0.55, E:-4.37, F:-0.93
+
+
+		ACCEL X: -2.34 	Y: 0.09 	Z: -3.26 m/s^2 
+		GYRO X: 2.41 	Y: -3.13 	Z: 0.36 radians/s 
+ 		FINGERS: Thumb: 715	Pointer: 709	Middle: 701	Ring: 689	Pinkie: 716
+		A:-2.34, B:0.09, C:-3.26, D:2.41, E:-3.13, F:0.36
+
+
+		ACCEL X: -1.64 	Y: -1.39 	Z: -4.49 m/s^2 
+		GYRO X: 2.24 	Y: 0.71 	Z: 0.66 radians/s 
+ 		FINGERS: Thumb: 720	Pointer: 721	Middle: 720	Ring: 715	Pinkie: 716
+		A:-1.64, B:-1.39, C:-4.49, D:2.24, E:0.71, F:0.66
+
+
+		ACCEL X: -2.40 	Y: -0.32 	Z: 1.91 m/s^2 
+		GYRO X: -0.02 	Y: 4.37 	Z: -0.10 radians/s 
+ 		FINGERS: Thumb: 716	Pointer: 716	Middle: 717	Ring: 716	Pinkie: 717
+		A:-2.40, B:-0.32, C:1.91, D:-0.02, E:4.37, F:-0.10
+
+
+		ACCEL X: -8.48 	Y: 1.39 	Z: 14.34 m/s^2 
+		GYRO X: -1.42 	Y: 3.35 	Z: 0.17 radians/s 
+ 		FINGERS: Thumb: 707	Pointer: 701	Middle: 698	Ring: 697	Pinkie: 717
+		A:-8.48, B:1.39, C:14.34, D:-1.42, E:3.35, F:0.17
+
+
+		ACCEL X: -14.13 	Y: 0.45 	Z: 19.61 m/s^2 
+		GYRO X: -1.04 	Y: 0.13 	Z: 0.08 radians/s 
+ 		FINGERS: Thumb: 699	Pointer: 685	Middle: 674	Ring: 668	Pinkie: 716
+		A:-14.13, B:0.45, C:19.61, D:-1.04, E:0.13, F:0.08
+
+
+		ACCEL X: -8.35 	Y: -0.05 	Z: 12.68 m/s^2 
+		GYRO X: -1.70 	Y: -1.80 	Z: -0.93 radians/s 
+ 		FINGERS: Thumb: 700	Pointer: 685	Middle: 671	Ring: 661	Pinkie: 716
+		A:-8.35, B:-0.05, C:12.68, D:-1.70, E:-1.80, F:-0.93
+
+
+		ACCEL X: -4.11 	Y: -2.09 	Z: 5.26 m/s^2 
+		GYRO X: -0.39 	Y: -4.37 	Z: 0.16 radians/s 
+ 		FINGERS: Thumb: 702	Pointer: 687	Middle: 673	Ring: 660	Pinkie: 716
+		A:-4.11, B:-2.09, C:5.26, D:-0.39, E:-4.37, F:0.16
+
+
+		ACCEL X: -2.81 	Y: -1.83 	Z: -1.84 m/s^2 
+		GYRO X: 0.22 	Y: -4.12 	Z: -0.03 radians/s 
+ 		FINGERS: Thumb: 703	Pointer: 690	Middle: 676	Ring: 663	Pinkie: 716
+		A:-2.81, B:-1.83, C:-1.84, D:0.22, E:-4.12, F:-0.03
+
+
+		ACCEL X: -3.36 	Y: -0.36 	Z: -6.77 m/s^2 
+		GYRO X: 2.18 	Y: 0.84 	Z: -0.07 radians/s 
+ 		FINGERS: Thumb: 711	Pointer: 703	Middle: 693	Ring: 680	Pinkie: 716
+		A:-3.36, B:-0.36, C:-6.77, D:2.18, E:0.84, F:-0.07
+
+
+		ACCEL X: -1.60 	Y: -0.59 	Z: 1.01 m/s^2 
+		GYRO X: 1.23 	Y: 4.37 	Z: 0.26 radians/s 
+ 		FINGERS: Thumb: 720	Pointer: 720	Middle: 718	Ring: 711	Pinkie: 716
+		A:-1.60, B:-0.59, C:1.01, D:1.23, E:4.37, F:0.26
+
+
+		ACCEL X: -8.39 	Y: 1.32 	Z: 15.58 m/s^2 
+		GYRO X: -0.89 	Y: 3.63 	Z: 0.17 radians/s 
+ 		FINGERS: Thumb: 718	Pointer: 719	Middle: 720	Ring: 718	Pinkie: 717
+		A:-8.39, B:1.32, C:15.58, D:-0.89, E:3.63, F:0.17
+
+
+		ACCEL X: -14.88 	Y: 0.17 	Z: 19.61 m/s^2 
+		GYRO X: -0.38 	Y: 0.21 	Z: 0.20 radians/s 
+ 		FINGERS: Thumb: 709	Pointer: 705	Middle: 703	Ring: 703	Pinkie: 717
+		A:-14.88, B:0.17, C:19.61, D:-0.38, E:0.21, F:0.20
+
+
+		ACCEL X: -8.83 	Y: -0.39 	Z: 12.84 m/s^2 
+		GYRO X: -1.87 	Y: -1.38 	Z: -1.67 radians/s 
+ 		FINGERS: Thumb: 699	Pointer: 686	Middle: 677	Ring: 671	Pinkie: 716
+		A:-8.83, B:-0.39, C:12.84, D:-1.87, E:-1.38, F:-1.67
+
+
+		ACCEL X: -3.47 	Y: -1.08 	Z: 3.75 m/s^2 
+		GYRO X: 0.03 	Y: -3.86 	Z: -0.73 radians/s 
+ 		FINGERS: Thumb: 701	Pointer: 688	Middle: 675	Ring: 666	Pinkie: 716
+		A:-3.47, B:-1.08, C:3.75, D:0.03, E:-3.86, F:-0.73
+
+
+		ACCEL X: -1.63 	Y: -1.81 	Z: -3.16 m/s^2 
+		GYRO X: 0.88 	Y: -1.95 	Z: -0.29 radians/s 
+ 		FINGERS: Thumb: 700	Pointer: 685	Middle: 671	Ring: 659	Pinkie: 716
+		A:-1.63, B:-1.81, C:-3.16, D:0.88, E:-1.95, F:-0.29
+
+
+		ACCEL X: -1.22 	Y: -0.40 	Z: -3.68 m/s^2 
+		GYRO X: 0.29 	Y: 1.47 	Z: -0.18 radians/s 
+ 		FINGERS: Thumb: 703	Pointer: 690	Middle: 676	Ring: 662	Pinkie: 716
+		A:-1.22, B:-0.40, C:-3.68, D:0.29, E:1.47, F:-0.18
+
+
+		ACCEL X: -3.17 	Y: 1.24 	Z: 7.28 m/s^2 
+		GYRO X: -1.04 	Y: 4.25 	Z: -0.03 radians/s 
+ 		FINGERS: Thumb: 706	Pointer: 694	Middle: 681	Ring: 666	Pinkie: 716
+		A:-3.17, B:1.24, C:7.28, D:-1.04, E:4.25, F:-0.03
+
+
+		ACCEL X: -12.28 	Y: -0.48 	Z: 18.56 m/s^2 
+		GYRO X: -0.44 	Y: 1.24 	Z: 0.72 radians/s 
+ 		FINGERS: Thumb: 724	Pointer: 725	Middle: 722	Ring: 714	Pinkie: 716
+		A:-12.28, B:-0.48, C:18.56, D:-0.44, E:1.24, F:0.72
+
+
+		ACCEL X: -12.50 	Y: -1.58 	Z: 14.77 m/s^2 
+		GYRO X: -0.69 	Y: 0.06 	Z: -0.42 radians/s 
+ 		FINGERS: Thumb: 720	Pointer: 722	Middle: 723	Ring: 721	Pinkie: 717
+		A:-12.50, B:-1.58, C:14.77, D:-0.69, E:0.06, F:-0.42
+
+
+		ACCEL X: -7.64 	Y: -2.38 	Z: 8.67 m/s^2 
+		GYRO X: -0.55 	Y: -1.17 	Z: -0.43 radians/s 
+ 		FINGERS: Thumb: 714	Pointer: 713	Middle: 714	Ring: 714	Pinkie: 717
+		A:-7.64, B:-2.38, C:8.67, D:-0.55, E:-1.17, F:-0.43
+
+
+		ACCEL X: -4.00 	Y: -2.57 	Z: 4.09 m/s^2 
+		GYRO X: -0.47 	Y: -2.65 	Z: -0.80 radians/s 
+ 		FINGERS: Thumb: 706	Pointer: 699	Middle: 696	Ring: 695	Pinkie: 716
+		A:-4.00, B:-2.57, C:4.09, D:-0.47, E:-2.65, F:-0.80
+
+
+		ACCEL X: -2.67 	Y: -2.02 	Z: 0.82 m/s^2 
+		GYRO X: 0.04 	Y: -1.55 	Z: -0.34 radians/s 
+ 		FINGERS: Thumb: 697	Pointer: 682	Middle: 671	Ring: 664	Pinkie: 716
+		A:-2.67, B:-2.02, C:0.82, D:0.04, E:-1.55, F:-0.34
+
+
+		ACCEL X: -1.84 	Y: -2.38 	Z: -1.96 m/s^2 
+		GYRO X: 1.03 	Y: 0.51 	Z: 0.19 radians/s 
+ 		FINGERS: Thumb: 698	Pointer: 682	Middle: 667	Ring: 656	Pinkie: 716
+		A:-1.84, B:-2.38, C:-1.96, D:1.03, E:0.51, F:0.19
+
+
+		ACCEL X: -2.10 	Y: -1.82 	Z: 0.97 m/s^2 
+		GYRO X: 0.07 	Y: 2.92 	Z: 0.04 radians/s 
+ 		FINGERS: Thumb: 699	Pointer: 683	Middle: 666	Ring: 652	Pinkie: 716
+		A:-2.10, B:-1.82, C:0.97, D:0.07, E:2.92, F:0.04
+
+
+		ACCEL X: -8.77 	Y: -0.62 	Z: 14.45 m/s^2 
+		GYRO X: -0.13 	Y: 2.14 	Z: 0.56 radians/s 
+ 		FINGERS: Thumb: 703	Pointer: 690	Middle: 675	Ring: 660	Pinkie: 716
+		A:-8.77, B:-0.62, C:14.45, D:-0.13, E:2.14, F:0.56
+
+
+		ACCEL X: -11.27 	Y: -1.19 	Z: 14.63 m/s^2 
+		GYRO X: -0.80 	Y: 0.57 	Z: -0.17 radians/s 
+ 		FINGERS: Thumb: 717	Pointer: 712	Middle: 703	Ring: 691	Pinkie: 716
+		A:-11.27, B:-1.19, C:14.63, D:-0.80, E:0.57, F:-0.17
+
+
+		ACCEL X: -9.33 	Y: -1.30 	Z: 11.65 m/s^2 
+		GYRO X: -1.33 	Y: -0.09 	Z: -1.00 radians/s 
+ 		FINGERS: Thumb: 720	Pointer: 720	Middle: 719	Ring: 713	Pinkie: 716
+		A:-9.33, B:-1.30, C:11.65, D:-1.33, E:-0.09, F:-1.00
+
+
+		ACCEL X: -5.28 	Y: -2.31 	Z: 6.26 m/s^2 
+		GYRO X: -0.64 	Y: -1.44 	Z: -0.64 radians/s 
+ 		FINGERS: Thumb: 717	Pointer: 717	Middle: 717	Ring: 715	Pinkie: 717
+		A:-5.28, B:-2.31, C:6.26, D:-0.64, E:-1.44, F:-0.64
+
+
+		ACCEL X: -2.80 	Y: -2.81 	Z: 0.93 m/s^2 
+		GYRO X: 0.74 	Y: -2.07 	Z: 0.02 radians/s 
+ 		FINGERS: Thumb: 712	Pointer: 709	Middle: 708	Ring: 708	Pinkie: 717
+		A:-2.80, B:-2.81, C:0.93, D:0.74, E:-2.07, F:0.02
+
+
+		ACCEL X: -1.99 	Y: -3.08 	Z: -1.12 m/s^2 
+		GYRO X: 1.11 	Y: -0.09 	Z: 0.49 radians/s 
+ 		FINGERS: Thumb: 699	Pointer: 687	Middle: 680	Ring: 677	Pinkie: 716
+		A:-1.99, B:-3.08, C:-1.12, D:1.11, E:-0.09, F:0.49
+
+
+		ACCEL X: -1.77 	Y: -3.24 	Z: -0.74 m/s^2 
+		GYRO X: 0.52 	Y: 1.01 	Z: 0.52 radians/s 
+ 		FINGERS: Thumb: 699	Pointer: 683	Middle: 670	Ring: 660	Pinkie: 716
+		A:-1.77, B:-3.24, C:-0.74, D:0.52, E:1.01, F:0.52
+
+
+		ACCEL X: -6.85 	Y: -1.75 	Z: 10.11 m/s^2 
+		GYRO X: -1.26 	Y: 2.71 	Z: 0.10 radians/s 
+ 		FINGERS: Thumb: 698	Pointer: 681	Middle: 665	Ring: 651	Pinkie: 716
+		A:-6.85, B:-1.75, C:10.11, D:-1.26, E:2.71, F:0.10
+
+
+		ACCEL X: -11.24 	Y: -1.27 	Z: 13.22 m/s^2 
+		GYRO X: -0.56 	Y: 0.97 	Z: 0.13 radians/s 
+ 		FINGERS: Thumb: 702	Pointer: 687	Middle: 672	Ring: 656	Pinkie: 716
+		A:-11.24, B:-1.27, C:13.22, D:-0.56, E:0.97, F:0.13
+
+
+		ACCEL X: -11.42 	Y: -0.88 	Z: 12.18 m/s^2 
+		GYRO X: 0.22 	Y: -0.13 	Z: 0.31 radians/s 
+ 		FINGERS: Thumb: 707	Pointer: 696	Middle: 683	Ring: 667	Pinkie: 716
+		A:-11.42, B:-0.88, C:12.18, D:0.22, E:-0.13, F:0.31
+
+
+		ACCEL X: -7.23 	Y: -2.19 	Z: 7.95 m/s^2 
+		GYRO X: 0.52 	Y: -1.62 	Z: 0.20 radians/s 
+ 		FINGERS: Thumb: 720	Pointer: 718	Middle: 713	Ring: 702	Pinkie: 716
+		A:-7.23, B:-2.19, C:7.95, D:0.52, E:-1.62, F:0.20
+
+
+		ACCEL X: -4.22 	Y: -2.10 	Z: 4.20 m/s^2 
+		GYRO X: 0.20 	Y: -1.98 	Z: 0.16 radians/s 
+ 		FINGERS: Thumb: 721	Pointer: 724	Middle: 725	Ring: 721	Pinkie: 717
+		A:-4.22, B:-2.10, C:4.20, D:0.20, E:-1.98, F:0.16
+
+
+		ACCEL X: -2.53 	Y: -3.09 	Z: -0.74 m/s^2 
+		GYRO X: 0.57 	Y: -0.68 	Z: 0.47 radians/s 
+ 		FINGERS: Thumb: 715	Pointer: 715	Middle: 716	Ring: 717	Pinkie: 717
+		A:-2.53, B:-3.09, C:-0.74, D:0.57, E:-0.68, F:0.47
+
+
+		ACCEL X: -2.38 	Y: -3.55 	Z: -1.09 m/s^2 
+		GYRO X: 0.84 	Y: 0.71 	Z: 0.67 radians/s 
+ 		FINGERS: Thumb: 701	Pointer: 693	Middle: 688	Ring: 687	Pinkie: 716
+		A:-2.38, B:-3.55, C:-1.09, D:0.84, E:0.71, F:0.67
+
+
+		ACCEL X: -5.96 	Y: -2.02 	Z: 7.52 m/s^2 
+		GYRO X: -0.23 	Y: 2.40 	Z: 0.20 radians/s 
+ 		FINGERS: Thumb: 697	Pointer: 682	Middle: 669	Ring: 662	Pinkie: 716
+		A:-5.96, B:-2.02, C:7.52, D:-0.23, E:2.40, F:0.20
+
+
+		ACCEL X: -10.50 	Y: -0.03 	Z: 11.26 m/s^2 
+		GYRO X: -0.81 	Y: 1.35 	Z: -0.07 radians/s 
+ 		FINGERS: Thumb: 698	Pointer: 680	Middle: 664	Ring: 651	Pinkie: 716
+		A:-10.50, B:-0.03, C:11.26, D:-0.81, E:1.35, F:-0.07
+
+
+		ACCEL X: -5.22 	Y: -1.87 	Z: 5.07 m/s^2 
+		GYRO X: 0.13 	Y: 1.65 	Z: 0.23 radians/s 
+ 		FINGERS: Thumb: 703	Pointer: 689	Middle: 673	Ring: 658	Pinkie: 716
+		A:-5.22, B:-1.87, C:5.07, D:0.13, E:1.65, F:0.23
+
+
+		ACCEL X: -7.10 	Y: -1.59 	Z: 5.41 m/s^2 
+		GYRO X: 1.24 	Y: -0.10 	Z: 0.57 radians/s 
+ 		FINGERS: Thumb: 709	Pointer: 698	Middle: 685	Ring: 670	Pinkie: 716
+		A:-7.10, B:-1.59, C:5.41, D:1.24, E:-0.10, F:0.57
+
+
+		ACCEL X: -6.38 	Y: -0.90 	Z: 4.93 m/s^2 
+		GYRO X: -0.36 	Y: 0.37 	Z: -0.54 radians/s 
+ 		FINGERS: Thumb: 723	Pointer: 724	Middle: 721	Ring: 713	Pinkie: 716
+		A:-6.38, B:-0.90, C:4.93, D:-0.36, E:0.37, F:-0.54
+
+
+		ACCEL X: -5.39 	Y: -1.52 	Z: 3.37 m/s^2 
+		GYRO X: 0.04 	Y: 0.51 	Z: 0.21 radians/s 
+ 		FINGERS: Thumb: 720	Pointer: 722	Middle: 723	Ring: 721	Pinkie: 717
+		A:-5.39, B:-1.52, C:3.37, D:0.04, E:0.51, F:0.21
+
+
+		ACCEL X: -4.25 	Y: -0.77 	Z: 3.18 m/s^2 
+		GYRO X: 1.19 	Y: -0.77 	Z: 0.30 radians/s 
+ 		FINGERS: Thumb: 715	Pointer: 715	Middle: 718	Ring: 720	Pinkie: 717
+		A:-4.25, B:-0.77, C:3.18, D:1.19, E:-0.77, F:0.30
+
+
+		ACCEL X: -10.94 	Y: 1.64 	Z: 8.96 m/s^2 
+		GYRO X: -1.41 	Y: -0.28 	Z: 0.01 radians/s 
+ 		FINGERS: Thumb: 692	Pointer: 676	Middle: 666	Ring: 662	Pinkie: 716
+		A:-10.94, B:1.64, C:8.96, D:-1.41, E:-0.28, F:0.01
+
+
+		ACCEL X: -6.08 	Y: -0.19 	Z: 6.46 m/s^2 
+		GYRO X: -0.35 	Y: 0.28 	Z: 0.38 radians/s 
+ 		FINGERS: Thumb: 689	Pointer: 667	Middle: 648	Ring: 635	Pinkie: 716
+		A:-6.08, B:-0.19, C:6.46, D:-0.35, E:0.28, F:0.38
+
+
+		ACCEL X: -7.77 	Y: 0.70 	Z: 3.87 m/s^2 
+		GYRO X: 0.17 	Y: -0.09 	Z: -0.10 radians/s 
+ 		FINGERS: Thumb: 694	Pointer: 671	Middle: 648	Ring: 628	Pinkie: 716
+		A:-7.77, B:0.70, C:3.87, D:0.17, E:-0.09, F:-0.10
+
+
+		ACCEL X: -6.92 	Y: -2.11 	Z: 6.40 m/s^2 
+		GYRO X: 0.09 	Y: 0.18 	Z: -0.06 radians/s 
+ 		FINGERS: Thumb: 708	Pointer: 694	Middle: 677	Ring: 658	Pinkie: 716
+		A:-6.92, B:-2.11, C:6.40, D:0.09, E:0.18, F:-0.06
+
+
+		ACCEL X: -7.21 	Y: 0.10 	Z: 5.10 m/s^2 
+		GYRO X: -0.04 	Y: -0.03 	Z: 0.03 radians/s 
+ 		FINGERS: Thumb: 736	Pointer: 744	Middle: 742	Ring: 731	Pinkie: 716
+		A:-7.21, B:0.10, C:5.10, D:-0.04, E:-0.03, F:0.03
+
+
+		ACCEL X: -6.86 	Y: -0.05 	Z: 5.81 m/s^2 
+		GYRO X: -0.00 	Y: 0.03 	Z: 0.00 radians/s 
+ 		FINGERS: Thumb: 737	Pointer: 753	Middle: 767	Ring: 772	Pinkie: 717
+		A:-6.86, B:-0.05, C:5.81, D:-0.00, E:0.03, F:0.00
+
+
+		ACCEL X: -6.95 	Y: -0.01 	Z: 5.80 m/s^2 
+		GYRO X: 0.01 	Y: -0.02 	Z: -0.01 radians/s 
+ 		FINGERS: Thumb: 713	Pointer: 717	Middle: 726	Ring: 736	Pinkie: 717
+		A:-6.95, B:-0.01, C:5.80, D:0.01, E:-0.02, F:-0.01
+
+
+		ACCEL X: -6.86 	Y: 0.01 	Z: 5.75 m/s^2 
+		GYRO X: 0.00 	Y: -0.03 	Z: -0.00 radians/s 
+ 		FINGERS: Thumb: 691	Pointer: 676	Middle: 670	Ring: 673	Pinkie: 717
+		A:-6.86, B:0.01, C:5.75, D:0.00, E:-0.03, F:-0.00
+
+
+		ACCEL X: -6.97 	Y: 0.10 	Z: 5.74 m/s^2 
+		GYRO X: -0.00 	Y: -0.04 	Z: -0.00 radians/s 
+ 		FINGERS: Thumb: 682	Pointer: 654	Middle: 632	Ring: 620	Pinkie: 716
+		A:-6.97, B:0.10, C:5.74, D:-0.00, E:-0.04, F:-0.00
+
+
+		ACCEL X: -6.90 	Y: -0.08 	Z: 5.88 m/s^2 
+		GYRO X: 0.01 	Y: -0.03 	Z: -0.01 radians/s 
+ 		FINGERS: Thumb: 689	Pointer: 661	Middle: 634	Ring: 612	Pinkie: 716
+		A:-6.90, B:-0.08, C:5.88, D:0.01, E:-0.03, F:-0.01
+
+
+		ACCEL X: -7.04 	Y: 0.12 	Z: 5.70 m/s^2 
+		GYRO X: 0.00 	Y: -0.03 	Z: -0.00 radians/s 
+ 		FINGERS: Thumb: 704	Pointer: 686	Middle: 664	Ring: 641	Pinkie: 716
+		A:-7.04, B:0.12, C:5.70, D:0.00, E:-0.03, F:-0.00
+
+
+		ACCEL X: -6.92 	Y: 0.08 	Z: 5.78 m/s^2 
+		GYRO X: -0.00 	Y: -0.04 	Z: -0.00 radians/s 
+ 		FINGERS: Thumb: 716	Pointer: 711	Middle: 699	Ring: 682	Pinkie: 716
+		A:-6.92, B:0.08, C:5.78, D:-0.00, E:-0.04, F:-0.00
+
+
+		ACCEL X: -6.84 	Y: -0.04 	Z: 5.81 m/s^2 
+		GYRO X: 0.01 	Y: -0.03 	Z: -0.02 radians/s 
+ 		FINGERS: Thumb: 739	Pointer: 750	Middle: 754	Ring: 748	Pinkie: 717
+		A:-6.84, B:-0.04, C:5.81, D:0.01, E:-0.03, F:-0.02
+
+
+		ACCEL X: -6.98 	Y: 0.02 	Z: 5.66 m/s^2 
+		GYRO X: 0.00 	Y: -0.02 	Z: 0.00 radians/s 
+ 		FINGERS: Thumb: 732	Pointer: 747	Middle: 761	Ring: 768	Pinkie: 717
+		A:-6.98, B:0.02, C:5.66, D:0.00, E:-0.02, F:0.00
+
+
+		ACCEL X: -6.94 	Y: 0.10 	Z: 5.77 m/s^2 
+		GYRO X: -0.00 	Y: -0.02 	Z: 0.00 radians/s 
+ 		FINGERS: Thumb: 699	Pointer: 693	Middle: 693	Ring: 699	Pinkie: 717
+		A:-6.94, B:0.10, C:5.77, D:-0.00, E:-0.02, F:0.00
+
+
+		ACCEL X: -6.75 	Y: -0.04 	Z: 5.82 m/s^2 
+		GYRO X: 0.02 	Y: -0.02 	Z: -0.02 radians/s 
+ 		FINGERS: Thumb: 695	Pointer: 680	Middle: 670	Ring: 668	Pinkie: 716
+		A:-6.75, B:-0.04, C:5.82, D:0.02, E:-0.02, F:-0.02
+
+
+		ACCEL X: -7.02 	Y: 0.02 	Z: 5.70 m/s^2 
+		GYRO X: 0.00 	Y: -0.03 	Z: -0.00 radians/s 
+ 		FINGERS: Thumb: 698	Pointer: 680	Middle: 664	Ring: 654	Pinkie: 716
+		A:-7.02, B:0.02, C:5.70, D:0.00, E:-0.03, F:-0.00
+
+
+		ACCEL X: -6.93 	Y: 0.03 	Z: 5.69 m/s^2 
+		GYRO X: -0.00 	Y: -0.04 	Z: -0.00 radians/s 
+ 		FINGERS: Thumb: 699	Pointer: 683	Middle: 666	Ring: 651	Pinkie: 716
+		A:-6.93, B:0.03, C:5.69, D:-0.00, E:-0.04, F:-0.00
+
+
+		ACCEL X: -6.79 	Y: -0.05 	Z: 5.85 m/s^2 
+		GYRO X: 0.00 	Y: -0.03 	Z: 0.00 radians/s 
+ 		FINGERS: Thumb: 703	Pointer: 690	Middle: 674	Ring: 659	Pinkie: 716
+		A:-6.79, B:-0.05, C:5.85, D:0.00, E:-0.03, F:0.00
+
+
+		ACCEL X: -6.96 	Y: 0.02 	Z: 5.64 m/s^2 
+		GYRO X: -0.00 	Y: -0.02 	Z: -0.00 radians/s 
+ 		FINGERS: Thumb: 709	Pointer: 700	Middle: 687	Ring: 672	Pinkie: 716
+		A:-6.96, B:0.02, C:5.64, D:-0.00, E:-0.02, F:-0.00
+
+
+		ACCEL X: -6.90 	Y: 0.04 	Z: 5.76 m/s^2 
+		GYRO X: -0.00 	Y: -0.04 	Z: -0.00 radians/s 
+ 		FINGERS: Thumb: 720	Pointer: 719	Middle: 715	Ring: 706	Pinkie: 716
+		A:-6.90, B:0.04, C:5.76, D:-0.00, E:-0.04, F:-0.00
+
+
+		ACCEL X: -6.90 	Y: 0.04 	Z: 5.81 m/s^2 
+		GYRO X: 0.00 	Y: -0.03 	Z: -0.00 radians/s 
+ 		FINGERS: Thumb: 717	Pointer: 717	Middle: 717	Ring: 714	Pinkie: 717
+		A:-6.90, B:0.04, C:5.81, D:0.00, E:-0.03, F:-0.00

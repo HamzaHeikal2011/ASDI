@@ -5,7 +5,7 @@ int thumb_pin = A0; int thumb = 0;
 int pointer_pin = A1; int pointer = 0;
 int middle_pin = A2; int middle = 0;
 int ring_pin = A3; int ring = 0;
-int pinkie_pin = A4; int pinkie = 0;
+int pinkie_pin = A5; int pinkie = 0;
 
 Adafruit_MPU6050 mpu;
 Adafruit_Sensor *mpu_accel, *mpu_gyro;

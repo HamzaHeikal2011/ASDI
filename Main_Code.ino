@@ -1,5 +1,6 @@
-#include <Adafruit_MPU6050.h>
-// Added potentiometer control for pointer ---
+#include <Adafruit_MPU6051.h>
+
+// Added potentiometer control (Finger position readers)
 int thumb_pin = A0; int thumb = 0;
 int pointer_pin = A1; int pointer = 0;
 int middle_pin = A2; int middle = 0;
@@ -64,6 +65,7 @@ void loop() {
     Serial.print(" \tZ: ");
     Serial.print(gyro.gyro.z);
     Serial.println(" radians/s ");
+    delay(10);
 
   //Display finger sensor readings
     Serial.print(" \t\tFINGERS: ");
@@ -73,16 +75,15 @@ void loop() {
     Serial.print("\tRing: "); Serial.print(ring);
     Serial.print("\tPinkie: "); Serial.print(pinkie);
 
-  //Serial plotter values
+  //Serial plotter compatible values
     Serial.println();
     Serial.print("\t\t"); 
-    // Serial.print("Thumb:"); Serial.print(thumb);
-    // Serial.print(", "); Serial.print("Pointer:"); Serial.print(pointer);
-    // Serial.print(", "); Serial.print("Middle:"); Serial.print(middle);
-    // Serial.print(", "); Serial.print("Ring:"); Serial.print(ring);
-    // Serial.print(", "); Serial.print("Pinkie:"); Serial.print(pinkie);
-    // Serial.print(", "); 
-    Serial.print("A:"); Serial.print(accel.acceleration.x);
+    Serial.print("Thumb:"); Serial.print(thumb);
+    Serial.print(", "); Serial.print("Pointer:"); Serial.print(pointer);
+    Serial.print(", "); Serial.print("Middle:"); Serial.print(middle);
+    Serial.print(", "); Serial.print("Ring:"); Serial.print(ring);
+    Serial.print(", "); Serial.print("Pinkie:"); Serial.print(pinkie);
+    Serial.print(", "); Serial.print("A:"); Serial.print(accel.acceleration.x);
     Serial.print(", "); Serial.print("B:"); Serial.print(accel.acceleration.y);
     Serial.print(", "); Serial.print("C:"); Serial.print(accel.acceleration.z);
     Serial.print(", "); Serial.print("D:"); Serial.print(gyro.gyro.x);
@@ -91,6 +92,5 @@ void loop() {
     Serial.println();
     Serial.println();
     Serial.println();
-    delay(10);    
+    delay(500);    
 }
-

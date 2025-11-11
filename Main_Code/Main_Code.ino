@@ -4,8 +4,8 @@
 int thumb_pin = A0; int thumb = 0;
 int pointer_pin = A1; int pointer = 0;
 int middle_pin = A2; int middle = 0;
-int ring_pin = A3; int ring = 0;
-int pinkie_pin = A5; int pinkie = 0;
+// int ring_pin = A3; int ring = 0;
+// int pinkie_pin = A5; int pinkie = 0;
 
 Adafruit_MPU6050 mpu;
 Adafruit_Sensor *mpu_accel, *mpu_gyro;
@@ -35,9 +35,9 @@ void setup(void) {
 void update_fingers() {
   thumb = analogRead(thumb_pin);
   pointer = analogRead(pointer_pin);
-  middle = analogRead(middle_pin);
-  ring = analogRead(ring_pin);
-  pinkie = analogRead(pinkie_pin);
+  // middle = analogRead(middle_pin);
+  // ring = analogRead(ring_pin);
+  // pinkie = analogRead(pinkie_pin);
 }
 
 void loop() {
@@ -72,8 +72,8 @@ void loop() {
     Serial.print("Thumb: "); Serial.print(thumb);
     Serial.print("\tPointer: "); Serial.print(pointer);
     Serial.print("\tMiddle: "); Serial.print(middle);
-    Serial.print("\tRing: "); Serial.print(ring);
-    Serial.print("\tPinkie: "); Serial.print(pinkie);
+    // Serial.print("\tRing: "); Serial.print(ring);
+    // Serial.print("\tPinkie: "); Serial.print(pinkie);
 
   //Serial plotter compatible values
     Serial.println();
@@ -81,8 +81,8 @@ void loop() {
     Serial.print("Thumb:"); Serial.print(thumb);
     Serial.print(", "); Serial.print("Pointer:"); Serial.print(pointer);
     Serial.print(", "); Serial.print("Middle:"); Serial.print(middle);
-    Serial.print(", "); Serial.print("Ring:"); Serial.print(ring);
-    Serial.print(", "); Serial.print("Pinkie:"); Serial.print(pinkie);
+    // Serial.print(", "); Serial.print("Ring:"); Serial.print(ring);
+    // Serial.print(", "); Serial.print("Pinkie:"); Serial.print(pinkie);
     Serial.print(", "); Serial.print("A:"); Serial.print(accel.acceleration.x);
     Serial.print(", "); Serial.print("B:"); Serial.print(accel.acceleration.y);
     Serial.print(", "); Serial.print("C:"); Serial.print(accel.acceleration.z);

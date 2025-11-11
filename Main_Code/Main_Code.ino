@@ -35,7 +35,7 @@ void setup(void) {
 void update_fingers() {
   thumb = analogRead(thumb_pin);
   pointer = analogRead(pointer_pin);
-  // middle = analogRead(middle_pin);
+  middle = analogRead(middle_pin);
   // ring = analogRead(ring_pin);
   // pinkie = analogRead(pinkie_pin);
 }

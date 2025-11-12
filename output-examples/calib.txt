@@ -1,0 +1,222 @@
+aaaa
+
+Adafruit MPU6050 test!
+MPU6050 Found!
+------------------------------------
+Sensor:       MPU6050_A
+Type:         Acceleration (m/s2)
+Driver Ver:   1
+Unique ID:    1617
+Min Value:    -156.91
+Max Value:    156.91
+Resolution:   0.06
+------------------------------------
+
+------------------------------------
+Sensor:       MPU6050_G
+Type:         Gyroscopic (rad/s)
+Driver Ver:   1
+Unique ID:    1618
+Min Value:    -34.91
+Max Value:    34.91
+Resolution:   0.00
+------------------------------------
+
+		ACCEL X: 6.90 	Y: 1.09 	Z: 5.93 m/s^2 
+		GYRO X: -0.96 	Y: -1.06 	Z: 0.01 radians/s 
+ 		FINGERS: Thumb: 57	Pointer: 0	Middle: 0
+		Thumb:57, Pointer:0, Middle:0, A:6.90, B:1.09, C:5.93, D:-0.96, E:-1.06, F:0.01
+
+
+		ACCEL X: 9.90 	Y: -0.97 	Z: 0.63 m/s^2 
+		GYRO X: -0.34 	Y: -1.37 	Z: 0.36 radians/s 
+ 		FINGERS: Thumb: 60	Pointer: 2	Middle: 1
+		Thumb:60, Pointer:2, Middle:1, A:9.90, B:-0.97, C:0.63, D:-0.34, E:-1.37, F:0.36
+
+
+		ACCEL X: 9.76 	Y: -1.42 	Z: -3.30 m/s^2 
+		GYRO X: -0.15 	Y: -0.59 	Z: 0.09 radians/s 
+ 		FINGERS: Thumb: 58	Pointer: 0	Middle: 0
+		Thumb:58, Pointer:0, Middle:0, A:9.76, B:-1.42, C:-3.30, D:-0.15, E:-0.59, F:0.09
+
+
+		ACCEL X: 8.34 	Y: -1.75 	Z: -5.72 m/s^2 
+		GYRO X: -0.14 	Y: -0.36 	Z: 0.05 radians/s 
+ 		FINGERS: Thumb: 57	Pointer: 0	Middle: 0
+		Thumb:57, Pointer:0, Middle:0, A:8.34, B:-1.75, C:-5.72, D:-0.14, E:-0.36, F:0.05
+
+
+		ACCEL X: 8.24 	Y: -2.05 	Z: -6.27 m/s^2 
+		GYRO X: -0.01 	Y: -0.07 	Z: -0.05 radians/s 
+ 		FINGERS: Thumb: 57	Pointer: 0	Middle: 0
+		Thumb:57, Pointer:0, Middle:0, A:8.24, B:-2.05, C:-6.27, D:-0.01, E:-0.07, F:-0.05
+
+
+		ACCEL X: 7.72 	Y: -1.85 	Z: -6.40 m/s^2 
+		GYRO X: -0.06 	Y: -0.06 	Z: -0.06 radians/s 
+ 		FINGERS: Thumb: 57	Pointer: 0	Middle: 0
+		Thumb:57, Pointer:0, Middle:0, A:7.72, B:-1.85, C:-6.40, D:-0.06, E:-0.06, F:-0.06
+
+
+		ACCEL X: 8.11 	Y: -1.95 	Z: -6.36 m/s^2 
+		GYRO X: -0.00 	Y: 0.19 	Z: 0.02 radians/s 
+ 		FINGERS: Thumb: 58	Pointer: 0	Middle: 0
+		Thumb:58, Pointer:0, Middle:0, A:8.11, B:-1.95, C:-6.36, D:-0.00, E:0.19, F:0.02
+
+
+		ACCEL X: 8.77 	Y: -1.74 	Z: -4.90 m/s^2 
+		GYRO X: 0.14 	Y: 0.52 	Z: -0.23 radians/s 
+ 		FINGERS: Thumb: 58	Pointer: 0	Middle: 0
+		Thumb:58, Pointer:0, Middle:0, A:8.77, B:-1.74, C:-4.90, D:0.14, E:0.52, F:-0.23
+
+
+		ACCEL X: 9.87 	Y: -1.16 	Z: -2.35 m/s^2 
+		GYRO X: 0.20 	Y: 0.66 	Z: -0.25 radians/s 
+ 		FINGERS: Thumb: 58	Pointer: 0	Middle: 0
+		Thumb:58, Pointer:0, Middle:0, A:9.87, B:-1.16, C:-2.35, D:0.20, E:0.66, F:-0.25
+
+
+		ACCEL X: 9.39 	Y: -0.48 	Z: 2.86 m/s^2 
+		GYRO X: 0.10 	Y: 0.92 	Z: -0.21 radians/s 
+ 		FINGERS: Thumb: 57	Pointer: 0	Middle: 0
+		Thumb:57, Pointer:0, Middle:0, A:9.39, B:-0.48, C:2.86, D:0.10, E:0.92, F:-0.21
+
+
+		ACCEL X: 5.75 	Y: 1.59 	Z: 7.31 m/s^2 
+		GYRO X: -0.03 	Y: 0.74 	Z: -0.22 radians/s 
+ 		FINGERS: Thumb: 57	Pointer: 0	Middle: 0
+		Thumb:57, Pointer:0, Middle:0, A:5.75, B:1.59, C:7.31, D:-0.03, E:0.74, F:-0.22
+
+
+		ACCEL X: 3.91 	Y: 2.19 	Z: 8.04 m/s^2 
+		GYRO X: 0.14 	Y: 0.47 	Z: -0.02 radians/s 
+ 		FINGERS: Thumb: 57	Pointer: 0	Middle: 0
+		Thumb:57, Pointer:0, Middle:0, A:3.91, B:2.19, C:8.04, D:0.14, E:0.47, F:-0.02
+
+
+		ACCEL X: 3.96 	Y: 1.47 	Z: 8.03 m/s^2 
+		GYRO X: -0.16 	Y: -0.27 	Z: 0.03 radians/s 
+ 		FINGERS: Thumb: 57	Pointer: 0	Middle: 0
+		Thumb:57, Pointer:0, Middle:0, A:3.96, B:1.47, C:8.03, D:-0.16, E:-0.27, F:0.03
+
+
+		ACCEL X: 5.99 	Y: 1.03 	Z: 7.41 m/s^2 
+		GYRO X: 0.00 	Y: -0.92 	Z: 0.04 radians/s 
+ 		FINGERS: Thumb: 57	Pointer: 0	Middle: 0
+		Thumb:57, Pointer:0, Middle:0, A:5.99, B:1.03, C:7.41, D:0.00, E:-0.92, F:0.04
+
+
+		ACCEL X: 10.17 	Y: -0.08 	Z: -0.63 m/s^2 
+		GYRO X: -0.42 	Y: -1.18 	Z: 0.34 radians/s 
+ 		FINGERS: Thumb: 65	Pointer: 6	Middle: 6
+		Thumb:65, Pointer:6, Middle:6, A:10.17, B:-0.08, C:-0.63, D:-0.42, E:-1.18, F:0.34
+
+
+		ACCEL X: 8.58 	Y: -1.34 	Z: -4.59 m/s^2 
+		GYRO X: -0.09 	Y: -0.75 	Z: 0.32 radians/s 
+ 		FINGERS: Thumb: 58	Pointer: 0	Middle: 0
+		Thumb:58, Pointer:0, Middle:0, A:8.58, B:-1.34, C:-4.59, D:-0.09, E:-0.75, F:0.32
+
+
+		ACCEL X: 8.18 	Y: -1.75 	Z: -6.52 m/s^2 
+		GYRO X: -0.06 	Y: -0.46 	Z: 0.09 radians/s 
+ 		FINGERS: Thumb: 58	Pointer: 0	Middle: 0
+		Thumb:58, Pointer:0, Middle:0, A:8.18, B:-1.75, C:-6.52, D:-0.06, E:-0.46, F:0.09
+
+
+		ACCEL X: 7.79 	Y: -2.01 	Z: -6.93 m/s^2 
+		GYRO X: 0.03 	Y: 0.09 	Z: -0.02 radians/s 
+ 		FINGERS: Thumb: 57	Pointer: 0	Middle: 0
+		Thumb:57, Pointer:0, Middle:0, A:7.79, B:-2.01, C:-6.93, D:0.03, E:0.09, F:-0.02
+
+
+		ACCEL X: 8.58 	Y: -1.84 	Z: -6.04 m/s^2 
+		GYRO X: 0.24 	Y: 0.41 	Z: -0.30 radians/s 
+ 		FINGERS: Thumb: 58	Pointer: 0	Middle: 0
+		Thumb:58, Pointer:0, Middle:0, A:8.58, B:-1.84, C:-6.04, D:0.24, E:0.41, F:-0.30
+
+
+		ACCEL X: 9.77 	Y: -1.06 	Z: -3.40 m/s^2 
+		GYRO X: 0.09 	Y: 0.61 	Z: -0.23 radians/s 
+ 		FINGERS: Thumb: 58	Pointer: 0	Middle: 0
+		Thumb:58, Pointer:0, Middle:0, A:9.77, B:-1.06, C:-3.40, D:0.09, E:0.61, F:-0.23
+
+
+		ACCEL X: 9.79 	Y: 0.67 	Z: 1.26 m/s^2 
+		GYRO X: -0.07 	Y: 1.23 	Z: -0.24 radians/s 
+ 		FINGERS: Thumb: 61	Pointer: 3	Middle: 2
+		Thumb:61, Pointer:3, Middle:2, A:9.79, B:0.67, C:1.26, D:-0.07, E:1.23, F:-0.24
+
+
+		ACCEL X: 6.61 	Y: 2.18 	Z: 6.04 m/s^2 
+		GYRO X: -0.19 	Y: 0.41 	Z: -0.14 radians/s 
+ 		FINGERS: Thumb: 57	Pointer: 0	Middle: 0
+		Thumb:57, Pointer:0, Middle:0, A:6.61, B:2.18, C:6.04, D:-0.19, E:0.41, F:-0.14
+
+
+		ACCEL X: 5.54 	Y: 1.75 	Z: 7.30 m/s^2 
+		GYRO X: -0.16 	Y: -0.27 	Z: 0.07 radians/s 
+ 		FINGERS: Thumb: 57	Pointer: 4	Middle: 0
+		Thumb:57, Pointer:4, Middle:0, A:5.54, B:1.75, C:7.30, D:-0.16, E:-0.27, F:0.07
+
+
+		ACCEL X: 6.34 	Y: 1.40 	Z: 6.47 m/s^2 
+		GYRO X: 0.01 	Y: -0.66 	Z: 0.28 radians/s 
+ 		FINGERS: Thumb: 57	Pointer: 18	Middle: 0
+		Thumb:57, Pointer:18, Middle:0, A:6.34, B:1.40, C:6.47, D:0.01, E:-0.66, F:0.28
+
+
+		ACCEL X: 9.03 	Y: 0.15 	Z: 2.97 m/s^2 
+		GYRO X: -0.05 	Y: -0.96 	Z: 0.13 radians/s 
+ 		FINGERS: Thumb: 58	Pointer: 2	Middle: 0
+		Thumb:58, Pointer:2, Middle:0, A:9.03, B:0.15, C:2.97, D:-0.05, E:-0.96, F:0.13
+
+
+		ACCEL X: 9.79 	Y: -0.71 	Z: -1.76 m/s^2 
+		GYRO X: 0.09 	Y: -1.13 	Z: 0.17 radians/s 
+ 		FINGERS: Thumb: 58	Pointer: 4	Middle: 0
+		Thumb:58, Pointer:4, Middle:0, A:9.79, B:-0.71, C:-1.76, D:0.09, E:-1.13, F:0.17
+
+
+		ACCEL X: 8.91 	Y: -0.93 	Z: -5.66 m/s^2 
+		GYRO X: -0.00 	Y: -0.34 	Z: -0.00 radians/s 
+ 		FINGERS: Thumb: 58	Pointer: 1	Middle: 0
+		Thumb:58, Pointer:1, Middle:0, A:8.91, B:-0.93, C:-5.66, D:-0.00, E:-0.34, F:-0.00
+
+
+		ACCEL X: 8.14 	Y: -1.66 	Z: -6.71 m/s^2 
+		GYRO X: 0.05 	Y: 0.23 	Z: -0.11 radians/s 
+ 		FINGERS: Thumb: 58	Pointer: 2	Middle: 0
+		Thumb:58, Pointer:2, Middle:0, A:8.14, B:-1.66, C:-6.71, D:0.05, E:0.23, F:-0.11
+
+
+		ACCEL X: 8.61 	Y: -1.41 	Z: -5.97 m/s^2 
+		GYRO X: 0.04 	Y: 0.36 	Z: -0.04 radians/s 
+ 		FINGERS: Thumb: 58	Pointer: 1	Middle: 0
+		Thumb:58, Pointer:1, Middle:0, A:8.61, B:-1.41, C:-5.97, D:0.04, E:0.36, F:-0.04
+
+
+		ACCEL X: 9.87 	Y: -0.72 	Z: -2.98 m/s^2 
+		GYRO X: 0.21 	Y: 1.01 	Z: -0.01 radians/s 
+ 		FINGERS: Thumb: 60	Pointer: 2	Middle: 1
+		Thumb:60, Pointer:2, Middle:1, A:9.87, B:-0.72, C:-2.98, D:0.21, E:1.01, F:-0.01
+
+
+		ACCEL X: 9.12 	Y: -0.17 	Z: 2.88 m/s^2 
+		GYRO X: 0.78 	Y: 0.17 	Z: 0.42 radians/s 
+ 		FINGERS: Thumb: 57	Pointer: 0	Middle: 0
+		Thumb:57, Pointer:0, Middle:0, A:9.12, B:-0.17, C:2.88, D:0.78, E:0.17, F:0.42
+
+
+		ACCEL X: 9.80 	Y: 0.08 	Z: 2.34 m/s^2 
+		GYRO X: 0.08 	Y: -0.09 	Z: -0.04 radians/s 
+ 		FINGERS: Thumb: 57	Pointer: 0	Middle: 0
+		Thumb:57, Pointer:0, Middle:0, A:9.80, B:0.08, C:2.34, D:0.08, E:-0.09, F:-0.04
+
+
+		ACCEL X: 9.47 	Y: 0.28 	Z: 2.06 m/s^2 
+		GYRO X: -0.09 	Y: 0.21 	Z: 0.06 radians/s 
+ 		FINGERS: Thumb: 58	Pointer: 0	Middle: 0
+		Thumb:58, Pointer:0, Middle:0, A:9.47, B:0.28, C:2.06, D:-0.09, E:0.21, F:0.06
+
+

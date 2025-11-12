@@ -1,4 +1,5 @@
 #include <Adafruit_MPU6050.h>
+#include <mouse.h>
 
 // Added potentiometer control (Finger position readers)
 int thumb_pin = A0; int thumb = 0;

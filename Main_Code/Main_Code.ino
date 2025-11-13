@@ -12,9 +12,18 @@ Adafruit_MPU6050 mpu;
 Adafruit_Sensor *mpu_accel, *mpu_gyro;
 
 //Mouse.h variables
+
+const int x-axis = accel.acceleration.x
+const int y-axis = accel.acceleration.y
+
 int range = 12;
 int response-delay = 2;
-int axis[] = {accel.acceleration.x, accel.acceleration.z}
+int threshold = range / 4;
+int center = range / 2;
+int minima[] = {1023, 1023};
+int maxima[] = {0, 0};
+int axis[] = {x-axis, y-axis};
+int mouse-reading[2];
 
 void setup(void) {
   Serial.begin(74880);
@@ -30,6 +39,7 @@ void setup(void) {
   }
 
   Serial.println("MPU6050 Found!");
+  Mouse.begin();
   mpu_accel = mpu.getAccelerometerSensor();
   mpu_accel->printSensorDetails();
 
@@ -48,6 +58,15 @@ void update_fingers() {
 
 void loop() {
     update_fingers();
+
+  // Read and scale X & Y
+    int x-reading = read-axis(0);
+    int y-reading = read-axis(1);
+  
+  // Move Mouse
+    Mouse.move(x-reading, y-reading, 0);
+    delay(response-delay)
+
   //Get a new normalized sensor event
     sensors_event_t accel;
     sensors_event_t gyro;
@@ -98,5 +117,5 @@ void loop() {
     Serial.println();
     Serial.println();
     Serial.println();
-    delay(500);    
+    delay(50);    
 }

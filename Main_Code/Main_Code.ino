@@ -11,6 +11,11 @@ int middle_pin = A2; int middle = 0;
 Adafruit_MPU6050 mpu;
 Adafruit_Sensor *mpu_accel, *mpu_gyro;
 
+//Mouse.h variables
+int range = 12;
+int response-delay = 2;
+int axis[] = {accel.acceleration.x, accel.acceleration.z}
+
 void setup(void) {
   Serial.begin(74880);
   while (!Serial)

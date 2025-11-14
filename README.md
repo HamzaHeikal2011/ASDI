@@ -1,6 +1,6 @@
 # ASDI
 
-This repo is dedicated to all the code of my project, ASDI (Adptive Smart Device Input).
+This repo is dedicated to all the code of my project, ASDI (Adaptive Smart Device Input).
 
 ## Components
 - HID Compatible Arduino (Check At: https://docs.arduino.cc/language-reference/en/functions/usb/Mouse/)

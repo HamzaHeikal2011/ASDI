@@ -11,6 +11,14 @@ int middle_pin = A2; int middle = 0;
 Adafruit_MPU6050 mpu;
 Adafruit_Sensor *mpu_accel, *mpu_gyro;
 
+<<<<<<< HEAD
+=======
+sensors_event_t accel;
+sensors_event_t gyro;
+mpu_accel->getEvent(&accel);
+mpu_gyro->getEvent(&gyro);
+
+>>>>>>> 967d5d5 (add mouse using mouse.h functionality)
 //Mouse.h variables
 
 const int x-axis = accel.acceleration.x

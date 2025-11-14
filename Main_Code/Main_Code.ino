@@ -1,5 +1,5 @@
 #include <Adafruit_MPU6050.h>
-#include <mouse.h>
+#include <Mouse.h>
 
 // Added potentiometer control (Finger position readers)
 int thumb_pin = A0; int thumb = 0;
@@ -11,19 +11,23 @@ int middle_pin = A2; int middle = 0;
 Adafruit_MPU6050 mpu;
 Adafruit_Sensor *mpu_accel, *mpu_gyro;
 
-//Mouse.h variables
+sensors_event_t accel;
+sensors_event_t gyro;
+mpu_accel -> getEvent(&accel);
+mpu_gyro -> getEvent(&gyro);
 
-const int x-axis = accel.acceleration.x
-const int y-axis = accel.acceleration.y
+//Mouse.h variables
+const int x_axis = accel.acceleration.x;
+const int y_axis = accel.acceleration.y;
 
 int range = 12;
-int response-delay = 2;
+int response_delay = 2;
 int threshold = range / 4;
 int center = range / 2;
 int minima[] = {1023, 1023};
 int maxima[] = {0, 0};
-int axis[] = {x-axis, y-axis};
-int mouse-reading[2];
+int axis[] = {x_axis, y_axis};
+int mouse_reading[2];
 
 void setup(void) {
   Serial.begin(74880);
@@ -39,12 +43,12 @@ void setup(void) {
   }
 
   Serial.println("MPU6050 Found!");
-  Mouse.begin();
   mpu_accel = mpu.getAccelerometerSensor();
   mpu_accel->printSensorDetails();
 
   mpu_gyro = mpu.getGyroSensor();
   mpu_gyro->printSensorDetails();
+  Mouse.begin();
 }
 
 
@@ -56,18 +60,19 @@ void update_fingers() {
   // pinkie = analogRead(pinkie_pin);
 }
 
+
 void loop() {
     update_fingers();
 
   // Read and scale X & Y
-    int x-reading = read-axis(0);
-    int y-reading = read-axis(1);
-  
+    int x_reading = readAxis(0);
+    int y_reading = readAxis(1);
+ 
   // Move Mouse
-    Mouse.move(x-reading, y-reading, 0);
-    delay(response-delay)
+    Mouse.move(x_reading, y_reading, 0);
+    delay(response_delay);
 
-  //Get a new normalized sensor event
+  //Get a new normalized sensor event;
     sensors_event_t accel;
     sensors_event_t gyro;
     mpu_accel->getEvent(&accel);

@@ -13,8 +13,8 @@ Adafruit_Sensor *mpu_accel, *mpu_gyro;
 
 sensors_event_t accel;
 sensors_event_t gyro;
-mpu_accel -> getEvent(&accel);
-mpu_gyro -> getEvent(&gyro);
+mpu_accel->getEvent(&accel);
+mpu_gyro->getEvent(&gyro);
 
 //Mouse.h variables
 const int x_axis = accel.acceleration.x;

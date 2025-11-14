@@ -1,6 +1,6 @@
 # ASDI
 
-This repo is dedicated to all the code of my project, ASDI (Adptive Smart Device Input).
+This repo is dedicated to all the code of my project, ASDI (Adaptive Smart Device Input).
 
 ## Components
 - Arduino 

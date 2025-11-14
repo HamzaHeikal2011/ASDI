@@ -3,7 +3,7 @@
 This repo is dedicated to all the code of my project, ASDI (Adptive Smart Device Input).
 
 ## Components
-- Arduino 
+- HID Compatible Arduino (Check At: https://docs.arduino.cc/language-reference/en/functions/usb/Mouse/)
 - MPU 6050 
 - 5 potentiometers
 - Breadboard

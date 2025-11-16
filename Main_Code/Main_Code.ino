@@ -1,6 +1,7 @@
 #include <Adafruit_MPU6050.h>
 #include <mouse.h>
 
+
 // Added potentiometer control (Finger position readers)
 int thumb_pin = A0; int thumb = 0;
 int pointer_pin = A1; int pointer = 0;
@@ -11,6 +12,7 @@ int middle_pin = A2; int middle = 0;
 Adafruit_MPU6050 mpu;
 Adafruit_Sensor *mpu_accel, *mpu_gyro;
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 sensors_event_t accel;
@@ -33,6 +35,8 @@ int maxima[] = {0, 0};
 int axis[] = {x-axis, y-axis};
 int mouse-reading[2];
 
+=======
+>>>>>>> e2c7ed6 (add claude help for combining code)
 void setup(void) {
   Serial.begin(74880);
   while (!Serial)
@@ -66,6 +70,7 @@ void update_fingers() {
 
 void loop() {
     update_fingers();
+<<<<<<< HEAD
 
   // Read and scale X & Y
     int x-reading = read-axis(0);
@@ -76,8 +81,12 @@ void loop() {
     delay(response-delay)
 
   //Get a new normalized sensor event
+=======
+>>>>>>> e2c7ed6 (add claude help for combining code)
     sensors_event_t accel;
     sensors_event_t gyro;
+
+  //Get a new normalized sensor event;
     mpu_accel->getEvent(&accel);
     mpu_gyro->getEvent(&gyro);
 

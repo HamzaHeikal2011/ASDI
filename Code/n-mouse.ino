@@ -1,3 +1,4 @@
+// Old version of the code, plan accordingly
 #include <Mouse.h>
 
     const int xAxis = accel.acceleration.x;         //analog sensor for X axis

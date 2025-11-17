@@ -1,3 +1,4 @@
+// This is an old prototype of the code, use accordingly
 #include <Adafruit_MPU6050.h>
 #include <mouse.h>
 

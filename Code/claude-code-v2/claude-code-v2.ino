@@ -39,7 +39,7 @@ void setup(void) {
   while (!Serial)
     delay(10);
   
-  Serial.println("Adafruit MPU6050 Mouse Controller");
+  Serial.println("Mouse initiating");
 
   // Initialize MPU6050
   if (!mpu.begin()) {
@@ -49,7 +49,7 @@ void setup(void) {
     }
   }
 
-  Serial.println("MPU6050 Found!");
+  Serial.println("Taking over");
   mpu_accel = mpu.getAccelerometerSensor();
   mpu_accel->printSensorDetails();
 

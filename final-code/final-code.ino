@@ -12,7 +12,7 @@ int middle = 0;
 
 // MPU6050 sensor
 Adafruit_MPU6050 mpu;
-Adafruit_Sensor *mpu_accel;
+Adafruit_Sensor *mpu_accel, *mpu_gyro;
 
 // Mouse control parameters
 int range = 12;               // output range of X or Y movement
@@ -26,10 +26,10 @@ int mouseReading[2];          // final mouse readings for {x, y}
 // Orientation configuration - CHANGE THESE to fix directions
 bool invertX = false;         // Set to true to invert X axis
 bool invertY = false;         // Set to true to invert Y axis
-bool swapXY = false;          // Set to true to swap X and Y axes
+bool swapXY = true;          // Set to true to swap X and Y axes
 
 // Sensitivity multiplier (1.0 = normal, 2.0 = twice as fast, 0.5 = half speed)
-float sensitivity = 1.0;
+float sensitivity = 1.0;  // Adjust this if too fast or slow
 
 // Click detection
 bool wasClicked = false;
@@ -39,7 +39,7 @@ void setup(void) {
   while (!Serial)
     delay(10);
   
-  Serial.println("Mouse initiating");
+  Serial.println("Adafruit MPU6050 Mouse Controller");
 
   // Initialize MPU6050
   if (!mpu.begin()) {
@@ -49,9 +49,12 @@ void setup(void) {
     }
   }
 
-  Serial.println("Taking over");
+  Serial.println("MPU6050 Found!");
   mpu_accel = mpu.getAccelerometerSensor();
   mpu_accel->printSensorDetails();
+
+  mpu_gyro = mpu.getGyroSensor();
+  mpu_gyro->printSensorDetails();
 
   // Initialize Mouse
   Mouse.begin();
@@ -64,22 +67,20 @@ void update_fingers() {
 }
 
 int readAxis(float value, int axisNumber) {
+  // For gyroscope: directly scale the value
+  // Gyro values are typically -5 to +5 rad/s for normal hand movements
   int distance = 0;
   
-  // Update min/max for this axis
-  if (value < minima[axisNumber]) {
-    minima[axisNumber] = value;
-  }
-  if (value > maxima[axisNumber]) {
-    maxima[axisNumber] = value;
-  }
-
-  // Map the reading to output range
-  int reading = map(value * 10, minima[axisNumber] * 10, maxima[axisNumber] * 10, 0, range);
-
-  // If the output reading is outside the rest position threshold, use it
-  if (abs(reading - center) > threshold) {
-    distance = (reading - center);
+  // Apply a deadzone threshold (ignore small movements)
+  float deadzone = 0.1;
+  
+  if (abs(value) > deadzone) {
+    // Scale gyro value directly to mouse movement
+    distance = (int)(value * 10);  // Multiply by 10 for reasonable speed
+    
+    // Clamp to prevent too-fast movement
+    if (distance > range) distance = range;
+    if (distance < -range) distance = -range;
   }
 
   // Invert Y axis
@@ -94,15 +95,16 @@ void loop() {
   update_fingers();
   
   sensors_event_t accel;
+  sensors_event_t gyro;
 
   // Get sensor events
   mpu_accel->getEvent(&accel);
+  mpu_gyro->getEvent(&gyro);
 
   // MPU orientation: VCC forward, components on LEFT side of RIGHT hand
-  // This means: MPU Y-axis = cursor X (left/right), MPU X-axis = cursor Y (forward/back)
-  // With components on left, Y is inverted for natural right-hand movement
-  float rawX = -accel.acceleration.y;  // Move hand left/right
-  float rawY = accel.acceleration.x;   // Move hand forward/back
+  // Using gyroscope for tilt control
+  float rawX = -gyro.gyro.y;  // Tilt hand left/right
+  float rawY = gyro.gyro.x;   // Tilt hand forward/back
   
   // Apply orientation transformations
   float processedX = swapXY ? rawY : rawX;
@@ -122,13 +124,25 @@ void loop() {
   if (thumb >= 1020 && pointer >= 1020) {
     if (!wasClicked) {
       Mouse.press(MOUSE_LEFT);
+      Serial.println("CLICK!");
       wasClicked = true;
     }
   } else {
     if (wasClicked) {
       Mouse.release(MOUSE_LEFT);
+      Serial.println("RELEASE!");
       wasClicked = false;
     }
+  }
+
+  // Print sensor data every 200ms
+  if (millis() % 200 < 10) {
+    Serial.print("GYRO X:"); Serial.print(gyro.gyro.x, 3);
+    Serial.print(" Y:"); Serial.print(gyro.gyro.y, 3);
+    Serial.print(" | MOUSE X:"); Serial.print(xReading);
+    Serial.print(" Y:"); Serial.print(yReading);
+    Serial.print(" | T:"); Serial.print(thumb);
+    Serial.print(" P:"); Serial.println(pointer);
   }
   
   delay(responseDelay);

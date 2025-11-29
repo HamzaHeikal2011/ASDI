@@ -1,6 +1,7 @@
 #include <Adafruit_MPU6050.h>
 #include <Mouse.h>
 
+// NOTE: The ring and pinkie fingers have been removed from this version, add them manually
 // Finger position readers (potentiometers)
 int thumb_pin = A0; 
 int pointer_pin = A1; 

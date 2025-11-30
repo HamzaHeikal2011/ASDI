@@ -148,3 +148,5 @@ void loop() {
   
   delay(responseDelay);
 }
+
+/* NOTE: Mark this as the first bit of hamza's code and the first proper project that involves an Arduino/electronics in general

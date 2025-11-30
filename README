@@ -15,6 +15,7 @@ Readings Guide
 
 Using the standard Arduino-IDE's Serial Plotter, you'll find 6 Values labeled A through F, each representing the Accelerometer/Gyroscope's X, Y and Z values. They are sorted according to this table:
 
+-------------------------------
 |      | Gyro | Accelerometer |
 | ---- | ---- | ------------- |
 | X    | A    | D             |
@@ -31,9 +32,3 @@ The fingers, however, are much more simpler, each potentiometer sensor value bei
 - Pinkie: A5*
 
 *MANUALLY ACTIVATED (add lines relevant to those fingers and pins in the Main_Code.ino file for them to give readings)
-
-
-
-
-
-
